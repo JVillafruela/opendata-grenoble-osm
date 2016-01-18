@@ -1,0 +1,1706 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2016-01-16T19:42:02Z" areas="2015-12-18T10:35:02Z"/>
+
+  <node id="663594965" lat="45.1889543" lon="5.7380141" version="1" timestamp="2010-03-10T11:20:23Z" changeset="4088423" uid="97205" user="christouf">
+    <tag k="amenity" v="bicycle_parking"/>
+    <tag k="capacity" v="4"/>
+  </node>
+  <node id="666925943" lat="45.1859110" lon="5.7289242" version="2" timestamp="2010-03-17T10:49:40Z" changeset="4151608" uid="97205" user="christouf">
+    <tag k="amenity" v="bicycle_parking"/>
+  </node>
+  <node id="666925945" lat="45.1908289" lon="5.7182550" version="2" timestamp="2013-06-14T12:04:23Z" changeset="16549431" uid="13442" user="Damouns">
+    <tag k="amenity" v="bicycle_parking"/>
+  </node>
+  <node id="666925947" lat="45.1923102" lon="5.7273047" version="3" timestamp="2010-11-27T21:17:28Z" changeset="6473422" uid="97205" user="christouf">
+    <tag k="amenity" v="bicycle_parking"/>
+  </node>
+  <node id="666925948" lat="45.1942295" lon="5.7326306" version="1" timestamp="2010-03-15T14:51:53Z" changeset="4135079" uid="97205" user="christouf">
+    <tag k="amenity" v="bicycle_parking"/>
+  </node>
+  <node id="666925949" lat="45.1875131" lon="5.7381649" version="3" timestamp="2014-04-28T08:42:04Z" changeset="21996259" uid="685878" user="Plop76">
+    <tag k="amenity" v="bicycle_parking"/>
+    <tag k="bicycle_parking" v="stands"/>
+  </node>
+  <node id="666925950" lat="45.1889496" lon="5.7392218" version="1" timestamp="2010-03-15T14:51:53Z" changeset="4135079" uid="97205" user="christouf">
+    <tag k="amenity" v="bicycle_parking"/>
+    <tag k="covered" v="yes"/>
+  </node>
+  <node id="666939324" lat="45.1852270" lon="5.7312853" version="1" timestamp="2010-03-15T15:42:30Z" changeset="4135079" uid="97205" user="christouf">
+    <tag k="amenity" v="bicycle_parking"/>
+  </node>
+  <node id="666939326" lat="45.1866532" lon="5.7334865" version="1" timestamp="2010-03-15T15:42:30Z" changeset="4135079" uid="97205" user="christouf">
+    <tag k="access" v="private"/>
+    <tag k="amenity" v="bicycle_parking"/>
+  </node>
+  <node id="666939329" lat="45.1879813" lon="5.7207002" version="1" timestamp="2010-03-15T15:42:30Z" changeset="4135079" uid="97205" user="christouf">
+    <tag k="amenity" v="bicycle_parking"/>
+  </node>
+  <node id="666939330" lat="45.1896782" lon="5.7248412" version="1" timestamp="2010-03-15T15:42:30Z" changeset="4135079" uid="97205" user="christouf">
+    <tag k="amenity" v="bicycle_parking"/>
+  </node>
+  <node id="666939331" lat="45.1903596" lon="5.7264598" version="2" timestamp="2013-07-17T12:01:02Z" changeset="16986384" uid="13442" user="Damouns">
+    <tag k="amenity" v="bicycle_parking"/>
+    <tag k="source" v="survey"/>
+  </node>
+  <node id="666939334" lat="45.1906490" lon="5.7291123" version="2" timestamp="2015-11-24T15:12:00Z" changeset="35552671" uid="2772165" user="Grenoble38">
+    <tag k="amenity" v="bicycle_parking"/>
+  </node>
+  <node id="666939335" lat="45.1910776" lon="5.7277571" version="1" timestamp="2010-03-15T15:42:30Z" changeset="4135079" uid="97205" user="christouf">
+    <tag k="amenity" v="bicycle_parking"/>
+  </node>
+  <node id="666939337" lat="45.1872761" lon="5.7302308" version="2" timestamp="2015-01-23T20:49:55Z" changeset="28359164" uid="685878" user="Plop76">
+    <tag k="amenity" v="bicycle_parking"/>
+    <tag k="bicycle_parking" v="stands"/>
+    <tag k="capacity" v="8"/>
+  </node>
+  <node id="666939338" lat="45.1904528" lon="5.7296605" version="3" timestamp="2015-03-03T21:45:38Z" changeset="29232572" uid="49894" user="PiRK">
+    <tag k="amenity" v="bicycle_parking"/>
+    <tag k="bicycle_parking" v="stands"/>
+    <tag k="capacity" v="22"/>
+  </node>
+  <node id="666939340" lat="45.1909132" lon="5.7303537" version="2" timestamp="2014-05-20T20:10:49Z" changeset="22453605" uid="685878" user="Plop76">
+    <tag k="amenity" v="bicycle_parking"/>
+    <tag k="bicycle_parking" v="stands"/>
+    <tag k="capacity" v="12"/>
+  </node>
+  <node id="666939341" lat="45.1926016" lon="5.7298293" version="1" timestamp="2010-03-15T15:42:31Z" changeset="4135079" uid="97205" user="christouf">
+    <tag k="amenity" v="bicycle_parking"/>
+  </node>
+  <node id="666939343" lat="45.1924641" lon="5.7314300" version="1" timestamp="2010-03-15T15:42:31Z" changeset="4135079" uid="97205" user="christouf">
+    <tag k="amenity" v="bicycle_parking"/>
+  </node>
+  <node id="666939344" lat="45.1927984" lon="5.7314119" version="1" timestamp="2010-03-15T15:42:31Z" changeset="4135079" uid="97205" user="christouf">
+    <tag k="amenity" v="bicycle_parking"/>
+  </node>
+  <node id="667878155" lat="45.1856387" lon="5.7226883" version="2" timestamp="2013-05-17T04:06:01Z" changeset="16161598" uid="1151930" user="Ludovic Drouard">
+    <tag k="amenity" v="bicycle_parking"/>
+    <tag k="bicycle_parking" v="lockers"/>
+    <tag k="capacity" v="10"/>
+    <tag k="covered" v="no"/>
+  </node>
+  <node id="667878160" lat="45.1860264" lon="5.7298198" version="3" timestamp="2015-01-23T20:49:55Z" changeset="28359164" uid="685878" user="Plop76">
+    <tag k="amenity" v="bicycle_parking"/>
+    <tag k="bicycle_parking" v="stands"/>
+    <tag k="capacity" v="8"/>
+  </node>
+  <node id="667878161" lat="45.1857629" lon="5.7302826" version="2" timestamp="2015-01-23T20:49:55Z" changeset="28359164" uid="685878" user="Plop76">
+    <tag k="amenity" v="bicycle_parking"/>
+    <tag k="bicycle_parking" v="stands"/>
+    <tag k="capacity" v="4"/>
+  </node>
+  <node id="667878168" lat="45.1891661" lon="5.7224767" version="1" timestamp="2010-03-17T10:49:36Z" changeset="4151608" uid="97205" user="christouf">
+    <tag k="amenity" v="bicycle_parking"/>
+  </node>
+  <node id="667878179" lat="45.1870279" lon="5.7240197" version="1" timestamp="2010-03-17T10:49:36Z" changeset="4151608" uid="97205" user="christouf">
+    <tag k="amenity" v="bicycle_parking"/>
+  </node>
+  <node id="667878180" lat="45.1905443" lon="5.7251676" version="2" timestamp="2012-07-19T16:46:13Z" changeset="12340358" uid="362997" user="Virgile1994">
+    <tag k="amenity" v="bicycle_parking"/>
+  </node>
+  <node id="667878184" lat="45.1889257" lon="5.7310878" version="1" timestamp="2010-03-17T10:49:36Z" changeset="4151608" uid="97205" user="christouf">
+    <tag k="amenity" v="bicycle_parking"/>
+  </node>
+  <node id="667878185" lat="45.1885140" lon="5.7328528" version="3" timestamp="2014-04-30T16:31:19Z" changeset="22046492" uid="685878" user="Plop76">
+    <tag k="amenity" v="bicycle_parking"/>
+    <tag k="bicycle_parking" v="stands"/>
+    <tag k="capacity" v="18"/>
+  </node>
+  <node id="667878198" lat="45.1829484" lon="5.7364624" version="1" timestamp="2010-03-17T10:49:36Z" changeset="4151608" uid="97205" user="christouf">
+    <tag k="amenity" v="bicycle_parking"/>
+  </node>
+  <node id="667878229" lat="45.1884834" lon="5.7369280" version="1" timestamp="2010-03-17T10:49:37Z" changeset="4151608" uid="97205" user="christouf">
+    <tag k="amenity" v="bicycle_parking"/>
+  </node>
+  <node id="668097438" lat="45.1879580" lon="5.7206755" version="1" timestamp="2010-03-17T19:45:24Z" changeset="4156132" uid="1626" user="FredB">
+    <tag k="amenity" v="bicycle_parking"/>
+  </node>
+  <node id="672152308" lat="45.1891835" lon="5.7180353" version="1" timestamp="2010-03-22T14:48:19Z" changeset="4203238" uid="97205" user="christouf">
+    <tag k="amenity" v="bicycle_parking"/>
+  </node>
+  <node id="672152310" lat="45.1917913" lon="5.7381985" version="1" timestamp="2010-03-22T14:48:20Z" changeset="4203238" uid="97205" user="christouf">
+    <tag k="amenity" v="bicycle_parking"/>
+  </node>
+  <node id="672152311" lat="45.1929081" lon="5.7371061" version="1" timestamp="2010-03-22T14:48:20Z" changeset="4203238" uid="97205" user="christouf">
+    <tag k="amenity" v="bicycle_parking"/>
+  </node>
+  <node id="737204442" lat="45.1939184" lon="5.7255355" version="2" timestamp="2014-08-29T19:12:58Z" changeset="25104239" uid="685878" user="Plop76">
+    <tag k="amenity" v="bicycle_parking"/>
+    <tag k="bicycle_parking" v="stands"/>
+    <tag k="capacity" v="4"/>
+  </node>
+  <node id="787356706" lat="45.2098803" lon="5.6908248" version="1" timestamp="2010-06-24T15:20:49Z" changeset="5066836" uid="45284" user="Eric S">
+    <tag k="amenity" v="bicycle_parking"/>
+  </node>
+  <node id="787356711" lat="45.2100617" lon="5.6882499" version="1" timestamp="2010-06-24T15:20:49Z" changeset="5066836" uid="45284" user="Eric S">
+    <tag k="amenity" v="bicycle_parking"/>
+  </node>
+  <node id="787356715" lat="45.2092359" lon="5.6875418" version="1" timestamp="2010-06-24T15:20:49Z" changeset="5066836" uid="45284" user="Eric S">
+    <tag k="amenity" v="bicycle_parking"/>
+  </node>
+  <node id="787356718" lat="45.2083024" lon="5.6877269" version="1" timestamp="2010-06-24T15:20:49Z" changeset="5066836" uid="45284" user="Eric S">
+    <tag k="amenity" v="bicycle_parking"/>
+  </node>
+  <node id="793244083" lat="45.2057172" lon="5.6954412" version="1" timestamp="2010-06-27T18:21:20Z" changeset="5091727" uid="45284" user="Eric S">
+    <tag k="amenity" v="bicycle_parking"/>
+    <tag k="source" v="cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010"/>
+  </node>
+  <node id="793244094" lat="45.2071352" lon="5.6934176" version="1" timestamp="2010-06-27T18:21:20Z" changeset="5091727" uid="45284" user="Eric S">
+    <tag k="amenity" v="bicycle_parking"/>
+    <tag k="source" v="cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010"/>
+  </node>
+  <node id="793244101" lat="45.2067440" lon="5.6932164" version="1" timestamp="2010-06-27T18:21:20Z" changeset="5091727" uid="45284" user="Eric S">
+    <tag k="amenity" v="bicycle_parking"/>
+    <tag k="source" v="cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010"/>
+  </node>
+  <node id="951935318" lat="45.1949340" lon="5.7286915" version="2" timestamp="2014-08-29T19:12:58Z" changeset="25104239" uid="685878" user="Plop76">
+    <tag k="amenity" v="bicycle_parking"/>
+    <tag k="bicycle_parking" v="stands"/>
+    <tag k="capacity" v="16"/>
+  </node>
+  <node id="951935417" lat="45.1952188" lon="5.7289164" version="2" timestamp="2014-08-29T19:12:58Z" changeset="25104239" uid="685878" user="Plop76">
+    <tag k="amenity" v="bicycle_parking"/>
+    <tag k="bicycle_parking" v="stands"/>
+    <tag k="capacity" v="8"/>
+  </node>
+  <node id="957256795" lat="45.1960146" lon="5.7242218" version="2" timestamp="2012-09-26T21:24:56Z" changeset="13265241" uid="87429" user="k4r573n">
+    <tag k="amenity" v="bicycle_parking"/>
+    <tag k="covered" v="yes"/>
+    <tag k="source" v="cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010"/>
+  </node>
+  <node id="960512801" lat="45.1841776" lon="5.7236454" version="3" timestamp="2014-08-09T14:54:07Z" changeset="24635558" uid="685878" user="Plop76">
+    <tag k="amenity" v="bicycle_parking"/>
+    <tag k="bicycle_parking" v="stands"/>
+    <tag k="capacity" v="10"/>
+  </node>
+  <node id="960512830" lat="45.1837096" lon="5.7241498" version="1" timestamp="2010-10-22T17:28:16Z" changeset="6138595" uid="1626" user="FredB">
+    <tag k="amenity" v="bicycle_parking"/>
+    <tag k="source" v="cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010"/>
+  </node>
+  <node id="960512837" lat="45.1830638" lon="5.7223923" version="2" timestamp="2014-09-04T12:19:22Z" changeset="25225094" uid="200426" user="gottferdom">
+    <tag k="amenity" v="bicycle_parking"/>
+    <tag k="capacity" v="20"/>
+    <tag k="source" v="cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010"/>
+  </node>
+  <node id="961867892" lat="45.1834645" lon="5.7215761" version="2" timestamp="2010-10-23T17:23:37Z" changeset="6147850" uid="1626" user="FredB">
+    <tag k="amenity" v="bicycle_parking"/>
+  </node>
+  <node id="961867896" lat="45.1837007" lon="5.7223312" version="2" timestamp="2010-10-23T17:23:37Z" changeset="6147850" uid="1626" user="FredB">
+    <tag k="amenity" v="bicycle_parking"/>
+  </node>
+  <node id="1008928681" lat="45.1922576" lon="5.7273168" version="1" timestamp="2010-11-27T21:17:15Z" changeset="6473422" uid="97205" user="christouf">
+    <tag k="amenity" v="bicycle_parking"/>
+    <tag k="source" v="cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre ; mise à jour : 2010"/>
+  </node>
+  <node id="1008928771" lat="45.1926282" lon="5.7290402" version="1" timestamp="2010-11-27T21:17:16Z" changeset="6473422" uid="97205" user="christouf">
+    <tag k="amenity" v="bicycle_parking"/>
+    <tag k="source" v="cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre ; mise à jour : 2010"/>
+  </node>
+  <node id="1008991767" lat="45.1838289" lon="5.7118068" version="1" timestamp="2010-11-27T21:42:50Z" changeset="6473674" uid="97205" user="christouf">
+    <tag k="amenity" v="bicycle_parking"/>
+    <tag k="source" v="cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre ; mise à jour : 2010"/>
+  </node>
+  <node id="1008991887" lat="45.1837779" lon="5.7105582" version="1" timestamp="2010-11-27T21:42:51Z" changeset="6473674" uid="97205" user="christouf">
+    <tag k="amenity" v="bicycle_parking"/>
+    <tag k="source" v="cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre ; mise à jour : 2010"/>
+  </node>
+  <node id="1009017140" lat="45.1888547" lon="5.7037856" version="1" timestamp="2010-11-27T21:51:59Z" changeset="6473764" uid="97205" user="christouf">
+    <tag k="amenity" v="bicycle_parking"/>
+    <tag k="source" v="cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre ; mise à jour : 2010"/>
+  </node>
+  <node id="1010648244" lat="45.1907441" lon="5.7119622" version="1" timestamp="2010-11-28T11:59:45Z" changeset="6477354" uid="97205" user="christouf">
+    <tag k="amenity" v="bicycle_parking"/>
+    <tag k="source" v="cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre ; mise à jour : 2010"/>
+  </node>
+  <node id="1013555747" lat="45.1939537" lon="5.7318872" version="1" timestamp="2010-11-30T16:02:33Z" changeset="6495410" uid="1626" user="FredB">
+    <tag k="amenity" v="bicycle_parking"/>
+    <tag k="capacity" v="8"/>
+  </node>
+  <node id="1013555751" lat="45.1932463" lon="5.7314643" version="1" timestamp="2010-11-30T16:02:33Z" changeset="6495410" uid="1626" user="FredB">
+    <tag k="amenity" v="bicycle_parking"/>
+  </node>
+  <node id="1192589804" lat="45.1570605" lon="5.7342624" version="2" timestamp="2014-08-12T11:14:00Z" changeset="24699191" uid="104657" user="DRAX">
+    <tag k="amenity" v="bicycle_parking"/>
+    <tag k="bicycle_parking" v="stands"/>
+    <tag k="capacity" v="26"/>
+    <tag k="covered" v="no"/>
+  </node>
+  <node id="1192589805" lat="45.1564174" lon="5.7343965" version="1" timestamp="2011-03-08T12:52:13Z" changeset="7493571" uid="383401" user="akeran">
+    <tag k="amenity" v="bicycle_parking"/>
+  </node>
+  <node id="1192589806" lat="45.1571210" lon="5.7335331" version="1" timestamp="2011-03-08T12:52:13Z" changeset="7493571" uid="383401" user="akeran">
+    <tag k="amenity" v="bicycle_parking"/>
+  </node>
+  <node id="1226945608" lat="45.1904417" lon="5.7191629" version="1" timestamp="2011-03-31T17:54:40Z" changeset="7728276" uid="152486" user="Batisteo">
+    <tag k="amenity" v="bicycle_parking"/>
+    <tag k="capacity" v="8"/>
+    <tag k="covered" v="no"/>
+  </node>
+  <node id="1237113209" lat="45.1670274" lon="5.7122786" version="1" timestamp="2011-04-08T11:20:09Z" changeset="7803134" uid="152486" user="Batisteo">
+    <tag k="amenity" v="bicycle_parking"/>
+    <tag k="capacity" v="4"/>
+    <tag k="covered" v="no"/>
+  </node>
+  <node id="1470781510" lat="45.2035466" lon="5.7015109" version="1" timestamp="2011-10-17T14:17:51Z" changeset="9582271" uid="517860" user="ZigZag">
+    <tag k="amenity" v="bicycle_parking"/>
+  </node>
+  <node id="1470781511" lat="45.2032140" lon="5.7019776" version="1" timestamp="2011-10-17T14:17:51Z" changeset="9582271" uid="517860" user="ZigZag">
+    <tag k="amenity" v="bicycle_parking"/>
+  </node>
+  <node id="1470788263" lat="45.1950233" lon="5.7104038" version="2" timestamp="2015-12-15T15:05:11Z" changeset="35968383" uid="3458209" user="Dounie">
+    <tag k="amenity" v="bicycle_parking"/>
+    <tag k="capacity" v="10"/>
+  </node>
+  <node id="1470788266" lat="45.1948910" lon="5.7094785" version="1" timestamp="2011-10-17T14:26:24Z" changeset="9582583" uid="517860" user="ZigZag">
+    <tag k="amenity" v="bicycle_parking"/>
+  </node>
+  <node id="1470788268" lat="45.1944600" lon="5.7101812" version="1" timestamp="2011-10-17T14:26:24Z" changeset="9582583" uid="517860" user="ZigZag">
+    <tag k="amenity" v="bicycle_parking"/>
+  </node>
+  <node id="1662713402" lat="45.1805554" lon="5.7212622" version="2" timestamp="2012-04-09T09:58:28Z" changeset="11235818" uid="531068" user="Vincèn">
+    <tag k="amenity" v="bicycle_parking"/>
+    <tag k="bicycle_parking" v="stands"/>
+    <tag k="capacity" v="4"/>
+    <tag k="name" v="Arceaux à vélos"/>
+  </node>
+  <node id="1676617548" lat="45.1805157" lon="5.7049076" version="1" timestamp="2012-03-16T08:32:16Z" changeset="10996086" uid="200426" user="gottferdom">
+    <tag k="amenity" v="bicycle_parking"/>
+    <tag k="bicycle_parking" v="stands"/>
+    <tag k="capacity" v="4"/>
+  </node>
+  <node id="1676617595" lat="45.1843194" lon="5.7237572" version="2" timestamp="2014-08-09T14:54:07Z" changeset="24635558" uid="685878" user="Plop76">
+    <tag k="amenity" v="bicycle_parking"/>
+    <tag k="bicycle_parking" v="stands"/>
+    <tag k="capacity" v="6"/>
+  </node>
+  <node id="1678479594" lat="45.1800087" lon="5.7112449" version="1" timestamp="2012-03-17T17:43:26Z" changeset="11010535" uid="200426" user="gottferdom">
+    <tag k="amenity" v="bicycle_parking"/>
+    <tag k="bicycle_parking" v="stands"/>
+    <tag k="capacity" v="8"/>
+  </node>
+  <node id="1678479603" lat="45.1803042" lon="5.7114658" version="1" timestamp="2012-03-17T17:43:27Z" changeset="11010535" uid="200426" user="gottferdom">
+    <tag k="amenity" v="bicycle_parking"/>
+    <tag k="bicycle_parking" v="stands"/>
+    <tag k="capacity" v="8"/>
+  </node>
+  <node id="1678479608" lat="45.1803079" lon="5.7116747" version="1" timestamp="2012-03-17T17:43:27Z" changeset="11010535" uid="200426" user="gottferdom">
+    <tag k="amenity" v="bicycle_parking"/>
+    <tag k="bicycle_parking" v="stands"/>
+    <tag k="capacity" v="4"/>
+  </node>
+  <node id="1678479614" lat="45.1820551" lon="5.7155361" version="2" timestamp="2012-03-27T06:36:40Z" changeset="11113047" uid="200426" user="gottferdom">
+    <tag k="amenity" v="bicycle_parking"/>
+    <tag k="bicycle_parking" v="stands"/>
+    <tag k="capacity" v="2"/>
+  </node>
+  <node id="1678479618" lat="45.1821522" lon="5.7152552" version="2" timestamp="2012-03-27T06:36:40Z" changeset="11113047" uid="200426" user="gottferdom">
+    <tag k="amenity" v="bicycle_parking"/>
+    <tag k="bicycle_parking" v="stands"/>
+    <tag k="capacity" v="6"/>
+  </node>
+  <node id="1678479622" lat="45.1827619" lon="5.7168405" version="1" timestamp="2012-03-17T17:43:27Z" changeset="11010535" uid="200426" user="gottferdom">
+    <tag k="amenity" v="bicycle_parking"/>
+    <tag k="bicycle_parking" v="stands"/>
+    <tag k="capacity" v="6"/>
+  </node>
+  <node id="1706886355" lat="45.1802270" lon="5.7209987" version="3" timestamp="2012-04-10T07:13:57Z" changeset="11248528" uid="200426" user="gottferdom">
+    <tag k="amenity" v="bicycle_parking"/>
+    <tag k="bicycle_parking" v="stands"/>
+    <tag k="capacity" v="2"/>
+  </node>
+  <node id="1708187747" lat="45.1807858" lon="5.7196835" version="3" timestamp="2015-08-22T18:59:40Z" changeset="33511654" uid="219747" user="gre_map">
+    <tag k="amenity" v="bicycle_parking"/>
+    <tag k="bicycle_parking" v="stands"/>
+    <tag k="capacity" v="8"/>
+    <tag k="description" v="Arceaux à vélos"/>
+  </node>
+  <node id="1753641713" lat="45.1862889" lon="5.7115968" version="2" timestamp="2012-05-15T06:51:06Z" changeset="11602094" uid="200426" user="gottferdom">
+    <tag k="amenity" v="bicycle_parking"/>
+    <tag k="bicycle_parking" v="stands"/>
+    <tag k="capacity" v="8"/>
+  </node>
+  <node id="1753641715" lat="45.1862956" lon="5.7112542" version="2" timestamp="2012-05-15T06:51:06Z" changeset="11602094" uid="200426" user="gottferdom">
+    <tag k="amenity" v="bicycle_parking"/>
+    <tag k="bicycle_parking" v="stands"/>
+    <tag k="capacity" v="10"/>
+  </node>
+  <node id="1755059344" lat="45.1799792" lon="5.7133654" version="1" timestamp="2012-05-16T17:20:38Z" changeset="11616122" uid="200426" user="gottferdom">
+    <tag k="amenity" v="bicycle_parking"/>
+    <tag k="bicycle_parking" v="lockers"/>
+    <tag k="covered" v="yes"/>
+    <tag k="name" v="MétrovéloBOX"/>
+    <tag k="operator" v="Métrovélo"/>
+  </node>
+  <node id="1755059349" lat="45.1799424" lon="5.7128568" version="1" timestamp="2012-05-16T17:20:38Z" changeset="11616122" uid="200426" user="gottferdom">
+    <tag k="amenity" v="bicycle_parking"/>
+    <tag k="bicycle_parking" v="stands"/>
+  </node>
+  <node id="1755059352" lat="45.1799435" lon="5.7132486" version="2" timestamp="2012-12-11T08:10:45Z" changeset="14235284" uid="704348" user="JBacc1">
+    <tag k="amenity" v="bicycle_parking"/>
+    <tag k="bicycle_parking" v="stands"/>
+    <tag k="capacity" v="22"/>
+    <tag k="covered" v="yes"/>
+  </node>
+  <node id="1755059356" lat="45.1863535" lon="5.7109543" version="1" timestamp="2012-05-16T17:20:38Z" changeset="11616122" uid="200426" user="gottferdom">
+    <tag k="amenity" v="bicycle_parking"/>
+    <tag k="bicycle_parking" v="stands"/>
+    <tag k="capacity" v="10"/>
+  </node>
+  <node id="1792976878" lat="45.1811864" lon="5.7123319" version="1" timestamp="2012-06-18T11:24:33Z" changeset="11935794" uid="706939" user="Gilles Nogues">
+    <tag k="amenity" v="bicycle_parking"/>
+    <tag k="capacity" v="8"/>
+    <tag k="covered" v="no"/>
+  </node>
+  <node id="1792976884" lat="45.1884213" lon="5.7145393" version="1" timestamp="2012-06-18T11:24:33Z" changeset="11935794" uid="706939" user="Gilles Nogues">
+    <tag k="amenity" v="bicycle_parking"/>
+    <tag k="capacity" v="4"/>
+  </node>
+  <node id="1797992437" lat="45.1853198" lon="5.7155469" version="2" timestamp="2013-11-03T17:37:17Z" changeset="18698509" uid="161202" user="colargol">
+    <tag k="amenity" v="bicycle_parking"/>
+    <tag k="bicycle_parking" v="stands"/>
+    <tag k="capacity" v="6"/>
+    <tag k="covered" v="no"/>
+  </node>
+  <node id="1797992440" lat="45.1854105" lon="5.7149247" version="2" timestamp="2013-11-03T17:37:17Z" changeset="18698509" uid="161202" user="colargol">
+    <tag k="amenity" v="bicycle_parking"/>
+    <tag k="bicycle_parking" v="stands"/>
+    <tag k="capacity" v="6"/>
+    <tag k="covered" v="no"/>
+  </node>
+  <node id="1797992443" lat="45.1803249" lon="5.7123283" version="1" timestamp="2012-06-22T09:17:53Z" changeset="11976698" uid="706939" user="Gilles Nogues">
+    <tag k="amenity" v="bicycle_parking"/>
+    <tag k="capacity" v="6"/>
+    <tag k="covered" v="no"/>
+  </node>
+  <node id="1797992445" lat="45.1858594" lon="5.7167392" version="2" timestamp="2012-07-03T11:55:06Z" changeset="12099300" uid="704348" user="JBacc1">
+    <tag k="amenity" v="bicycle_parking"/>
+    <tag k="capacity" v="6"/>
+    <tag k="covered" v="yes"/>
+  </node>
+  <node id="1797992448" lat="45.1914861" lon="5.7128164" version="1" timestamp="2012-06-22T09:17:53Z" changeset="11976698" uid="706939" user="Gilles Nogues">
+    <tag k="amenity" v="bicycle_parking"/>
+    <tag k="capacity" v="20"/>
+    <tag k="covered" v="yes"/>
+  </node>
+  <node id="1797992450" lat="45.1913803" lon="5.7115719" version="1" timestamp="2012-06-22T09:17:53Z" changeset="11976698" uid="706939" user="Gilles Nogues">
+    <tag k="amenity" v="bicycle_parking"/>
+    <tag k="capacity" v="20"/>
+    <tag k="covered" v="no"/>
+  </node>
+  <node id="1811177481" lat="45.1857926" lon="5.7165930" version="1" timestamp="2012-07-03T11:55:06Z" changeset="12099300" uid="704348" user="JBacc1">
+    <tag k="amenity" v="bicycle_parking"/>
+    <tag k="capacity" v="8"/>
+    <tag k="covered" v="no"/>
+  </node>
+  <node id="1814591277" lat="45.1839292" lon="5.7321490" version="1" timestamp="2012-07-06T07:58:51Z" changeset="12127522" uid="704348" user="JBacc1">
+    <tag k="amenity" v="bicycle_parking"/>
+    <tag k="bicycle_parking" v="stands"/>
+    <tag k="capacity" v="6"/>
+    <tag k="covered" v="no"/>
+  </node>
+  <node id="1903697604" lat="45.1754253" lon="5.7094065" version="2" timestamp="2013-11-09T19:39:10Z" changeset="18804780" uid="161202" user="colargol">
+    <tag k="amenity" v="bicycle_parking"/>
+    <tag k="bicycle_parking" v="stands"/>
+    <tag k="capacity" v="8"/>
+  </node>
+  <node id="1939339897" lat="45.1804369" lon="5.7153535" version="1" timestamp="2012-09-30T08:17:17Z" changeset="13305777" uid="748485" user="Tom42">
+    <tag k="amenity" v="bicycle_parking"/>
+    <tag k="capacity" v="4"/>
+    <tag k="covered" v="no"/>
+  </node>
+  <node id="1939339900" lat="45.1805428" lon="5.7154822" version="1" timestamp="2012-09-30T08:17:17Z" changeset="13305777" uid="748485" user="Tom42">
+    <tag k="amenity" v="bicycle_parking"/>
+    <tag k="capacity" v="6"/>
+    <tag k="covered" v="no"/>
+  </node>
+  <node id="1942784266" lat="45.1884814" lon="5.7230391" version="1" timestamp="2012-10-02T15:01:58Z" changeset="13335581" uid="362997" user="Virgile1994">
+    <tag k="amenity" v="bicycle_parking"/>
+  </node>
+  <node id="2006338424" lat="45.1883057" lon="5.7127241" version="1" timestamp="2012-11-10T14:06:25Z" changeset="13821156" uid="161202" user="colargol">
+    <tag k="amenity" v="bicycle_parking"/>
+    <tag k="bicycle_parking" v="stands"/>
+    <tag k="capacity" v="4"/>
+  </node>
+  <node id="2018206367" lat="45.1854436" lon="5.7442709" version="1" timestamp="2012-11-17T14:46:07Z" changeset="13906248" uid="748485" user="Tom42">
+    <tag k="amenity" v="bicycle_parking"/>
+    <tag k="capacity" v="8"/>
+    <tag k="covered" v="no"/>
+  </node>
+  <node id="2256092672" lat="45.1844324" lon="5.7037159" version="2" timestamp="2014-08-12T10:02:09Z" changeset="24698021" uid="104657" user="DRAX">
+    <tag k="amenity" v="bicycle_parking"/>
+    <tag k="bicycle_parking" v="stands"/>
+    <tag k="capacity" v="20"/>
+    <tag k="covered" v="yes"/>
+  </node>
+  <node id="2257977782" lat="45.1924737" lon="5.7226498" version="2" timestamp="2013-07-17T14:30:00Z" changeset="16987953" uid="1477611" user="fefer">
+    <tag k="amenity" v="bicycle_parking"/>
+    <tag k="bicycle_parking" v="stands"/>
+    <tag k="capacity" v="6"/>
+    <tag k="covered" v="no"/>
+  </node>
+  <node id="2260815054" lat="45.1834378" lon="5.7043664" version="2" timestamp="2014-08-12T10:02:09Z" changeset="24698021" uid="104657" user="DRAX">
+    <tag k="access" v="permissive"/>
+    <tag k="amenity" v="bicycle_parking"/>
+    <tag k="bicycle_parking" v="stands"/>
+    <tag k="capacity" v="6"/>
+    <tag k="covered" v="no"/>
+  </node>
+  <node id="2260815057" lat="45.1834779" lon="5.7036852" version="1" timestamp="2013-04-09T22:22:45Z" changeset="15671955" uid="161202" user="colargol">
+    <tag k="amenity" v="bicycle_parking"/>
+    <tag k="bicycle_parking" v="stands"/>
+    <tag k="capacity" v="16"/>
+  </node>
+  <node id="2260815058" lat="45.1834805" lon="5.7035359" version="2" timestamp="2014-08-12T10:02:09Z" changeset="24698021" uid="104657" user="DRAX">
+    <tag k="access" v="permissive"/>
+    <tag k="amenity" v="bicycle_parking"/>
+    <tag k="bicycle_parking" v="stands"/>
+    <tag k="capacity" v="14"/>
+    <tag k="covered" v="yes"/>
+  </node>
+  <node id="2260815079" lat="45.1844324" lon="5.7035391" version="2" timestamp="2014-08-12T10:02:09Z" changeset="24698021" uid="104657" user="DRAX">
+    <tag k="amenity" v="bicycle_parking"/>
+    <tag k="bicycle_parking" v="stands"/>
+    <tag k="capacity" v="10"/>
+  </node>
+  <node id="2260815123" lat="45.1860530" lon="5.7046820" version="1" timestamp="2013-04-09T22:22:47Z" changeset="15671955" uid="161202" user="colargol">
+    <tag k="amenity" v="bicycle_parking"/>
+    <tag k="bicycle_parking" v="stands"/>
+    <tag k="capacity" v="10"/>
+  </node>
+  <node id="2265744591" lat="45.1862698" lon="5.7046831" version="1" timestamp="2013-04-13T10:55:43Z" changeset="15711278" uid="531068" user="Vincèn">
+    <tag k="amenity" v="bicycle_parking"/>
+  </node>
+  <node id="2279457673" lat="45.1796095" lon="5.7052260" version="1" timestamp="2013-04-24T12:04:21Z" changeset="15848151" uid="13276" user="Pierre Mauduit">
+    <tag k="amenity" v="bicycle_parking"/>
+  </node>
+  <node id="2279457678" lat="45.1796198" lon="5.7052254" version="1" timestamp="2013-04-24T12:04:21Z" changeset="15848151" uid="13276" user="Pierre Mauduit">
+    <tag k="amenity" v="bicycle_parking"/>
+  </node>
+  <node id="2279457680" lat="45.1796314" lon="5.7052260" version="1" timestamp="2013-04-24T12:04:21Z" changeset="15848151" uid="13276" user="Pierre Mauduit">
+    <tag k="amenity" v="bicycle_parking"/>
+  </node>
+  <node id="2279457719" lat="45.1797245" lon="5.7052228" version="1" timestamp="2013-04-24T12:04:22Z" changeset="15848151" uid="13276" user="Pierre Mauduit">
+    <tag k="amenity" v="bicycle_parking"/>
+  </node>
+  <node id="2279457723" lat="45.1797357" lon="5.7052222" version="1" timestamp="2013-04-24T12:04:22Z" changeset="15848151" uid="13276" user="Pierre Mauduit">
+    <tag k="amenity" v="bicycle_parking"/>
+  </node>
+  <node id="2322091332" lat="45.1936870" lon="5.7371566" version="1" timestamp="2013-05-27T16:23:23Z" changeset="16312046" uid="51308" user="Gall">
+    <tag k="amenity" v="bicycle_parking"/>
+  </node>
+  <node id="2327975275" lat="45.1568019" lon="5.7341880" version="1" timestamp="2013-06-01T10:51:30Z" changeset="16376043" uid="362997" user="Virgile1994">
+    <tag k="amenity" v="bicycle_parking"/>
+    <tag k="bicycle_parking" v="lockers"/>
+    <tag k="capacity" v="6"/>
+    <tag k="name" v="Alpexpo"/>
+    <tag k="network" v="MétroVéloBox"/>
+    <tag k="operator" v="Semitag"/>
+    <tag k="ref" v="AB"/>
+  </node>
+  <node id="2327975292" lat="45.1952272" lon="5.7109678" version="1" timestamp="2013-06-01T10:51:30Z" changeset="16376043" uid="362997" user="Virgile1994">
+    <tag k="amenity" v="bicycle_parking"/>
+    <tag k="bicycle_parking" v="lockers"/>
+    <tag k="capacity" v="6"/>
+    <tag k="name" v="Cité Internationale"/>
+    <tag k="network" v="MétroVéloBox"/>
+    <tag k="operator" v="Semitag"/>
+    <tag k="ref" v="AA"/>
+  </node>
+  <node id="2327975344" lat="45.1732701" lon="5.7316947" version="1" timestamp="2013-06-01T10:51:32Z" changeset="16376043" uid="362997" user="Virgile1994">
+    <tag k="amenity" v="bicycle_parking"/>
+    <tag k="bicycle_parking" v="lockers"/>
+    <tag k="capacity" v="6"/>
+    <tag k="name" v="MC2 Maison Culture"/>
+    <tag k="network" v="MétroVéloBox"/>
+    <tag k="operator" v="Semitag"/>
+    <tag k="ref" v="AT"/>
+  </node>
+  <node id="2327975367" lat="45.1808251" lon="5.7045029" version="2" timestamp="2013-06-01T13:06:10Z" changeset="16377339" uid="362997" user="Virgile1994">
+    <tag k="amenity" v="bicycle_parking"/>
+    <tag k="bicycle_parking" v="shed"/>
+    <tag k="capacity" v="10"/>
+    <tag k="name" v="P+R Vallier-Catane"/>
+    <tag k="park_ride" v="yes"/>
+  </node>
+  <node id="2327975374" lat="45.1994385" lon="5.7331131" version="1" timestamp="2013-06-01T10:51:34Z" changeset="16376043" uid="362997" user="Virgile1994">
+    <tag k="amenity" v="bicycle_parking"/>
+    <tag k="bicycle_parking" v="lockers"/>
+    <tag k="capacity" v="10"/>
+    <tag k="name" v="Petite Tronche"/>
+    <tag k="network" v="MétroVéloBox"/>
+    <tag k="operator" v="Semitag"/>
+    <tag k="ref" v="AE"/>
+  </node>
+  <node id="2334740731" lat="45.1891071" lon="5.7157982" version="2" timestamp="2016-01-03T17:23:35Z" changeset="36343020" uid="362997" user="Virgile1994">
+    <tag k="amenity" v="bicycle_parking"/>
+    <tag k="bicycle_parking" v="shed"/>
+  </node>
+  <node id="2389428146" lat="45.1909011" lon="5.7282053" version="1" timestamp="2013-07-19T11:41:07Z" changeset="17010886" uid="13442" user="Damouns">
+    <tag k="amenity" v="bicycle_parking"/>
+    <tag k="source" v="survey"/>
+  </node>
+  <node id="2409211747" lat="45.1764528" lon="5.7223310" version="1" timestamp="2013-08-06T19:51:22Z" changeset="17246116" uid="161202" user="colargol">
+    <tag k="amenity" v="bicycle_parking"/>
+    <tag k="bicycle_parking" v="stands"/>
+    <tag k="capacity" v="16"/>
+  </node>
+  <node id="2435592251" lat="45.1930433" lon="5.7273182" version="1" timestamp="2013-08-28T18:51:12Z" changeset="17559945" uid="13442" user="Damouns">
+    <tag k="amenity" v="bicycle_parking"/>
+    <tag k="source" v="survey"/>
+  </node>
+  <node id="2435592252" lat="45.1930449" lon="5.7277110" version="1" timestamp="2013-08-28T18:51:12Z" changeset="17559945" uid="13442" user="Damouns">
+    <tag k="amenity" v="bicycle_parking"/>
+    <tag k="source" v="survey"/>
+  </node>
+  <node id="2439068432" lat="45.1969970" lon="5.7369117" version="1" timestamp="2013-08-30T12:49:31Z" changeset="17588747" uid="148831" user="chimel38">
+    <tag k="amenity" v="bicycle_parking"/>
+    <tag k="bicycle_parking" v="anchors"/>
+  </node>
+  <node id="2439068437" lat="45.1976323" lon="5.7401734" version="1" timestamp="2013-08-30T12:49:32Z" changeset="17588747" uid="148831" user="chimel38">
+    <tag k="amenity" v="bicycle_parking"/>
+    <tag k="bicycle_parking" v="anchors"/>
+    <tag k="capacity" v="6"/>
+  </node>
+  <node id="2463584710" lat="45.1854473" lon="5.7056324" version="1" timestamp="2013-09-19T07:29:52Z" changeset="17917686" uid="200426" user="gottferdom">
+    <tag k="amenity" v="bicycle_parking"/>
+    <tag k="bicycle_parking" v="stands"/>
+    <tag k="capacity" v="18"/>
+  </node>
+  <node id="2463584711" lat="45.1855898" lon="5.7058001" version="1" timestamp="2013-09-19T07:29:52Z" changeset="17917686" uid="200426" user="gottferdom">
+    <tag k="amenity" v="bicycle_parking"/>
+    <tag k="bicycle_parking" v="stands"/>
+    <tag k="capacity" v="6"/>
+  </node>
+  <node id="2495586622" lat="45.1847599" lon="5.7058349" version="1" timestamp="2013-10-13T21:57:43Z" changeset="18341274" uid="161202" user="colargol">
+    <tag k="amenity" v="bicycle_parking"/>
+    <tag k="bicycle_parking" v="stands"/>
+    <tag k="capacity" v="6"/>
+  </node>
+  <node id="2495586627" lat="45.1848096" lon="5.7145827" version="1" timestamp="2013-10-13T21:57:43Z" changeset="18341274" uid="161202" user="colargol">
+    <tag k="amenity" v="bicycle_parking"/>
+    <tag k="bicycle_parking" v="stands"/>
+    <tag k="capacity" v="4"/>
+  </node>
+  <node id="2495586649" lat="45.1848195" lon="5.7147598" version="1" timestamp="2013-10-13T21:57:43Z" changeset="18341274" uid="161202" user="colargol">
+    <tag k="amenity" v="bicycle_parking"/>
+    <tag k="bicycle_parking" v="stands"/>
+    <tag k="capacity" v="6"/>
+  </node>
+  <node id="2495586664" lat="45.1850716" lon="5.7120783" version="1" timestamp="2013-10-13T21:57:43Z" changeset="18341274" uid="161202" user="colargol">
+    <tag k="amenity" v="bicycle_parking"/>
+    <tag k="bicycle_parking" v="stands"/>
+    <tag k="capacity" v="4"/>
+  </node>
+  <node id="2495586843" lat="45.1882963" lon="5.7048848" version="1" timestamp="2013-10-13T21:57:47Z" changeset="18341274" uid="161202" user="colargol">
+    <tag k="amenity" v="bicycle_parking"/>
+  </node>
+  <node id="2495586847" lat="45.1883257" lon="5.7149826" version="1" timestamp="2013-10-13T21:57:47Z" changeset="18341274" uid="161202" user="colargol">
+    <tag k="amenity" v="bicycle_parking"/>
+    <tag k="capacity" v="12"/>
+  </node>
+  <node id="2495586863" lat="45.1884922" lon="5.7065190" version="1" timestamp="2013-10-13T21:57:47Z" changeset="18341274" uid="161202" user="colargol">
+    <tag k="amenity" v="bicycle_parking"/>
+    <tag k="bicycle_parking" v="stands"/>
+    <tag k="capacity" v="6"/>
+  </node>
+  <node id="2495586870" lat="45.1885643" lon="5.7066055" version="1" timestamp="2013-10-13T21:57:47Z" changeset="18341274" uid="161202" user="colargol">
+    <tag k="amenity" v="bicycle_parking"/>
+    <tag k="bicycle_parking" v="stands"/>
+    <tag k="capacity" v="12"/>
+  </node>
+  <node id="2516121902" lat="45.1976781" lon="5.7317552" version="3" timestamp="2015-05-16T17:06:09Z" changeset="31205859" uid="685878" user="Plop76">
+    <tag k="amenity" v="bicycle_parking"/>
+    <tag k="bicycle_parking" v="stands"/>
+  </node>
+  <node id="2516121905" lat="45.1977156" lon="5.7323517" version="1" timestamp="2013-11-01T12:07:34Z" changeset="18650363" uid="362997" user="Virgile1994">
+    <tag k="amenity" v="bicycle_parking"/>
+  </node>
+  <node id="2518932622" lat="45.1804104" lon="5.7130087" version="1" timestamp="2013-11-03T17:37:11Z" changeset="18698509" uid="161202" user="colargol">
+    <tag k="amenity" v="bicycle_parking"/>
+    <tag k="bicycle_parking" v="stands"/>
+    <tag k="capacity" v="6"/>
+    <tag k="source" v="cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2013"/>
+  </node>
+  <node id="2571998364" lat="45.1870179" lon="5.7138652" version="1" timestamp="2013-12-08T20:02:43Z" changeset="19347296" uid="161202" user="colargol">
+    <tag k="amenity" v="bicycle_parking"/>
+    <tag k="bicycle_parking" v="stands"/>
+    <tag k="capacity" v="14"/>
+  </node>
+  <node id="2571998377" lat="45.1872086" lon="5.7125572" version="1" timestamp="2013-12-08T20:02:44Z" changeset="19347296" uid="161202" user="colargol">
+    <tag k="amenity" v="bicycle_parking"/>
+    <tag k="bicycle_parking" v="stands"/>
+    <tag k="capacity" v="6"/>
+  </node>
+  <node id="2571998422" lat="45.1901021" lon="5.7100543" version="1" timestamp="2013-12-08T20:02:44Z" changeset="19347296" uid="161202" user="colargol">
+    <tag k="amenity" v="bicycle_parking"/>
+    <tag k="bicycle_parking" v="stands"/>
+    <tag k="capacity" v="10"/>
+  </node>
+  <node id="2571998462" lat="45.1909482" lon="5.7096823" version="1" timestamp="2013-12-08T20:02:45Z" changeset="19347296" uid="161202" user="colargol">
+    <tag k="amenity" v="bicycle_parking"/>
+    <tag k="bicycle_parking" v="stands"/>
+    <tag k="capacity" v="4"/>
+  </node>
+  <node id="2588439592" lat="45.1860019" lon="5.7169847" version="1" timestamp="2013-12-20T22:07:56Z" changeset="19557731" uid="183173" user="Dof">
+    <tag k="amenity" v="bicycle_parking"/>
+  </node>
+  <node id="2588439593" lat="45.1864470" lon="5.7167435" version="1" timestamp="2013-12-20T22:07:56Z" changeset="19557731" uid="183173" user="Dof">
+    <tag k="amenity" v="bicycle_parking"/>
+  </node>
+  <node id="2618806240" lat="45.1875001" lon="5.7110725" version="1" timestamp="2014-01-11T17:30:28Z" changeset="19938786" uid="161202" user="colargol">
+    <tag k="amenity" v="bicycle_parking"/>
+    <tag k="bicycle_parking" v="stands"/>
+    <tag k="capacity" v="6"/>
+  </node>
+  <node id="2618806284" lat="45.1922752" lon="5.7099175" version="2" timestamp="2014-02-01T17:53:59Z" changeset="20320790" uid="203366" user="TomC14">
+    <tag k="amenity" v="bicycle_parking"/>
+    <tag k="bicycle_parking" v="stands"/>
+    <tag k="capacity" v="2"/>
+  </node>
+  <node id="2618806288" lat="45.1926093" lon="5.7094943" version="1" timestamp="2014-01-11T17:30:30Z" changeset="19938786" uid="161202" user="colargol">
+    <tag k="amenity" v="bicycle_parking"/>
+    <tag k="bicycle_parking" v="stands"/>
+    <tag k="capacity" v="2"/>
+  </node>
+  <node id="2618806297" lat="45.1932300" lon="5.7091060" version="1" timestamp="2014-01-11T17:30:31Z" changeset="19938786" uid="161202" user="colargol">
+    <tag k="amenity" v="bicycle_parking"/>
+    <tag k="bicycle_parking" v="stands"/>
+    <tag k="capacity" v="6"/>
+  </node>
+  <node id="2618806299" lat="45.1935175" lon="5.7118805" version="3" timestamp="2015-11-15T14:13:35Z" changeset="35328690" uid="1418137" user="Test360">
+    <tag k="amenity" v="bicycle_parking"/>
+    <tag k="capacity" v="8"/>
+  </node>
+  <node id="2618806301" lat="45.1935300" lon="5.7120187" version="2" timestamp="2015-11-15T14:13:36Z" changeset="35328690" uid="1418137" user="Test360">
+    <tag k="amenity" v="bicycle_parking"/>
+    <tag k="capacity" v="8"/>
+  </node>
+  <node id="2618806305" lat="45.1937843" lon="5.7119379" version="1" timestamp="2014-01-11T17:30:32Z" changeset="19938786" uid="161202" user="colargol">
+    <tag k="amenity" v="bicycle_parking"/>
+    <tag k="bicycle_parking" v="stands"/>
+    <tag k="capacity" v="6"/>
+  </node>
+  <node id="2618806307" lat="45.1953440" lon="5.7114079" version="1" timestamp="2014-01-11T17:30:32Z" changeset="19938786" uid="161202" user="colargol">
+    <tag k="amenity" v="bicycle_parking"/>
+    <tag k="bicycle_parking" v="stands"/>
+    <tag k="capacity" v="6"/>
+  </node>
+  <node id="2650434236" lat="45.1799409" lon="5.7487072" version="1" timestamp="2014-02-02T19:03:08Z" changeset="20340113" uid="45284" user="Eric S">
+    <tag k="amenity" v="bicycle_parking"/>
+  </node>
+  <node id="2650434259" lat="45.1820376" lon="5.7479923" version="1" timestamp="2014-02-02T19:03:09Z" changeset="20340113" uid="45284" user="Eric S">
+    <tag k="amenity" v="bicycle_parking"/>
+  </node>
+  <node id="2673359368" lat="45.2014278" lon="5.7340323" version="1" timestamp="2014-02-15T19:33:05Z" changeset="20583517" uid="161202" user="colargol">
+    <tag k="amenity" v="bicycle_parking"/>
+    <tag k="bicycle_parking" v="lockers"/>
+    <tag k="capacity" v="10"/>
+    <tag k="name" v="Métro vélo BOX"/>
+  </node>
+  <node id="2673359377" lat="45.1986532" lon="5.7326653" version="1" timestamp="2014-02-15T19:33:06Z" changeset="20583517" uid="161202" user="colargol">
+    <tag k="amenity" v="bicycle_parking"/>
+    <tag k="bicycle_parking" v="stands"/>
+    <tag k="capacity" v="4"/>
+  </node>
+  <node id="2688232254" lat="45.2076786" lon="5.6922896" version="1" timestamp="2014-02-24T10:56:10Z" changeset="20748369" uid="45284" user="Eric S">
+    <tag k="amenity" v="bicycle_parking"/>
+  </node>
+  <node id="2706040931" lat="45.1893527" lon="5.7327569" version="1" timestamp="2014-03-07T20:38:25Z" changeset="20977191" uid="685878" user="Plop76">
+    <tag k="amenity" v="bicycle_parking"/>
+    <tag k="bicycle_parking" v="stands"/>
+    <tag k="capacity" v="8"/>
+  </node>
+  <node id="2706073655" lat="45.1881866" lon="5.7045414" version="1" timestamp="2014-03-07T21:14:19Z" changeset="20977858" uid="161202" user="colargol">
+    <tag k="amenity" v="bicycle_parking"/>
+    <tag k="bicycle_parking" v="stands"/>
+    <tag k="capacity" v="12"/>
+    <tag k="covered" v="yes"/>
+  </node>
+  <node id="2761812789" lat="45.1817343" lon="5.7448820" version="1" timestamp="2014-04-02T18:43:33Z" changeset="21463511" uid="685878" user="Plop76">
+    <tag k="amenity" v="bicycle_parking"/>
+    <tag k="bicycle_parking" v="stands"/>
+  </node>
+  <node id="2795781293" lat="45.1963760" lon="5.7379120" version="1" timestamp="2014-04-17T06:49:09Z" changeset="21743346" uid="148831" user="chimel38">
+    <tag k="amenity" v="bicycle_parking"/>
+    <tag k="bicycle_parking" v="anchors"/>
+    <tag k="capacity" v="3"/>
+    <tag k="source" v="cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre ; mise à jour :2012"/>
+  </node>
+  <node id="2871158015" lat="45.1815292" lon="5.7228768" version="1" timestamp="2014-05-20T20:10:41Z" changeset="22453605" uid="685878" user="Plop76">
+    <tag k="amenity" v="bicycle_parking"/>
+    <tag k="bicycle_parking" v="stands"/>
+    <tag k="capacity" v="6"/>
+  </node>
+  <node id="2871158026" lat="45.1892798" lon="5.7297549" version="1" timestamp="2014-05-20T20:10:42Z" changeset="22453605" uid="685878" user="Plop76">
+    <tag k="amenity" v="bicycle_parking"/>
+    <tag k="bicycle_parking" v="stands"/>
+    <tag k="capacity" v="18"/>
+  </node>
+  <node id="2871158028" lat="45.1894166" lon="5.7296623" version="1" timestamp="2014-05-20T20:10:42Z" changeset="22453605" uid="685878" user="Plop76">
+    <tag k="amenity" v="bicycle_parking"/>
+    <tag k="bicycle_parking" v="stands"/>
+  </node>
+  <node id="2871158064" lat="45.1908188" lon="5.7303545" version="1" timestamp="2014-05-20T20:10:42Z" changeset="22453605" uid="685878" user="Plop76">
+    <tag k="amenity" v="bicycle_parking"/>
+    <tag k="bicycle_parking" v="stands"/>
+    <tag k="capacity" v="24"/>
+  </node>
+  <node id="2871213589" lat="45.1903261" lon="5.7303505" version="1" timestamp="2014-05-20T20:37:36Z" changeset="22453605" uid="685878" user="Plop76">
+    <tag k="amenity" v="bicycle_parking"/>
+    <tag k="bicycle_parking" v="stands"/>
+    <tag k="capacity" v="6"/>
+  </node>
+  <node id="2871213590" lat="45.1904498" lon="5.7303512" version="1" timestamp="2014-05-20T20:37:36Z" changeset="22453605" uid="685878" user="Plop76">
+    <tag k="amenity" v="bicycle_parking"/>
+    <tag k="bicycle_parking" v="stands"/>
+    <tag k="capacity" v="6"/>
+  </node>
+  <node id="2876574207" lat="45.1886340" lon="5.7346466" version="1" timestamp="2014-05-23T18:05:01Z" changeset="22510145" uid="685878" user="Plop76">
+    <tag k="amenity" v="bicycle_parking"/>
+    <tag k="bicycle_parking" v="stands"/>
+    <tag k="capacity" v="4"/>
+  </node>
+  <node id="2904985768" lat="45.1801418" lon="5.7152850" version="1" timestamp="2014-06-07T22:18:45Z" changeset="22800671" uid="2111730" user="palalex">
+    <tag k="amenity" v="bicycle_parking"/>
+    <tag k="covered" v="no"/>
+  </node>
+  <node id="2988435802" lat="45.1937967" lon="5.7321019" version="1" timestamp="2014-07-30T20:27:21Z" changeset="24451539" uid="161202" user="colargol">
+    <tag k="amenity" v="bicycle_parking"/>
+    <tag k="bicycle_parking" v="stands"/>
+    <tag k="capacity" v="6"/>
+  </node>
+  <node id="2988435803" lat="45.1938004" lon="5.7325790" version="1" timestamp="2014-07-30T20:27:21Z" changeset="24451539" uid="161202" user="colargol">
+    <tag k="amenity" v="bicycle_parking"/>
+    <tag k="bicycle_parking" v="stands"/>
+    <tag k="capacity" v="6"/>
+  </node>
+  <node id="2988435804" lat="45.1938141" lon="5.7326589" version="1" timestamp="2014-07-30T20:27:21Z" changeset="24451539" uid="161202" user="colargol">
+    <tag k="amenity" v="bicycle_parking"/>
+    <tag k="bicycle_parking" v="stands"/>
+    <tag k="capacity" v="8"/>
+  </node>
+  <node id="3006985382" lat="45.1828155" lon="5.7245353" version="1" timestamp="2014-08-09T14:53:43Z" changeset="24635558" uid="685878" user="Plop76">
+    <tag k="amenity" v="bicycle_parking"/>
+    <tag k="bicycle_parking" v="stands"/>
+    <tag k="capacity" v="10"/>
+  </node>
+  <node id="3006985384" lat="45.1834625" lon="5.7265375" version="1" timestamp="2014-08-09T14:53:43Z" changeset="24635558" uid="685878" user="Plop76">
+    <tag k="amenity" v="bicycle_parking"/>
+    <tag k="bicycle_parking" v="stands"/>
+    <tag k="capacity" v="20"/>
+  </node>
+  <node id="3006985400" lat="45.1842176" lon="5.7237993" version="1" timestamp="2014-08-09T14:53:43Z" changeset="24635558" uid="685878" user="Plop76">
+    <tag k="amenity" v="bicycle_parking"/>
+    <tag k="bicycle_parking" v="stands"/>
+    <tag k="capacity" v="4"/>
+  </node>
+  <node id="3006985403" lat="45.1850196" lon="5.7232605" version="1" timestamp="2014-08-09T14:53:43Z" changeset="24635558" uid="685878" user="Plop76">
+    <tag k="amenity" v="bicycle_parking"/>
+    <tag k="bicycle_parking" v="stands"/>
+    <tag k="capacity" v="10"/>
+  </node>
+  <node id="3006985404" lat="45.1850830" lon="5.7233166" version="1" timestamp="2014-08-09T14:53:44Z" changeset="24635558" uid="685878" user="Plop76">
+    <tag k="amenity" v="bicycle_parking"/>
+    <tag k="bicycle_parking" v="stands"/>
+    <tag k="capacity" v="14"/>
+  </node>
+  <node id="3012096853" lat="45.1844238" lon="5.7038786" version="1" timestamp="2014-08-12T10:02:09Z" changeset="24698021" uid="104657" user="DRAX">
+    <tag k="access" v="permissive"/>
+    <tag k="amenity" v="bicycle_parking"/>
+    <tag k="bicycle_parking" v="stands"/>
+    <tag k="capacity" v="20"/>
+    <tag k="covered" v="yes"/>
+  </node>
+  <node id="3049403728" lat="45.1937670" lon="5.7250294" version="1" timestamp="2014-08-29T19:12:49Z" changeset="25104239" uid="685878" user="Plop76">
+    <tag k="amenity" v="bicycle_parking"/>
+    <tag k="bicycle_parking" v="stands"/>
+    <tag k="capacity" v="8"/>
+  </node>
+  <node id="3049403729" lat="45.1937891" lon="5.7251593" version="1" timestamp="2014-08-29T19:12:49Z" changeset="25104239" uid="685878" user="Plop76">
+    <tag k="amenity" v="bicycle_parking"/>
+    <tag k="bicycle_parking" v="stands"/>
+    <tag k="capacity" v="4"/>
+  </node>
+  <node id="3049403732" lat="45.1939465" lon="5.7256768" version="1" timestamp="2014-08-29T19:12:49Z" changeset="25104239" uid="685878" user="Plop76">
+    <tag k="amenity" v="bicycle_parking"/>
+    <tag k="bicycle_parking" v="stands"/>
+    <tag k="capacity" v="4"/>
+  </node>
+  <node id="3049404134" lat="45.1940097" lon="5.7260070" version="1" timestamp="2014-08-29T19:12:49Z" changeset="25104239" uid="685878" user="Plop76">
+    <tag k="amenity" v="bicycle_parking"/>
+    <tag k="bicycle_parking" v="stands"/>
+    <tag k="capacity" v="6"/>
+  </node>
+  <node id="3049404136" lat="45.1942443" lon="5.7271086" version="1" timestamp="2014-08-29T19:12:49Z" changeset="25104239" uid="685878" user="Plop76">
+    <tag k="amenity" v="bicycle_parking"/>
+    <tag k="bicycle_parking" v="stands"/>
+    <tag k="capacity" v="12"/>
+  </node>
+  <node id="3049404138" lat="45.1943857" lon="5.7280482" version="1" timestamp="2014-08-29T19:12:49Z" changeset="25104239" uid="685878" user="Plop76">
+    <tag k="amenity" v="bicycle_parking"/>
+    <tag k="bicycle_parking" v="stands"/>
+    <tag k="capacity" v="28"/>
+  </node>
+  <node id="3049404141" lat="45.1946426" lon="5.7284350" version="1" timestamp="2014-08-29T19:12:49Z" changeset="25104239" uid="685878" user="Plop76">
+    <tag k="amenity" v="bicycle_parking"/>
+    <tag k="bicycle_parking" v="stands"/>
+    <tag k="capacity" v="4"/>
+  </node>
+  <node id="3049404142" lat="45.1946588" lon="5.7286279" version="1" timestamp="2014-08-29T19:12:50Z" changeset="25104239" uid="685878" user="Plop76">
+    <tag k="amenity" v="bicycle_parking"/>
+    <tag k="bicycle_parking" v="stands"/>
+    <tag k="capacity" v="12"/>
+  </node>
+  <node id="3049404146" lat="45.1947709" lon="5.7286779" version="1" timestamp="2014-08-29T19:12:50Z" changeset="25104239" uid="685878" user="Plop76">
+    <tag k="amenity" v="bicycle_parking"/>
+    <tag k="bicycle_parking" v="stands"/>
+    <tag k="capacity" v="6"/>
+  </node>
+  <node id="3059145164" lat="45.1820045" lon="5.7240177" version="1" timestamp="2014-09-04T12:19:18Z" changeset="25225094" uid="200426" user="gottferdom">
+    <tag k="amenity" v="bicycle_parking"/>
+    <tag k="bicycle_parking" v="stands"/>
+    <tag k="capacity" v="6"/>
+  </node>
+  <node id="3059145165" lat="45.1820359" lon="5.7238327" version="1" timestamp="2014-09-04T12:19:18Z" changeset="25225094" uid="200426" user="gottferdom">
+    <tag k="amenity" v="bicycle_parking"/>
+    <tag k="bicycle_parking" v="stands"/>
+    <tag k="capacity" v="6"/>
+  </node>
+  <node id="3059145166" lat="45.1821474" lon="5.7237591" version="1" timestamp="2014-09-04T12:19:18Z" changeset="25225094" uid="200426" user="gottferdom">
+    <tag k="amenity" v="bicycle_parking"/>
+    <tag k="bicycle_parking" v="stands"/>
+    <tag k="capacity" v="6"/>
+  </node>
+  <node id="3059145167" lat="45.1822935" lon="5.7238197" version="1" timestamp="2014-09-04T12:19:18Z" changeset="25225094" uid="200426" user="gottferdom">
+    <tag k="amenity" v="bicycle_parking"/>
+    <tag k="bicycle_parking" v="stands"/>
+    <tag k="capacity" v="6"/>
+  </node>
+  <node id="3061198374" lat="45.1860732" lon="5.7296976" version="2" timestamp="2015-01-23T20:49:55Z" changeset="28359164" uid="685878" user="Plop76">
+    <tag k="amenity" v="bicycle_parking"/>
+    <tag k="bicycle_parking" v="stands"/>
+    <tag k="capacity" v="8"/>
+  </node>
+  <node id="3101787653" lat="45.1903488" lon="5.7130945" version="2" timestamp="2014-09-29T12:15:14Z" changeset="25745367" uid="13442" user="Damouns">
+    <tag k="amenity" v="bicycle_parking"/>
+    <tag k="covered" v="yes"/>
+    <tag k="source" v="survey"/>
+  </node>
+  <node id="3257953443" lat="45.1907446" lon="5.7151979" version="3" timestamp="2016-01-06T14:16:43Z" changeset="36404254" uid="362997" user="Virgile1994">
+    <tag k="amenity" v="bicycle_parking"/>
+    <tag k="bicycle_parking" v="stands"/>
+    <tag k="capacity" v="26"/>
+    <tag k="level" v="0"/>
+  </node>
+  <node id="3262270683" lat="45.1902882" lon="5.7155181" version="2" timestamp="2016-01-06T14:16:44Z" changeset="36404254" uid="362997" user="Virgile1994">
+    <tag k="amenity" v="bicycle_parking"/>
+    <tag k="bicycle_parking" v="stands"/>
+    <tag k="capacity" v="18"/>
+    <tag k="level" v="0"/>
+  </node>
+  <node id="3262270684" lat="45.1903937" lon="5.7155522" version="2" timestamp="2016-01-06T14:16:44Z" changeset="36404254" uid="362997" user="Virgile1994">
+    <tag k="amenity" v="bicycle_parking"/>
+    <tag k="bicycle_parking" v="stands"/>
+    <tag k="capacity" v="30"/>
+    <tag k="level" v="0"/>
+  </node>
+  <node id="3262270685" lat="45.1904243" lon="5.7153467" version="2" timestamp="2016-01-06T14:16:44Z" changeset="36404254" uid="362997" user="Virgile1994">
+    <tag k="amenity" v="bicycle_parking"/>
+    <tag k="bicycle_parking" v="stands"/>
+    <tag k="capacity" v="40"/>
+    <tag k="level" v="0"/>
+  </node>
+  <node id="3262270686" lat="45.1906833" lon="5.7154106" version="2" timestamp="2016-01-06T14:16:44Z" changeset="36404254" uid="362997" user="Virgile1994">
+    <tag k="amenity" v="bicycle_parking"/>
+    <tag k="bicycle_parking" v="stands"/>
+    <tag k="capacity" v="42"/>
+    <tag k="level" v="0"/>
+  </node>
+  <node id="3292803747" lat="45.1871462" lon="5.7371559" version="1" timestamp="2015-01-16T18:01:43Z" changeset="28192218" uid="685878" user="Plop76">
+    <tag k="amenity" v="bicycle_parking"/>
+    <tag k="bicycle_parking" v="stands"/>
+  </node>
+  <node id="3306535267" lat="45.1861919" lon="5.7293478" version="1" timestamp="2015-01-23T20:49:50Z" changeset="28359164" uid="685878" user="Plop76">
+    <tag k="amenity" v="bicycle_parking"/>
+    <tag k="bicycle_parking" v="stands"/>
+    <tag k="capacity" v="8"/>
+  </node>
+  <node id="3306535277" lat="45.1874274" lon="5.7303247" version="1" timestamp="2015-01-23T20:49:50Z" changeset="28359164" uid="685878" user="Plop76">
+    <tag k="amenity" v="bicycle_parking"/>
+    <tag k="bicycle_parking" v="stands"/>
+    <tag k="capacity" v="8"/>
+  </node>
+  <node id="3359201335" lat="45.1838055" lon="5.7163338" version="1" timestamp="2015-02-19T10:09:58Z" changeset="28952782" uid="747318" user="MCLolo">
+    <tag k="amenity" v="bicycle_parking"/>
+    <tag k="bicycle_parking" v="stands"/>
+    <tag k="capacity" v="6"/>
+  </node>
+  <node id="3375478502" lat="45.1863629" lon="5.7329812" version="1" timestamp="2015-02-27T20:54:28Z" changeset="29144379" uid="49894" user="PiRK">
+    <tag k="amenity" v="bicycle_parking"/>
+  </node>
+  <node id="3377904172" lat="45.1894284" lon="5.7246807" version="1" timestamp="2015-03-01T14:35:39Z" changeset="29178100" uid="49894" user="PiRK">
+    <tag k="amenity" v="bicycle_parking"/>
+    <tag k="bicycle_parking" v="stands"/>
+    <tag k="capacity" v="10"/>
+  </node>
+  <node id="3377904176" lat="45.1904057" lon="5.7268899" version="1" timestamp="2015-03-01T14:35:40Z" changeset="29178100" uid="49894" user="PiRK">
+    <tag k="amenity" v="bicycle_parking"/>
+    <tag k="bicycle_parking" v="stands"/>
+    <tag k="capacity" v="6"/>
+  </node>
+  <node id="3378051896" lat="45.1864768" lon="5.7319336" version="1" timestamp="2015-03-01T16:05:43Z" changeset="29180096" uid="49894" user="PiRK">
+    <tag k="amenity" v="bicycle_parking"/>
+    <tag k="bicycle_parking" v="stands"/>
+  </node>
+  <node id="3381943712" lat="45.1876444" lon="5.7235626" version="1" timestamp="2015-03-03T21:45:35Z" changeset="29232572" uid="49894" user="PiRK">
+    <tag k="amenity" v="bicycle_parking"/>
+    <tag k="bicycle_parking" v="stands"/>
+    <tag k="capacity" v="8"/>
+  </node>
+  <node id="3381943713" lat="45.1877374" lon="5.7231834" version="1" timestamp="2015-03-03T21:45:35Z" changeset="29232572" uid="49894" user="PiRK">
+    <tag k="amenity" v="bicycle_parking"/>
+    <tag k="bicycle_parking" v="stands"/>
+    <tag k="capacity" v="14"/>
+  </node>
+  <node id="3381943714" lat="45.1877672" lon="5.7215164" version="1" timestamp="2015-03-03T21:45:35Z" changeset="29232572" uid="49894" user="PiRK">
+    <tag k="amenity" v="bicycle_parking"/>
+    <tag k="bicycle_parking" v="stands"/>
+    <tag k="capacity" v="8"/>
+  </node>
+  <node id="3381943715" lat="45.1884214" lon="5.7244258" version="1" timestamp="2015-03-03T21:45:35Z" changeset="29232572" uid="49894" user="PiRK">
+    <tag k="amenity" v="bicycle_parking"/>
+    <tag k="bicycle_parking" v="stands"/>
+    <tag k="capacity" v="8"/>
+  </node>
+  <node id="3381943728" lat="45.1888183" lon="5.7225001" version="1" timestamp="2015-03-03T21:45:36Z" changeset="29232572" uid="49894" user="PiRK">
+    <tag k="amenity" v="bicycle_parking"/>
+    <tag k="bicycle_parking" v="stands"/>
+    <tag k="capacity" v="8"/>
+  </node>
+  <node id="3381943740" lat="45.1891796" lon="5.7214392" version="1" timestamp="2015-03-03T21:45:36Z" changeset="29232572" uid="49894" user="PiRK">
+    <tag k="amenity" v="bicycle_parking"/>
+    <tag k="bicycle_parking" v="stands"/>
+    <tag k="capacity" v="4"/>
+  </node>
+  <node id="3381943742" lat="45.1892378" lon="5.7217448" version="1" timestamp="2015-03-03T21:45:36Z" changeset="29232572" uid="49894" user="PiRK">
+    <tag k="amenity" v="bicycle_parking"/>
+    <tag k="bicycle_parking" v="stands"/>
+    <tag k="capacity" v="10"/>
+  </node>
+  <node id="3381943744" lat="45.1892675" lon="5.7214178" version="1" timestamp="2015-03-03T21:45:36Z" changeset="29232572" uid="49894" user="PiRK">
+    <tag k="amenity" v="bicycle_parking"/>
+    <tag k="bicycle_parking" v="stands"/>
+    <tag k="capacity" v="10"/>
+  </node>
+  <node id="3381943748" lat="45.1895553" lon="5.7246739" version="1" timestamp="2015-03-03T21:45:37Z" changeset="29232572" uid="49894" user="PiRK">
+    <tag k="amenity" v="bicycle_parking"/>
+    <tag k="bicycle_parking" v="stands"/>
+    <tag k="capacity" v="6"/>
+  </node>
+  <node id="3381943749" lat="45.1896976" lon="5.7248787" version="1" timestamp="2015-03-03T21:45:37Z" changeset="29232572" uid="49894" user="PiRK">
+    <tag k="amenity" v="bicycle_parking"/>
+    <tag k="bicycle_parking" v="stands"/>
+    <tag k="capacity" v="4"/>
+  </node>
+  <node id="3381943750" lat="45.1899724" lon="5.7257988" version="1" timestamp="2015-03-03T21:45:37Z" changeset="29232572" uid="49894" user="PiRK">
+    <tag k="amenity" v="bicycle_parking"/>
+    <tag k="bicycle_parking" v="stands"/>
+    <tag k="capacity" v="18"/>
+  </node>
+  <node id="3381943751" lat="45.1901455" lon="5.7264375" version="1" timestamp="2015-03-03T21:45:37Z" changeset="29232572" uid="49894" user="PiRK">
+    <tag k="amenity" v="bicycle_parking"/>
+    <tag k="bicycle_parking" v="stands"/>
+    <tag k="capacity" v="4"/>
+  </node>
+  <node id="3381943752" lat="45.1902229" lon="5.7287562" version="1" timestamp="2015-03-03T21:45:37Z" changeset="29232572" uid="49894" user="PiRK">
+    <tag k="amenity" v="bicycle_parking"/>
+    <tag k="bicycle_parking" v="stands"/>
+    <tag k="capacity" v="8"/>
+  </node>
+  <node id="3381943753" lat="45.1902714" lon="5.7279095" version="1" timestamp="2015-03-03T21:45:37Z" changeset="29232572" uid="49894" user="PiRK">
+    <tag k="amenity" v="bicycle_parking"/>
+    <tag k="bicycle_parking" v="stands"/>
+    <tag k="capacity" v="10"/>
+  </node>
+  <node id="3381943754" lat="45.1903181" lon="5.7267963" version="1" timestamp="2015-03-03T21:45:37Z" changeset="29232572" uid="49894" user="PiRK">
+    <tag k="amenity" v="bicycle_parking"/>
+    <tag k="bicycle_parking" v="stands"/>
+    <tag k="capacity" v="10"/>
+  </node>
+  <node id="3381943755" lat="45.1903198" lon="5.7277514" version="1" timestamp="2015-03-03T21:45:37Z" changeset="29232572" uid="49894" user="PiRK">
+    <tag k="amenity" v="bicycle_parking"/>
+    <tag k="bicycle_parking" v="stands"/>
+    <tag k="capacity" v="6"/>
+  </node>
+  <node id="3381943756" lat="45.1903575" lon="5.7259108" version="1" timestamp="2015-03-03T21:45:37Z" changeset="29232572" uid="49894" user="PiRK">
+    <tag k="amenity" v="bicycle_parking"/>
+    <tag k="bicycle_parking" v="stands"/>
+    <tag k="capacity" v="12"/>
+  </node>
+  <node id="3381943757" lat="45.1904009" lon="5.7289311" version="1" timestamp="2015-03-03T21:45:37Z" changeset="29232572" uid="49894" user="PiRK">
+    <tag k="amenity" v="bicycle_parking"/>
+    <tag k="bicycle_parking" v="stands"/>
+    <tag k="capacity" v="10"/>
+  </node>
+  <node id="3381943758" lat="45.1904557" lon="5.7294576" version="1" timestamp="2015-03-03T21:45:37Z" changeset="29232572" uid="49894" user="PiRK">
+    <tag k="amenity" v="bicycle_parking"/>
+    <tag k="bicycle_parking" v="stands"/>
+    <tag k="capacity" v="4"/>
+  </node>
+  <node id="3381943759" lat="45.1905962" lon="5.7333738" version="1" timestamp="2015-03-03T21:45:37Z" changeset="29232572" uid="49894" user="PiRK">
+    <tag k="amenity" v="bicycle_parking"/>
+    <tag k="bicycle_parking" v="stands"/>
+    <tag k="capacity" v="8"/>
+  </node>
+  <node id="3381943760" lat="45.1911306" lon="5.7339033" version="1" timestamp="2015-03-03T21:45:37Z" changeset="29232572" uid="49894" user="PiRK">
+    <tag k="amenity" v="bicycle_parking"/>
+    <tag k="bicycle_parking" v="stands"/>
+    <tag k="capacity" v="8"/>
+  </node>
+  <node id="3381943761" lat="45.1916528" lon="5.7307885" version="2" timestamp="2015-03-03T21:46:59Z" changeset="29232601" uid="49894" user="PiRK">
+    <tag k="amenity" v="bicycle_parking"/>
+    <tag k="bicycle_parking" v="stands"/>
+    <tag k="capacity" v="4"/>
+  </node>
+  <node id="3381943764" lat="45.1920944" lon="5.7347294" version="1" timestamp="2015-03-03T21:45:37Z" changeset="29232572" uid="49894" user="PiRK">
+    <tag k="amenity" v="bicycle_parking"/>
+    <tag k="bicycle_parking" v="stands"/>
+    <tag k="capacity" v="6"/>
+  </node>
+  <node id="3441071789" lat="45.1817654" lon="5.7087370" version="1" timestamp="2015-04-06T14:58:50Z" changeset="30017398" uid="161202" user="colargol">
+    <tag k="amenity" v="bicycle_parking"/>
+    <tag k="bicycle_parking" v="stands"/>
+    <tag k="capacity" v="6"/>
+  </node>
+  <node id="3505742677" lat="45.1864843" lon="5.7436178" version="1" timestamp="2015-05-08T19:01:01Z" changeset="30918110" uid="685878" user="Plop76">
+    <tag k="amenity" v="bicycle_parking"/>
+    <tag k="bicycle_parking" v="stands"/>
+    <tag k="capacity" v="10"/>
+  </node>
+  <node id="3512397693" lat="45.1868979" lon="5.7330143" version="3" timestamp="2015-05-12T15:02:26Z" changeset="31056136" uid="183173" user="Dof">
+    <tag k="amenity" v="bicycle_parking"/>
+  </node>
+  <node id="3522196285" lat="45.1887652" lon="5.7332308" version="1" timestamp="2015-05-16T16:48:33Z" changeset="31205859" uid="685878" user="Plop76">
+    <tag k="amenity" v="bicycle_parking"/>
+    <tag k="bicycle_parking" v="stands"/>
+  </node>
+  <node id="3671465817" lat="45.1905515" lon="5.7132624" version="1" timestamp="2015-07-29T09:05:37Z" changeset="32950408" uid="1238664" user="zerpou">
+    <tag k="amenity" v="bicycle_parking"/>
+  </node>
+  <node id="3798065874" lat="45.1844257" lon="5.7038120" version="1" timestamp="2015-10-22T12:03:11Z" changeset="34798151" uid="51308" user="Gall">
+    <tag k="access" v="permissive"/>
+    <tag k="amenity" v="bicycle_parking"/>
+    <tag k="bicycle_parking" v="stands"/>
+    <tag k="capacity" v="6"/>
+    <tag k="covered" v="yes"/>
+  </node>
+  <node id="3798065875" lat="45.1844784" lon="5.7036433" version="1" timestamp="2015-10-22T12:03:11Z" changeset="34798151" uid="51308" user="Gall">
+    <tag k="access" v="permissive"/>
+    <tag k="amenity" v="bicycle_parking"/>
+    <tag k="bicycle_parking" v="stands"/>
+    <tag k="capacity" v="10"/>
+    <tag k="covered" v="yes"/>
+  </node>
+  <node id="3798065876" lat="45.1844809" lon="5.7035261" version="1" timestamp="2015-10-22T12:03:11Z" changeset="34798151" uid="51308" user="Gall">
+    <tag k="access" v="permissive"/>
+    <tag k="amenity" v="bicycle_parking"/>
+    <tag k="bicycle_parking" v="stands"/>
+    <tag k="capacity" v="4"/>
+    <tag k="covered" v="yes"/>
+  </node>
+  <node id="3798065878" lat="45.1848135" lon="5.7035092" version="1" timestamp="2015-10-22T12:03:11Z" changeset="34798151" uid="51308" user="Gall">
+    <tag k="amenity" v="bicycle_parking"/>
+    <tag k="capacity" v="8"/>
+  </node>
+  <node id="3798065879" lat="45.1849042" lon="5.7035113" version="1" timestamp="2015-10-22T12:03:11Z" changeset="34798151" uid="51308" user="Gall">
+    <tag k="amenity" v="bicycle_parking"/>
+    <tag k="capacity" v="8"/>
+  </node>
+  <node id="3806713595" lat="45.1915214" lon="5.7144819" version="2" timestamp="2016-01-06T13:00:42Z" changeset="36402678" uid="362997" user="Virgile1994">
+    <tag k="amenity" v="bicycle_parking"/>
+    <tag k="bicycle_parking" v="shed"/>
+    <tag k="layer" v="-1"/>
+    <tag k="level" v="-1"/>
+  </node>
+  <node id="3832472588" lat="45.1786394" lon="5.7423731" version="1" timestamp="2015-11-12T12:16:42Z" changeset="35259838" uid="2772165" user="Grenoble38">
+    <tag k="amenity" v="bicycle_parking"/>
+    <tag k="bicycle_parking" v="stands"/>
+    <tag k="capacity" v="6"/>
+    <tag k="covered" v="no"/>
+  </node>
+  <node id="3832472589" lat="45.1783858" lon="5.7416060" version="1" timestamp="2015-11-12T12:16:42Z" changeset="35259838" uid="2772165" user="Grenoble38">
+    <tag k="amenity" v="bicycle_parking"/>
+    <tag k="bicycle_parking" v="stands"/>
+    <tag k="capacity" v="6"/>
+    <tag k="covered" v="no"/>
+  </node>
+  <node id="3832472590" lat="45.1782349" lon="5.7407095" version="1" timestamp="2015-11-12T12:16:42Z" changeset="35259838" uid="2772165" user="Grenoble38">
+    <tag k="amenity" v="bicycle_parking"/>
+    <tag k="bicycle_parking" v="stands"/>
+    <tag k="capacity" v="4"/>
+    <tag k="covered" v="no"/>
+  </node>
+  <node id="3832488157" lat="45.1740272" lon="5.7419523" version="1" timestamp="2015-11-12T12:33:09Z" changeset="35260099" uid="2772165" user="Grenoble38">
+    <tag k="amenity" v="bicycle_parking"/>
+    <tag k="bicycle_parking" v="stands"/>
+    <tag k="capacity" v="10"/>
+    <tag k="covered" v="no"/>
+  </node>
+  <node id="3832488163" lat="45.1751003" lon="5.7414929" version="1" timestamp="2015-11-12T12:33:09Z" changeset="35260099" uid="2772165" user="Grenoble38">
+    <tag k="amenity" v="bicycle_parking"/>
+    <tag k="bicycle_parking" v="stands"/>
+    <tag k="capacity" v="8"/>
+    <tag k="covered" v="no"/>
+  </node>
+  <node id="3832491634" lat="45.1750785" lon="5.7411028" version="1" timestamp="2015-11-12T12:40:08Z" changeset="35260218" uid="2772165" user="Grenoble38">
+    <tag k="amenity" v="bicycle_parking"/>
+    <tag k="bicycle_parking" v="stands"/>
+    <tag k="capacity" v="8"/>
+    <tag k="covered" v="no"/>
+  </node>
+  <node id="3835458978" lat="45.1917412" lon="5.7125800" version="1" timestamp="2015-11-14T09:59:09Z" changeset="35302980" uid="1418137" user="Test360">
+    <tag k="amenity" v="bicycle_parking"/>
+    <tag k="bicycle_parking" v="stands"/>
+    <tag k="capacity" v="10"/>
+  </node>
+  <node id="3835458979" lat="45.1918406" lon="5.7127851" version="1" timestamp="2015-11-14T09:59:09Z" changeset="35302980" uid="1418137" user="Test360">
+    <tag k="amenity" v="bicycle_parking"/>
+    <tag k="bicycle_parking" v="stands"/>
+    <tag k="capacity" v="4"/>
+  </node>
+  <node id="3835458980" lat="45.1921656" lon="5.7125104" version="1" timestamp="2015-11-14T09:59:09Z" changeset="35302980" uid="1418137" user="Test360">
+    <tag k="amenity" v="bicycle_parking"/>
+    <tag k="bicycle_parking" v="stands"/>
+    <tag k="capacity" v="12"/>
+  </node>
+  <node id="3835458981" lat="45.1925293" lon="5.7121387" version="1" timestamp="2015-11-14T09:59:09Z" changeset="35302980" uid="1418137" user="Test360">
+    <tag k="amenity" v="bicycle_parking"/>
+    <tag k="bicycle_parking" v="stands"/>
+    <tag k="capacity" v="4"/>
+  </node>
+  <node id="3835458982" lat="45.1925754" lon="5.7124592" version="1" timestamp="2015-11-14T09:59:09Z" changeset="35302980" uid="1418137" user="Test360">
+    <tag k="amenity" v="bicycle_parking"/>
+    <tag k="bicycle_parking" v="stands"/>
+    <tag k="capacity" v="6"/>
+  </node>
+  <node id="3835458983" lat="45.1925862" lon="5.7121130" version="1" timestamp="2015-11-14T09:59:10Z" changeset="35302980" uid="1418137" user="Test360">
+    <tag k="amenity" v="bicycle_parking"/>
+    <tag k="bicycle_parking" v="stands"/>
+    <tag k="capacity" v="4"/>
+  </node>
+  <node id="3835458984" lat="45.1927190" lon="5.7124917" version="2" timestamp="2015-11-15T14:13:36Z" changeset="35328690" uid="1418137" user="Test360">
+    <tag k="amenity" v="bicycle_parking"/>
+    <tag k="capacity" v="4"/>
+  </node>
+  <node id="3835458985" lat="45.1944707" lon="5.7114352" version="1" timestamp="2015-11-14T09:59:10Z" changeset="35302980" uid="1418137" user="Test360">
+    <tag k="amenity" v="bicycle_parking"/>
+    <tag k="bicycle_parking" v="stands"/>
+    <tag k="capacity" v="6"/>
+  </node>
+  <node id="3835467061" lat="45.1936262" lon="5.7120343" version="2" timestamp="2015-11-15T14:13:36Z" changeset="35328690" uid="1418137" user="Test360">
+    <tag k="amenity" v="bicycle_parking"/>
+    <tag k="capacity" v="4"/>
+  </node>
+  <node id="3837317557" lat="45.1918432" lon="5.7129936" version="1" timestamp="2015-11-15T14:13:35Z" changeset="35328690" uid="1418137" user="Test360">
+    <tag k="amenity" v="bicycle_parking"/>
+    <tag k="capacity" v="16"/>
+  </node>
+  <node id="3838127654" lat="45.1805340" lon="5.7352961" version="1" timestamp="2015-11-15T22:30:55Z" changeset="35338743" uid="2772165" user="Grenoble38">
+    <tag k="amenity" v="bicycle_parking"/>
+    <tag k="bicycle_parking" v="stands"/>
+    <tag k="capacity" v="6"/>
+    <tag k="covered" v="no"/>
+  </node>
+  <node id="3838785939" lat="45.1801338" lon="5.7420043" version="1" timestamp="2015-11-16T11:52:20Z" changeset="35349124" uid="2772165" user="Grenoble38">
+    <tag k="amenity" v="bicycle_parking"/>
+    <tag k="capacity" v="6"/>
+  </node>
+  <node id="3838785942" lat="45.1802520" lon="5.7419339" version="1" timestamp="2015-11-16T11:52:20Z" changeset="35349124" uid="2772165" user="Grenoble38">
+    <tag k="amenity" v="bicycle_parking"/>
+    <tag k="capacity" v="6"/>
+  </node>
+  <node id="3838799882" lat="45.1796634" lon="5.7420371" version="1" timestamp="2015-11-16T12:03:58Z" changeset="35349352" uid="2772165" user="Grenoble38">
+    <tag k="amenity" v="bicycle_parking"/>
+    <tag k="bicycle_parking" v="stands"/>
+    <tag k="capacity" v="4"/>
+    <tag k="covered" v="no"/>
+  </node>
+  <node id="3838799883" lat="45.1795348" lon="5.7419909" version="1" timestamp="2015-11-16T12:03:58Z" changeset="35349352" uid="2772165" user="Grenoble38">
+    <tag k="amenity" v="bicycle_parking"/>
+    <tag k="bicycle_parking" v="stands"/>
+    <tag k="capacity" v="6"/>
+    <tag k="covered" v="no"/>
+  </node>
+  <node id="3840608238" lat="45.1851441" lon="5.7265720" version="1" timestamp="2015-11-17T10:43:34Z" changeset="35372815" uid="2772165" user="Grenoble38">
+    <tag k="amenity" v="bicycle_parking"/>
+    <tag k="bicycle_parking" v="stands"/>
+    <tag k="capacity" v="6"/>
+    <tag k="covered" v="no"/>
+  </node>
+  <node id="3840662457" lat="45.1646357" lon="5.7278808" version="1" timestamp="2015-11-17T11:16:03Z" changeset="35373503" uid="3392739" user="Loybilu">
+    <tag k="amenity" v="bicycle_parking"/>
+    <tag k="bicycle_parking" v="stands"/>
+    <tag k="capacity" v="6"/>
+  </node>
+  <node id="3840662458" lat="45.1647227" lon="5.7277993" version="1" timestamp="2015-11-17T11:16:03Z" changeset="35373503" uid="3392739" user="Loybilu">
+    <tag k="amenity" v="bicycle_parking"/>
+    <tag k="bicycle_parking" v="stands"/>
+    <tag k="capacity" v="4"/>
+  </node>
+  <node id="3840662459" lat="45.1647313" lon="5.7279018" version="1" timestamp="2015-11-17T11:16:03Z" changeset="35373503" uid="3392739" user="Loybilu">
+    <tag k="amenity" v="bicycle_parking"/>
+    <tag k="bicycle_parking" v="stands"/>
+    <tag k="capacity" v="2"/>
+  </node>
+  <node id="3840691081" lat="45.1818742" lon="5.7076871" version="1" timestamp="2015-11-17T11:32:14Z" changeset="35373865" uid="3392739" user="Loybilu">
+    <tag k="amenity" v="bicycle_parking"/>
+    <tag k="bicycle_parking" v="stands"/>
+    <tag k="capacity" v="4"/>
+  </node>
+  <node id="3840701100" lat="45.1852747" lon="5.7168383" version="1" timestamp="2015-11-17T11:39:58Z" changeset="35374025" uid="3392739" user="Loybilu">
+    <tag k="amenity" v="bicycle_parking"/>
+    <tag k="bicycle_parking" v="stands"/>
+    <tag k="capacity" v="4"/>
+  </node>
+  <node id="3840752368" lat="45.1892621" lon="5.7126828" version="1" timestamp="2015-11-17T12:21:22Z" changeset="35374951" uid="3392739" user="Loybilu">
+    <tag k="amenity" v="bicycle_parking"/>
+    <tag k="bicycle_parking" v="stands"/>
+    <tag k="capacity" v="8"/>
+  </node>
+  <node id="3840758450" lat="45.1895224" lon="5.7131443" version="1" timestamp="2015-11-17T12:24:48Z" changeset="35375025" uid="3392739" user="Loybilu">
+    <tag k="amenity" v="bicycle_parking"/>
+    <tag k="bicycle_parking" v="stands"/>
+    <tag k="capacity" v="4"/>
+  </node>
+  <node id="3840768948" lat="45.1838879" lon="5.7142949" version="1" timestamp="2015-11-17T12:39:26Z" changeset="35375285" uid="3392739" user="Loybilu">
+    <tag k="amenity" v="bicycle_parking"/>
+    <tag k="bicycle_parking" v="stands"/>
+    <tag k="capacity" v="4"/>
+  </node>
+  <node id="3840768949" lat="45.1840137" lon="5.7133639" version="1" timestamp="2015-11-17T12:39:26Z" changeset="35375285" uid="3392739" user="Loybilu">
+    <tag k="amenity" v="bicycle_parking"/>
+    <tag k="bicycle_parking" v="stands"/>
+    <tag k="capacity" v="10"/>
+  </node>
+  <node id="3840768950" lat="45.1841259" lon="5.7152764" version="1" timestamp="2015-11-17T12:39:26Z" changeset="35375285" uid="3392739" user="Loybilu">
+    <tag k="amenity" v="bicycle_parking"/>
+    <tag k="bicycle_parking" v="stands"/>
+    <tag k="capacity" v="6"/>
+  </node>
+  <node id="3840768951" lat="45.1841369" lon="5.7151738" version="1" timestamp="2015-11-17T12:39:26Z" changeset="35375285" uid="3392739" user="Loybilu">
+    <tag k="amenity" v="bicycle_parking"/>
+    <tag k="bicycle_parking" v="stands"/>
+    <tag k="capacity" v="6"/>
+  </node>
+  <node id="3840768952" lat="45.1841721" lon="5.7153270" version="1" timestamp="2015-11-17T12:39:26Z" changeset="35375285" uid="3392739" user="Loybilu">
+    <tag k="amenity" v="bicycle_parking"/>
+    <tag k="bicycle_parking" v="stands"/>
+    <tag k="capacity" v="14"/>
+  </node>
+  <node id="3840768953" lat="45.1841822" lon="5.7147471" version="1" timestamp="2015-11-17T12:39:26Z" changeset="35375285" uid="3392739" user="Loybilu">
+    <tag k="amenity" v="bicycle_parking"/>
+    <tag k="bicycle_parking" v="stands"/>
+    <tag k="capacity" v="8"/>
+  </node>
+  <node id="3840779028" lat="45.1872480" lon="5.7116639" version="1" timestamp="2015-11-17T12:50:46Z" changeset="35375580" uid="3392739" user="Loybilu">
+    <tag k="amenity" v="bicycle_parking"/>
+    <tag k="bicycle_parking" v="stands"/>
+    <tag k="capacity" v="8"/>
+  </node>
+  <node id="3840779029" lat="45.1873450" lon="5.7110485" version="1" timestamp="2015-11-17T12:50:47Z" changeset="35375580" uid="3392739" user="Loybilu">
+    <tag k="amenity" v="bicycle_parking"/>
+    <tag k="bicycle_parking" v="stands"/>
+    <tag k="capacity" v="6"/>
+  </node>
+  <node id="3854293028" lat="45.1709536" lon="5.7403100" version="1" timestamp="2015-11-23T12:08:16Z" changeset="35528838" uid="2772165" user="Grenoble38">
+    <tag k="amenity" v="bicycle_parking"/>
+    <tag k="bicycle_parking" v="stands"/>
+    <tag k="capacity" v="6"/>
+    <tag k="covered" v="no"/>
+  </node>
+  <node id="3854293040" lat="45.1713842" lon="5.7397781" version="1" timestamp="2015-11-23T12:08:16Z" changeset="35528838" uid="2772165" user="Grenoble38">
+    <tag k="amenity" v="bicycle_parking"/>
+    <tag k="bicycle_parking" v="stands"/>
+    <tag k="capacity" v="6"/>
+    <tag k="covered" v="no"/>
+  </node>
+  <node id="3859765527" lat="45.1846725" lon="5.7206493" version="1" timestamp="2015-11-25T22:02:58Z" changeset="35581357" uid="2772165" user="Grenoble38">
+    <tag k="amenity" v="bicycle_parking"/>
+    <tag k="bicycle_parking" v="stands"/>
+    <tag k="capacity" v="4"/>
+  </node>
+  <node id="3860527909" lat="45.1849962" lon="5.7131703" version="1" timestamp="2015-11-26T09:01:13Z" changeset="35586803" uid="2772165" user="Grenoble38">
+    <tag k="amenity" v="bicycle_parking"/>
+    <tag k="bicycle_parking" v="stands"/>
+    <tag k="capacity" v="6"/>
+    <tag k="covered" v="no"/>
+  </node>
+  <node id="3860545316" lat="45.1831059" lon="5.7125237" version="1" timestamp="2015-11-26T09:24:20Z" changeset="35587167" uid="2772165" user="Grenoble38">
+    <tag k="amenity" v="bicycle_parking"/>
+    <tag k="bicycle_parking" v="stands"/>
+    <tag k="capacity" v="8"/>
+    <tag k="covered" v="no"/>
+  </node>
+  <node id="3865245692" lat="45.1876132" lon="5.7166138" version="1" timestamp="2015-11-28T15:57:30Z" changeset="35630731" uid="2772165" user="Grenoble38">
+    <tag k="amenity" v="bicycle_parking"/>
+    <tag k="bicycle_parking" v="stands"/>
+    <tag k="capacity" v="4"/>
+    <tag k="covered" v="no"/>
+  </node>
+  <node id="3865245693" lat="45.1877107" lon="5.7164052" version="1" timestamp="2015-11-28T15:57:30Z" changeset="35630731" uid="2772165" user="Grenoble38">
+    <tag k="amenity" v="bicycle_parking"/>
+    <tag k="bicycle_parking" v="stands"/>
+    <tag k="capacity" v="6"/>
+    <tag k="covered" v="no"/>
+  </node>
+  <node id="3865245754" lat="45.1872383" lon="5.7165119" version="1" timestamp="2015-11-28T15:57:31Z" changeset="35630731" uid="2772165" user="Grenoble38">
+    <tag k="amenity" v="bicycle_parking"/>
+    <tag k="bicycle_parking" v="stands"/>
+    <tag k="capacity" v="12"/>
+    <tag k="covered" v="no"/>
+  </node>
+  <node id="3865293916" lat="45.1888479" lon="5.7156688" version="1" timestamp="2015-11-28T16:17:53Z" changeset="35631072" uid="2772165" user="Grenoble38">
+    <tag k="amenity" v="bicycle_parking"/>
+    <tag k="bicycle_parking" v="stands"/>
+    <tag k="capacity" v="6"/>
+    <tag k="covered" v="no"/>
+  </node>
+  <node id="3865577006" lat="45.1790756" lon="5.7260991" version="1" timestamp="2015-11-28T18:40:54Z" changeset="35633756" uid="2772165" user="Grenoble38">
+    <tag k="amenity" v="bicycle_parking"/>
+    <tag k="bicycle_parking" v="stands"/>
+    <tag k="capacity" v="6"/>
+    <tag k="covered" v="no"/>
+  </node>
+  <node id="3868211713" lat="45.1807955" lon="5.7056327" version="1" timestamp="2015-11-29T22:40:51Z" changeset="35656563" uid="3392739" user="Loybilu">
+    <tag k="amenity" v="bicycle_parking"/>
+    <tag k="bicycle_parking" v="stands"/>
+    <tag k="capacity" v="4"/>
+  </node>
+  <node id="3880261664" lat="45.1784588" lon="5.7496732" version="1" timestamp="2015-12-06T13:56:35Z" changeset="35786098" uid="45284" user="Eric S">
+    <tag k="amenity" v="bicycle_parking"/>
+    <tag k="bicycle_parking" v="stands"/>
+    <tag k="capacity" v="3"/>
+  </node>
+  <node id="3880261667" lat="45.1789901" lon="5.7455303" version="1" timestamp="2015-12-06T13:56:35Z" changeset="35786098" uid="45284" user="Eric S">
+    <tag k="amenity" v="bicycle_parking"/>
+    <tag k="bicycle_parking" v="stands"/>
+    <tag k="capacity" v="2"/>
+  </node>
+  <way id="30799285" version="4" timestamp="2014-11-17T15:17:53Z" changeset="26844979" uid="362997" user="Virgile1994">
+    <nd ref="341066237"/>
+    <nd ref="3191588113"/>
+    <nd ref="341066259"/>
+    <nd ref="341066262"/>
+    <nd ref="341066265"/>
+    <nd ref="341066237"/>
+    <tag k="access" v="private"/>
+    <tag k="amenity" v="bicycle_parking"/>
+    <tag k="building" v="roof"/>
+    <tag k="source" v="cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre ; mise à jour : 2008"/>
+  </way>
+  <way id="50176215" version="4" timestamp="2010-06-24T08:09:59Z" changeset="5064198" uid="45284" user="Eric S">
+    <nd ref="637826550"/>
+    <nd ref="637826552"/>
+    <nd ref="637826554"/>
+    <nd ref="637826556"/>
+    <nd ref="637826550"/>
+    <tag k="amenity" v="bicycle_parking"/>
+    <tag k="source" v="cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre ; mise à jour : 2009"/>
+  </way>
+  <way id="50176243" version="4" timestamp="2010-06-24T08:09:58Z" changeset="5064198" uid="45284" user="Eric S">
+    <nd ref="637826892"/>
+    <nd ref="637826893"/>
+    <nd ref="637826894"/>
+    <nd ref="637826895"/>
+    <nd ref="637826896"/>
+    <nd ref="637826897"/>
+    <nd ref="637826892"/>
+    <tag k="amenity" v="bicycle_parking"/>
+    <tag k="source" v="cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre ; mise à jour : 2009"/>
+  </way>
+  <way id="50176247" version="4" timestamp="2010-06-24T15:20:56Z" changeset="5066836" uid="45284" user="Eric S">
+    <nd ref="637826868"/>
+    <nd ref="637826867"/>
+    <nd ref="637826875"/>
+    <nd ref="637826876"/>
+    <nd ref="637826868"/>
+    <tag k="amenity" v="bicycle_parking"/>
+    <tag k="source" v="cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre ; mise à jour : 2009"/>
+  </way>
+  <way id="50176525" version="5" timestamp="2014-12-06T22:54:47Z" changeset="27301509" uid="45284" user="Eric S">
+    <nd ref="637828585"/>
+    <nd ref="637828580"/>
+    <nd ref="637828582"/>
+    <nd ref="637828583"/>
+    <nd ref="637828585"/>
+    <tag k="amenity" v="bicycle_parking"/>
+    <tag k="covered" v="yes"/>
+    <tag k="source" v="cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre ; mise à jour : 2009"/>
+  </way>
+  <way id="50176547" version="3" timestamp="2010-06-23T21:30:57Z" changeset="5062284" uid="45284" user="Eric S">
+    <nd ref="637828594"/>
+    <nd ref="637828595"/>
+    <nd ref="637828596"/>
+    <nd ref="637828597"/>
+    <nd ref="637828594"/>
+    <tag k="amenity" v="bicycle_parking"/>
+    <tag k="source" v="cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010"/>
+  </way>
+  <way id="50176871" version="4" timestamp="2010-06-23T21:18:21Z" changeset="5062180" uid="45284" user="Eric S">
+    <nd ref="637832285"/>
+    <nd ref="637832278"/>
+    <nd ref="637832281"/>
+    <nd ref="637832283"/>
+    <nd ref="637832285"/>
+    <tag k="amenity" v="bicycle_parking"/>
+    <tag k="source" v="cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre ; mise à jour : 2009"/>
+  </way>
+  <way id="50176872" version="4" timestamp="2010-06-23T21:18:21Z" changeset="5062180" uid="45284" user="Eric S">
+    <nd ref="637832296"/>
+    <nd ref="637832289"/>
+    <nd ref="637832292"/>
+    <nd ref="637832294"/>
+    <nd ref="637832296"/>
+    <tag k="amenity" v="bicycle_parking"/>
+    <tag k="source" v="cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre ; mise à jour : 2009"/>
+  </way>
+  <way id="64765153" version="2" timestamp="2014-12-06T22:54:48Z" changeset="27301509" uid="45284" user="Eric S">
+    <nd ref="794526798"/>
+    <nd ref="794526789"/>
+    <nd ref="794526800"/>
+    <nd ref="794526793"/>
+    <nd ref="794526798"/>
+    <tag k="amenity" v="bicycle_parking"/>
+    <tag k="covered" v="yes"/>
+  </way>
+  <way id="68281799" version="3" timestamp="2013-06-01T10:51:35Z" changeset="16376043" uid="362997" user="Virgile1994">
+    <nd ref="822165541"/>
+    <nd ref="822167243"/>
+    <nd ref="822165072"/>
+    <nd ref="822165111"/>
+    <nd ref="822165474"/>
+    <nd ref="822164951"/>
+    <nd ref="822167063"/>
+    <nd ref="822166418"/>
+    <nd ref="822165541"/>
+    <tag k="amenity" v="bicycle_parking"/>
+    <tag k="bicycle_parking" v="shed"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="P+R Esplanade"/>
+    <tag k="park_ride" v="yes"/>
+  </way>
+  <way id="85388328" version="1" timestamp="2010-11-15T10:56:33Z" changeset="6376421" uid="97205" user="christouf">
+    <nd ref="989972099"/>
+    <nd ref="989971906"/>
+    <nd ref="989971617"/>
+    <nd ref="989971858"/>
+    <nd ref="989972099"/>
+    <tag k="amenity" v="bicycle_parking"/>
+    <tag k="building" v="yes"/>
+    <tag k="source" v="cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre ; mise à jour : 2010"/>
+    <tag k="wall" v="no"/>
+  </way>
+  <way id="85388345" version="1" timestamp="2010-11-15T10:56:37Z" changeset="6376421" uid="97205" user="christouf">
+    <nd ref="989971870"/>
+    <nd ref="989972268"/>
+    <nd ref="989972117"/>
+    <nd ref="989972140"/>
+    <nd ref="989971870"/>
+    <tag k="amenity" v="bicycle_parking"/>
+    <tag k="building" v="yes"/>
+    <tag k="source" v="cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre ; mise à jour : 2010"/>
+    <tag k="wall" v="no"/>
+  </way>
+  <way id="85388354" version="1" timestamp="2010-11-15T10:56:39Z" changeset="6376421" uid="97205" user="christouf">
+    <nd ref="989971674"/>
+    <nd ref="989972159"/>
+    <nd ref="989971976"/>
+    <nd ref="989972077"/>
+    <nd ref="989971674"/>
+    <tag k="amenity" v="bicycle_parking"/>
+    <tag k="building" v="yes"/>
+    <tag k="source" v="cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre ; mise à jour : 2010"/>
+    <tag k="wall" v="no"/>
+  </way>
+  <way id="85388386" version="1" timestamp="2010-11-15T10:56:46Z" changeset="6376421" uid="97205" user="christouf">
+    <nd ref="989971959"/>
+    <nd ref="989971712"/>
+    <nd ref="989972177"/>
+    <nd ref="989972253"/>
+    <nd ref="989971959"/>
+    <tag k="amenity" v="bicycle_parking"/>
+    <tag k="building" v="yes"/>
+    <tag k="source" v="cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre ; mise à jour : 2010"/>
+    <tag k="wall" v="no"/>
+  </way>
+  <way id="88701447" version="5" timestamp="2014-08-12T11:14:00Z" changeset="24699191" uid="104657" user="DRAX">
+    <nd ref="1029759708"/>
+    <nd ref="1029756422"/>
+    <nd ref="1029766554"/>
+    <nd ref="1029745924"/>
+    <nd ref="1029759708"/>
+    <tag k="access" v="private"/>
+    <tag k="amenity" v="bicycle_parking"/>
+    <tag k="bicycle_parking" v="stands"/>
+    <tag k="building" v="yes"/>
+    <tag k="covered" v="yes"/>
+    <tag k="source" v="extraction vectorielle v1 cadastre-dgi-fr source : Direction Générale des Impôts - Cadas. Mise à jour : 2010"/>
+    <tag k="wall" v="no"/>
+  </way>
+  <way id="262880270" version="2" timestamp="2014-12-06T22:54:47Z" changeset="27301509" uid="45284" user="Eric S">
+    <nd ref="2685399873"/>
+    <nd ref="3222470093"/>
+    <nd ref="2685399874"/>
+    <nd ref="2685399877"/>
+    <nd ref="2685399875"/>
+    <nd ref="2685399873"/>
+    <tag k="amenity" v="bicycle_parking"/>
+    <tag k="covered" v="yes"/>
+  </way>
+  <way id="262880271" version="1" timestamp="2014-02-22T17:41:42Z" changeset="20718101" uid="45284" user="Eric S">
+    <nd ref="2685399882"/>
+    <nd ref="2685399884"/>
+    <nd ref="2685399886"/>
+    <nd ref="2685399885"/>
+    <nd ref="2685399882"/>
+    <tag k="amenity" v="bicycle_parking"/>
+    <tag k="source" v="cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre ; mise à jour : 2009"/>
+  </way>
+  <way id="294378310" version="2" timestamp="2014-08-12T11:17:43Z" changeset="24699255" uid="104657" user="DRAX">
+    <nd ref="2494513233"/>
+    <nd ref="2979738143"/>
+    <nd ref="2979738142"/>
+    <nd ref="2979738139"/>
+    <nd ref="2494513233"/>
+    <tag k="access" v="private"/>
+    <tag k="amenity" v="bicycle_parking"/>
+    <tag k="bicycle_parking" v="stands"/>
+    <tag k="covered" v="yes"/>
+  </way>
+  <way id="316139613" version="1" timestamp="2014-12-06T22:54:47Z" changeset="27301509" uid="45284" user="Eric S">
+    <nd ref="3222469825"/>
+    <nd ref="3222469823"/>
+    <nd ref="3222469836"/>
+    <nd ref="3222469837"/>
+    <nd ref="3222469825"/>
+    <tag k="amenity" v="bicycle_parking"/>
+    <tag k="source" v="cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2014"/>
+  </way>
+  <way id="389397747" version="1" timestamp="2016-01-03T17:23:16Z" changeset="36343020" uid="362997" user="Virgile1994">
+    <nd ref="3925704359"/>
+    <nd ref="3925702955"/>
+    <nd ref="3925702956"/>
+    <nd ref="3925704360"/>
+    <nd ref="3925704359"/>
+    <tag k="amenity" v="bicycle_parking"/>
+    <tag k="bicycle_parking" v="building"/>
+    <tag k="building" v="construction"/>
+  </way>
+  <way id="389397750" version="1" timestamp="2016-01-03T17:23:16Z" changeset="36343020" uid="362997" user="Virgile1994">
+    <nd ref="3925704369"/>
+    <nd ref="3925704365"/>
+    <nd ref="3925704366"/>
+    <nd ref="3925704370"/>
+    <nd ref="3925704369"/>
+    <tag k="amenity" v="bicycle_parking"/>
+    <tag k="bicycle_parking" v="building"/>
+    <tag k="building" v="construction"/>
+  </way>
+  <node id="341066237" lat="45.1867421" lon="5.7260291" version="3" timestamp="2014-01-21T21:33:32Z" changeset="20130654" uid="870861" user="botdidier2020"/>
+  <node id="341066259" lat="45.1868674" lon="5.7263654" version="3" timestamp="2014-01-21T21:33:32Z" changeset="20130654" uid="870861" user="botdidier2020"/>
+  <node id="341066262" lat="45.1868367" lon="5.7263882" version="4" timestamp="2014-01-21T21:33:32Z" changeset="20130654" uid="870861" user="botdidier2020"/>
+  <node id="341066265" lat="45.1867132" lon="5.7260506" version="4" timestamp="2014-01-21T21:33:32Z" changeset="20130654" uid="870861" user="botdidier2020"/>
+  <node id="637826550" lat="45.2086759" lon="5.6907832" version="3" timestamp="2010-06-24T08:09:58Z" changeset="5064198" uid="45284" user="Eric S"/>
+  <node id="637826552" lat="45.2087159" lon="5.6907809" version="3" timestamp="2010-06-24T08:09:57Z" changeset="5064198" uid="45284" user="Eric S"/>
+  <node id="637826554" lat="45.2087151" lon="5.6907538" version="3" timestamp="2010-06-24T08:09:57Z" changeset="5064198" uid="45284" user="Eric S"/>
+  <node id="637826556" lat="45.2086751" lon="5.6907561" version="3" timestamp="2010-06-24T08:09:58Z" changeset="5064198" uid="45284" user="Eric S"/>
+  <node id="637826867" lat="45.2099300" lon="5.6893380" version="1" timestamp="2010-02-12T22:32:02Z" changeset="3860842" uid="183173" user="Dof"/>
+  <node id="637826868" lat="45.2099250" lon="5.6893110" version="1" timestamp="2010-02-12T22:32:02Z" changeset="3860842" uid="183173" user="Dof"/>
+  <node id="637826875" lat="45.2100050" lon="5.6893060" version="1" timestamp="2010-02-12T22:32:02Z" changeset="3860842" uid="183173" user="Dof"/>
+  <node id="637826876" lat="45.2100000" lon="5.6892810" version="1" timestamp="2010-02-12T22:32:02Z" changeset="3860842" uid="183173" user="Dof"/>
+  <node id="637826892" lat="45.2093251" lon="5.6903713" version="2" timestamp="2010-06-24T07:07:36Z" changeset="5063743" uid="45284" user="Eric S"/>
+  <node id="637826893" lat="45.2092843" lon="5.6903945" version="2" timestamp="2010-06-24T07:07:45Z" changeset="5063743" uid="45284" user="Eric S"/>
+  <node id="637826894" lat="45.2092898" lon="5.6904139" version="2" timestamp="2010-06-24T07:07:43Z" changeset="5063743" uid="45284" user="Eric S"/>
+  <node id="637826895" lat="45.2092978" lon="5.6904093" version="2" timestamp="2010-06-24T07:07:42Z" changeset="5063743" uid="45284" user="Eric S"/>
+  <node id="637826896" lat="45.2093041" lon="5.6904313" version="2" timestamp="2010-06-24T07:07:43Z" changeset="5063743" uid="45284" user="Eric S"/>
+  <node id="637826897" lat="45.2093369" lon="5.6904127" version="2" timestamp="2010-06-24T07:07:36Z" changeset="5063743" uid="45284" user="Eric S"/>
+  <node id="637828580" lat="45.2085976" lon="5.6928429" version="2" timestamp="2010-06-24T07:07:46Z" changeset="5063743" uid="45284" user="Eric S"/>
+  <node id="637828582" lat="45.2086436" lon="5.6928371" version="2" timestamp="2010-06-24T07:07:43Z" changeset="5063743" uid="45284" user="Eric S"/>
+  <node id="637828583" lat="45.2086354" lon="5.6927091" version="2" timestamp="2010-06-24T07:07:42Z" changeset="5063743" uid="45284" user="Eric S"/>
+  <node id="637828585" lat="45.2085894" lon="5.6927149" version="2" timestamp="2010-06-24T07:07:36Z" changeset="5063743" uid="45284" user="Eric S"/>
+  <node id="637828594" lat="45.2072546" lon="5.6938690" version="2" timestamp="2014-02-26T21:52:48Z" changeset="20799295" uid="45284" user="Eric S"/>
+  <node id="637828595" lat="45.2072524" lon="5.6939575" version="2" timestamp="2014-02-26T21:52:48Z" changeset="20799295" uid="45284" user="Eric S"/>
+  <node id="637828596" lat="45.2072719" lon="5.6939585" version="2" timestamp="2014-02-26T21:52:48Z" changeset="20799295" uid="45284" user="Eric S"/>
+  <node id="637828597" lat="45.2072741" lon="5.6938700" version="2" timestamp="2014-02-26T21:52:48Z" changeset="20799295" uid="45284" user="Eric S"/>
+  <node id="637832278" lat="45.2093320" lon="5.6926031" version="2" timestamp="2010-06-24T07:07:42Z" changeset="5063743" uid="45284" user="Eric S"/>
+  <node id="637832281" lat="45.2093801" lon="5.6925688" version="2" timestamp="2010-06-24T07:07:46Z" changeset="5063743" uid="45284" user="Eric S"/>
+  <node id="637832283" lat="45.2093400" lon="5.6924564" version="2" timestamp="2010-06-24T07:07:42Z" changeset="5063743" uid="45284" user="Eric S"/>
+  <node id="637832285" lat="45.2092919" lon="5.6924907" version="2" timestamp="2010-06-24T07:07:46Z" changeset="5063743" uid="45284" user="Eric S"/>
+  <node id="637832289" lat="45.2093608" lon="5.6927809" version="2" timestamp="2010-06-24T07:07:43Z" changeset="5063743" uid="45284" user="Eric S"/>
+  <node id="637832292" lat="45.2094013" lon="5.6927510" version="2" timestamp="2010-06-24T07:07:46Z" changeset="5063743" uid="45284" user="Eric S"/>
+  <node id="637832294" lat="45.2093767" lon="5.6926841" version="2" timestamp="2010-06-24T07:07:43Z" changeset="5063743" uid="45284" user="Eric S"/>
+  <node id="637832296" lat="45.2093362" lon="5.6927140" version="2" timestamp="2010-06-24T07:07:42Z" changeset="5063743" uid="45284" user="Eric S"/>
+  <node id="794526789" lat="45.2086254" lon="5.6930393" version="1" timestamp="2010-06-28T16:21:03Z" changeset="5098936" uid="45284" user="Eric S"/>
+  <node id="794526793" lat="45.2086632" lon="5.6929055" version="1" timestamp="2010-06-28T16:21:03Z" changeset="5098936" uid="45284" user="Eric S"/>
+  <node id="794526798" lat="45.2086172" lon="5.6929113" version="1" timestamp="2010-06-28T16:21:03Z" changeset="5098936" uid="45284" user="Eric S"/>
+  <node id="794526800" lat="45.2086714" lon="5.6930335" version="1" timestamp="2010-06-28T16:21:03Z" changeset="5098936" uid="45284" user="Eric S"/>
+  <node id="822164951" lat="45.1987852" lon="5.7175383" version="1" timestamp="2010-07-17T20:06:36Z" changeset="5245510" uid="179958" user="jecor38"/>
+  <node id="822165072" lat="45.1988466" lon="5.7174866" version="1" timestamp="2010-07-17T20:06:41Z" changeset="5245510" uid="179958" user="jecor38"/>
+  <node id="822165111" lat="45.1988404" lon="5.7174685" version="1" timestamp="2010-07-17T20:06:43Z" changeset="5245510" uid="179958" user="jecor38"/>
+  <node id="822165474" lat="45.1988099" lon="5.7174517" version="1" timestamp="2010-07-17T20:06:53Z" changeset="5245510" uid="179958" user="jecor38"/>
+  <node id="822165541" lat="45.1988913" lon="5.7174980" version="1" timestamp="2010-07-17T20:06:54Z" changeset="5245510" uid="179958" user="jecor38"/>
+  <node id="822166418" lat="45.1988874" lon="5.7175121" version="1" timestamp="2010-07-17T20:07:14Z" changeset="5245510" uid="179958" user="jecor38"/>
+  <node id="822167063" lat="45.1988164" lon="5.7175572" version="1" timestamp="2010-07-17T20:07:33Z" changeset="5245510" uid="179958" user="jecor38"/>
+  <node id="822167243" lat="45.1988601" lon="5.7174796" version="1" timestamp="2010-07-17T20:07:37Z" changeset="5245510" uid="179958" user="jecor38"/>
+  <node id="989971617" lat="45.1912272" lon="5.7359912" version="1" timestamp="2010-11-15T10:55:50Z" changeset="6376421" uid="97205" user="christouf"/>
+  <node id="989971674" lat="45.1914507" lon="5.7357640" version="1" timestamp="2010-11-15T10:56:05Z" changeset="6376421" uid="97205" user="christouf"/>
+  <node id="989971712" lat="45.1913408" lon="5.7359037" version="1" timestamp="2010-11-15T10:56:07Z" changeset="6376421" uid="97205" user="christouf"/>
+  <node id="989971858" lat="45.1912117" lon="5.7359515" version="1" timestamp="2010-11-15T10:56:13Z" changeset="6376421" uid="97205" user="christouf"/>
+  <node id="989971870" lat="45.1913885" lon="5.7358144" version="1" timestamp="2010-11-15T10:56:13Z" changeset="6376421" uid="97205" user="christouf"/>
+  <node id="989971906" lat="45.1912748" lon="5.7359541" version="1" timestamp="2010-11-15T10:56:15Z" changeset="6376421" uid="97205" user="christouf"/>
+  <node id="989971959" lat="45.1913251" lon="5.7358633" version="1" timestamp="2010-11-15T10:56:17Z" changeset="6376421" uid="97205" user="christouf"/>
+  <node id="989971976" lat="45.1914218" lon="5.7358400" version="1" timestamp="2010-11-15T10:56:17Z" changeset="6376421" uid="97205" user="christouf"/>
+  <node id="989972077" lat="45.1914058" lon="5.7358001" version="1" timestamp="2010-11-15T10:56:21Z" changeset="6376421" uid="97205" user="christouf"/>
+  <node id="989972099" lat="45.1912592" lon="5.7359144" version="1" timestamp="2010-11-15T10:56:23Z" changeset="6376421" uid="97205" user="christouf"/>
+  <node id="989972117" lat="45.1913581" lon="5.7358894" version="1" timestamp="2010-11-15T10:56:24Z" changeset="6376421" uid="97205" user="christouf"/>
+  <node id="989972140" lat="45.1913428" lon="5.7358507" version="1" timestamp="2010-11-15T10:56:25Z" changeset="6376421" uid="97205" user="christouf"/>
+  <node id="989972159" lat="45.1914667" lon="5.7358039" version="1" timestamp="2010-11-15T10:56:26Z" changeset="6376421" uid="97205" user="christouf"/>
+  <node id="989972177" lat="45.1912929" lon="5.7359409" version="1" timestamp="2010-11-15T10:56:27Z" changeset="6376421" uid="97205" user="christouf"/>
+  <node id="989972253" lat="45.1912772" lon="5.7359005" version="1" timestamp="2010-11-15T10:56:31Z" changeset="6376421" uid="97205" user="christouf"/>
+  <node id="989972268" lat="45.1914039" lon="5.7358531" version="1" timestamp="2010-11-15T10:56:32Z" changeset="6376421" uid="97205" user="christouf"/>
+  <node id="1029745924" lat="45.1575206" lon="5.7366844" version="4" timestamp="2014-07-25T16:53:30Z" changeset="24354361" uid="918586" user="Binnette"/>
+  <node id="1029756422" lat="45.1574319" lon="5.7365848" version="4" timestamp="2014-07-25T16:53:30Z" changeset="24354361" uid="918586" user="Binnette"/>
+  <node id="1029759708" lat="45.1575188" lon="5.7365818" version="4" timestamp="2014-07-25T16:53:30Z" changeset="24354361" uid="918586" user="Binnette"/>
+  <node id="1029766554" lat="45.1574336" lon="5.7366873" version="4" timestamp="2014-07-25T16:53:30Z" changeset="24354361" uid="918586" user="Binnette"/>
+  <node id="2494513233" lat="45.1577180" lon="5.7363412" version="2" timestamp="2014-07-25T16:53:30Z" changeset="24354361" uid="918586" user="Binnette"/>
+  <node id="2685399873" lat="45.2086487" lon="5.6931059" version="1" timestamp="2014-02-22T17:41:40Z" changeset="20718101" uid="45284" user="Eric S"/>
+  <node id="2685399874" lat="45.2086569" lon="5.6932339" version="1" timestamp="2014-02-22T17:41:40Z" changeset="20718101" uid="45284" user="Eric S"/>
+  <node id="2685399875" lat="45.2086947" lon="5.6931001" version="1" timestamp="2014-02-22T17:41:40Z" changeset="20718101" uid="45284" user="Eric S"/>
+  <node id="2685399877" lat="45.2087029" lon="5.6932281" version="1" timestamp="2014-02-22T17:41:40Z" changeset="20718101" uid="45284" user="Eric S"/>
+  <node id="2685399882" lat="45.2092625" lon="5.6922849" version="1" timestamp="2014-02-22T17:41:40Z" changeset="20718101" uid="45284" user="Eric S"/>
+  <node id="2685399884" lat="45.2093026" lon="5.6923973" version="1" timestamp="2014-02-22T17:41:40Z" changeset="20718101" uid="45284" user="Eric S"/>
+  <node id="2685399885" lat="45.2093106" lon="5.6922506" version="1" timestamp="2014-02-22T17:41:40Z" changeset="20718101" uid="45284" user="Eric S"/>
+  <node id="2685399886" lat="45.2093507" lon="5.6923630" version="1" timestamp="2014-02-22T17:41:40Z" changeset="20718101" uid="45284" user="Eric S"/>
+  <node id="2979738139" lat="45.1577178" lon="5.7362927" version="1" timestamp="2014-07-25T16:53:27Z" changeset="24354361" uid="918586" user="Binnette"/>
+  <node id="2979738142" lat="45.1577652" lon="5.7362922" version="1" timestamp="2014-07-25T16:53:27Z" changeset="24354361" uid="918586" user="Binnette"/>
+  <node id="2979738143" lat="45.1577654" lon="5.7363407" version="1" timestamp="2014-07-25T16:53:27Z" changeset="24354361" uid="918586" user="Binnette"/>
+  <node id="3191588113" lat="45.1867722" lon="5.7261100" version="1" timestamp="2014-11-17T15:17:50Z" changeset="26844979" uid="362997" user="Virgile1994"/>
+  <node id="3222469823" lat="45.2073365" lon="5.6964655" version="1" timestamp="2014-12-06T22:54:45Z" changeset="27301509" uid="45284" user="Eric S"/>
+  <node id="3222469825" lat="45.2073509" lon="5.6964467" version="1" timestamp="2014-12-06T22:54:45Z" changeset="27301509" uid="45284" user="Eric S"/>
+  <node id="3222469836" lat="45.2076122" lon="5.6968878" version="1" timestamp="2014-12-06T22:54:46Z" changeset="27301509" uid="45284" user="Eric S"/>
+  <node id="3222469837" lat="45.2076266" lon="5.6968689" version="1" timestamp="2014-12-06T22:54:46Z" changeset="27301509" uid="45284" user="Eric S"/>
+  <node id="3222470093" lat="45.2086530" lon="5.6931737" version="1" timestamp="2014-12-06T22:54:46Z" changeset="27301509" uid="45284" user="Eric S">
+    <tag k="amenity" v="compressed_air"/>
+    <tag k="source" v="cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2014"/>
+  </node>
+  <node id="3925702955" lat="45.1914719" lon="5.7136197" version="1" timestamp="2016-01-03T17:23:15Z" changeset="36343020" uid="362997" user="Virgile1994"/>
+  <node id="3925702956" lat="45.1914954" lon="5.7137123" version="1" timestamp="2016-01-03T17:23:15Z" changeset="36343020" uid="362997" user="Virgile1994"/>
+  <node id="3925704359" lat="45.1916922" lon="5.7135070" version="1" timestamp="2016-01-03T17:23:15Z" changeset="36343020" uid="362997" user="Virgile1994"/>
+  <node id="3925704360" lat="45.1917158" lon="5.7135996" version="1" timestamp="2016-01-03T17:23:16Z" changeset="36343020" uid="362997" user="Virgile1994"/>
+  <node id="3925704365" lat="45.1923224" lon="5.7142104" version="1" timestamp="2016-01-03T17:23:16Z" changeset="36343020" uid="362997" user="Virgile1994"/>
+  <node id="3925704366" lat="45.1923459" lon="5.7143030" version="1" timestamp="2016-01-03T17:23:16Z" changeset="36343020" uid="362997" user="Virgile1994"/>
+  <node id="3925704369" lat="45.1925427" lon="5.7140977" version="1" timestamp="2016-01-03T17:23:16Z" changeset="36343020" uid="362997" user="Virgile1994"/>
+  <node id="3925704370" lat="45.1925663" lon="5.7141903" version="1" timestamp="2016-01-03T17:23:16Z" changeset="36343020" uid="362997" user="Virgile1994"/>
+
+</osm>
