@@ -1,610 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <osm version='0.6' upload='true' generator='JOSM'>
-  <node id='-3263' visible='true' lat='45.1942295' lon='5.7326306'>
-    <tag k='amenity' v='bicycle_parking' />
-  </node>
-  <node id='-3264' visible='true' lat='45.1942443' lon='5.7271086'>
-    <tag k='amenity' v='bicycle_parking' />
-    <tag k='bicycle_parking' v='stands' />
-    <tag k='capacity' v='12' />
-  </node>
-  <node id='-3265' visible='true' lat='45.1837096' lon='5.7241498'>
-    <tag k='amenity' v='bicycle_parking' />
-    <tag k='source' v='cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010' />
-  </node>
-  <node id='-3266' visible='true' lat='45.1884814' lon='5.7230391'>
-    <tag k='amenity' v='bicycle_parking' />
-  </node>
-  <node id='-3267' visible='true' lat='45.1805157' lon='5.7049076'>
-    <tag k='amenity' v='bicycle_parking' />
-    <tag k='bicycle_parking' v='stands' />
-    <tag k='capacity' v='4' />
-  </node>
-  <node id='-3268' visible='true' lat='45.2093251' lon='5.6903713' />
-  <node id='-3269' visible='true' lat='45.1877672' lon='5.7215164'>
-    <tag k='amenity' v='bicycle_parking' />
-    <tag k='bicycle_parking' v='stands' />
-    <tag k='capacity' v='8' />
-  </node>
-  <node id='-3270' visible='true' lat='45.1988164' lon='5.7175572' />
-  <node id='-3271' visible='true' lat='45.2071352' lon='5.6934176'>
-    <tag k='amenity' v='bicycle_parking' />
-    <tag k='source' v='cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010' />
-  </node>
-  <node id='-3272' visible='true' lat='45.1892621' lon='5.7126828'>
-    <tag k='amenity' v='bicycle_parking' />
-    <tag k='bicycle_parking' v='stands' />
-    <tag k='capacity' v='8' />
-  </node>
-  <node id='-3273' visible='true' lat='45.1888547' lon='5.7037856'>
-    <tag k='amenity' v='bicycle_parking' />
-    <tag k='source' v='cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre ; mise à jour : 2010' />
-  </node>
-  <node id='-3274' visible='true' lat='45.2093801' lon='5.6925688' />
-  <node id='-3275' visible='true' lat='45.1977156' lon='5.7323517'>
-    <tag k='amenity' v='bicycle_parking' />
-  </node>
-  <node id='-3276' visible='true' lat='45.1987852' lon='5.7175383' />
-  <node id='-3277' visible='true' lat='45.1881866' lon='5.7045414'>
-    <tag k='amenity' v='bicycle_parking' />
-    <tag k='bicycle_parking' v='stands' />
-    <tag k='capacity' v='12' />
-    <tag k='covered' v='yes' />
-  </node>
-  <node id='-3278' visible='true' lat='45.1914719' lon='5.7136197' />
-  <node id='-3279' visible='true' lat='45.1902714' lon='5.7279095'>
-    <tag k='amenity' v='bicycle_parking' />
-    <tag k='bicycle_parking' v='stands' />
-    <tag k='capacity' v='10' />
-  </node>
-  <node id='-3280' visible='true' lat='45.1575206' lon='5.7366844' />
-  <node id='-3281' visible='true' lat='45.1904417' lon='5.7191629'>
-    <tag k='amenity' v='bicycle_parking' />
-    <tag k='capacity' v='8' />
-    <tag k='covered' v='no' />
-  </node>
-  <node id='-3282' visible='true' lat='45.1801418' lon='5.715285'>
-    <tag k='amenity' v='bicycle_parking' />
-    <tag k='covered' v='no' />
-  </node>
-  <node id='-3283' visible='true' lat='45.1988874' lon='5.7175121' />
-  <node id='-3284' visible='true' lat='45.1986532' lon='5.7326653'>
-    <tag k='amenity' v='bicycle_parking' />
-    <tag k='bicycle_parking' v='stands' />
-    <tag k='capacity' v='4' />
-  </node>
-  <node id='-3285' visible='true' lat='45.2073509' lon='5.6964467' />
-  <node id='-3286' visible='true' lat='45.1844784' lon='5.7036433'>
-    <tag k='access' v='permissive' />
-    <tag k='amenity' v='bicycle_parking' />
-    <tag k='bicycle_parking' v='stands' />
-    <tag k='capacity' v='10' />
-    <tag k='covered' v='yes' />
-  </node>
-  <node id='-3287' visible='true' lat='45.1846725' lon='5.7206493'>
-    <tag k='amenity' v='bicycle_parking' />
-    <tag k='bicycle_parking' v='stands' />
-    <tag k='capacity' v='4' />
-  </node>
-  <node id='-3288' visible='true' lat='45.1913428' lon='5.7358507' />
-  <node id='-3290' visible='true' lat='45.1939184' lon='5.7255355'>
-    <tag k='amenity' v='bicycle_parking' />
-    <tag k='bicycle_parking' v='stands' />
-    <tag k='capacity' v='4' />
-  </node>
-  <node id='-3291' visible='true' lat='45.1568019' lon='5.734188'>
-    <tag k='amenity' v='bicycle_parking' />
-    <tag k='bicycle_parking' v='lockers' />
-    <tag k='capacity' v='6' />
-    <tag k='name' v='Alpexpo' />
-    <tag k='network' v='MétroVéloBox' />
-    <tag k='operator' v='Semitag' />
-    <tag k='ref' v='AB' />
-  </node>
-  <node id='-3292' visible='true' lat='45.1821474' lon='5.7237591'>
-    <tag k='amenity' v='bicycle_parking' />
-    <tag k='bicycle_parking' v='stands' />
-    <tag k='capacity' v='6' />
-  </node>
-  <node id='-3293' visible='true' lat='45.1889543' lon='5.7380141'>
-    <tag k='amenity' v='bicycle_parking' />
-    <tag k='capacity' v='4' />
-  </node>
-  <node id='-3294' visible='true' lat='45.1921656' lon='5.7125104'>
-    <tag k='amenity' v='bicycle_parking' />
-    <tag k='bicycle_parking' v='stands' />
-    <tag k='capacity' v='12' />
-  </node>
-  <node id='-3295' visible='true' lat='45.196376' lon='5.737912'>
-    <tag k='amenity' v='bicycle_parking' />
-    <tag k='bicycle_parking' v='anchors' />
-    <tag k='capacity' v='3' />
-    <tag k='source' v='cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre ; mise à jour :2012' />
-  </node>
-  <node id='-3296' visible='true' lat='45.2092359' lon='5.6875418'>
-    <tag k='amenity' v='bicycle_parking' />
-  </node>
-  <node id='-3297' visible='true' lat='45.2093767' lon='5.6926841' />
-  <node id='-3298' visible='true' lat='45.1929081' lon='5.7371061'>
-    <tag k='amenity' v='bicycle_parking' />
-  </node>
-  <node id='-3299' visible='true' lat='45.188514' lon='5.7328528'>
-    <tag k='amenity' v='bicycle_parking' />
-    <tag k='bicycle_parking' v='stands' />
-    <tag k='capacity' v='18' />
-  </node>
-  <node id='-3300' visible='true' lat='45.1913885' lon='5.7358144' />
-  <node id='-3301' visible='true' lat='45.1914218' lon='5.73584' />
-  <node id='-3302' visible='true' lat='45.1868979' lon='5.7330143'>
-    <tag k='amenity' v='bicycle_parking' />
-  </node>
-  <node id='-3303' visible='true' lat='45.1870279' lon='5.7240197'>
-    <tag k='amenity' v='bicycle_parking' />
-  </node>
-  <node id='-3304' visible='true' lat='45.1876132' lon='5.7166138'>
-    <tag k='amenity' v='bicycle_parking' />
-    <tag k='bicycle_parking' v='stands' />
-    <tag k='capacity' v='4' />
-    <tag k='covered' v='no' />
-  </node>
-  <node id='-3305' visible='true' lat='45.1866532' lon='5.7334865'>
-    <tag k='access' v='private' />
-    <tag k='amenity' v='bicycle_parking' />
-  </node>
-  <node id='-3306' visible='true' lat='45.1786394' lon='5.7423731'>
-    <tag k='amenity' v='bicycle_parking' />
-    <tag k='bicycle_parking' v='stands' />
-    <tag k='capacity' v='6' />
-    <tag k='covered' v='no' />
-  </node>
-  <node id='-3307' visible='true' lat='45.1913408' lon='5.7359037' />
-  <node id='-3308' visible='true' lat='45.1577178' lon='5.7362927' />
-  <node id='-3309' visible='true' lat='45.1988913' lon='5.717498' />
-  <node id='-3310' visible='true' lat='45.2092625' lon='5.6922849' />
-  <node id='-3311' visible='true' lat='45.2087151' lon='5.6907538' />
-  <node id='-3312' visible='true' lat='45.1844257' lon='5.703812'>
-    <tag k='access' v='permissive' />
-    <tag k='amenity' v='bicycle_parking' />
-    <tag k='bicycle_parking' v='stands' />
-    <tag k='capacity' v='6' />
-    <tag k='covered' v='yes' />
-  </node>
-  <node id='-3313' visible='true' lat='45.1946588' lon='5.7286279'>
-    <tag k='amenity' v='bicycle_parking' />
-    <tag k='bicycle_parking' v='stands' />
-    <tag k='capacity' v='12' />
-  </node>
-  <node id='-3315' visible='true' lat='45.1917158' lon='5.7135996' />
-  <node id='-3316' visible='true' lat='45.1912772' lon='5.7359005' />
-  <node id='-3317' visible='true' lat='45.180534' lon='5.7352961'>
-    <tag k='amenity' v='bicycle_parking' />
-    <tag k='bicycle_parking' v='stands' />
-    <tag k='capacity' v='6' />
-    <tag k='covered' v='no' />
-  </node>
-  <node id='-3318' visible='true' lat='45.1820359' lon='5.7238327'>
-    <tag k='amenity' v='bicycle_parking' />
-    <tag k='bicycle_parking' v='stands' />
-    <tag k='capacity' v='6' />
-  </node>
-  <node id='-3319' visible='true' lat='45.2085894' lon='5.6927149' />
-  <node id='-3321' visible='true' lat='45.1840137' lon='5.7133639'>
-    <tag k='amenity' v='bicycle_parking' />
-    <tag k='bicycle_parking' v='stands' />
-    <tag k='capacity' v='10' />
-  </node>
-  <node id='-3322' visible='true' lat='45.1795348' lon='5.7419909'>
-    <tag k='amenity' v='bicycle_parking' />
-    <tag k='bicycle_parking' v='stands' />
-    <tag k='capacity' v='6' />
-    <tag k='covered' v='no' />
-  </node>
-  <node id='-3323' visible='true' lat='45.1876444' lon='5.7235626'>
-    <tag k='amenity' v='bicycle_parking' />
-    <tag k='bicycle_parking' v='stands' />
-    <tag k='capacity' v='8' />
-  </node>
-  <node id='-3324' visible='true' lat='45.1889257' lon='5.7310878'>
-    <tag k='amenity' v='bicycle_parking' />
-  </node>
-  <node id='-3325' visible='true' lat='45.1862956' lon='5.7112542'>
-    <tag k='amenity' v='bicycle_parking' />
-    <tag k='bicycle_parking' v='stands' />
-    <tag k='capacity' v='10' />
-  </node>
-  <node id='-3326' visible='true' lat='45.1574336' lon='5.7366873' />
-  <node id='-3327' visible='true' lat='45.1902882' lon='5.7155181'>
-    <tag k='amenity' v='bicycle_parking' />
-    <tag k='bicycle_parking' v='stands' />
-    <tag k='capacity' v='18' />
-    <tag k='level' v='0' />
-  </node>
-  <node id='-3328' visible='true' lat='45.194891' lon='5.7094785'>
-    <tag k='amenity' v='bicycle_parking' />
-  </node>
-  <node id='-3330' visible='true' lat='45.2086172' lon='5.6929113' />
-  <node id='-3331' visible='true' lat='45.2076266' lon='5.6968689' />
-  <node id='-3332' visible='true' lat='45.1915214' lon='5.7144819'>
+  <node id='-8572' visible='true' lat='45.1915214' lon='5.7144819'>
     <tag k='amenity' v='bicycle_parking' />
     <tag k='bicycle_parking' v='shed' />
     <tag k='layer' v='-1' />
     <tag k='level' v='-1' />
   </node>
-  <node id='-3333' visible='true' lat='45.1796314' lon='5.705226'>
-    <tag k='amenity' v='bicycle_parking' />
-  </node>
-  <node id='-3334' visible='true' lat='45.1751003' lon='5.7414929'>
-    <tag k='amenity' v='bicycle_parking' />
-    <tag k='bicycle_parking' v='stands' />
-    <tag k='capacity' v='8' />
-    <tag k='covered' v='no' />
-  </node>
-  <node id='-3336' visible='true' lat='45.1946426' lon='5.728435'>
-    <tag k='amenity' v='bicycle_parking' />
-    <tag k='bicycle_parking' v='stands' />
-    <tag k='capacity' v='4' />
-  </node>
-  <node id='-3337' visible='true' lat='45.2086947' lon='5.6931001' />
-  <node id='-3338' visible='true' lat='45.1732701' lon='5.7316947'>
-    <tag k='amenity' v='bicycle_parking' />
-    <tag k='bicycle_parking' v='lockers' />
-    <tag k='capacity' v='6' />
-    <tag k='name' v='MC2 Maison Culture' />
-    <tag k='network' v='MétroVéloBox' />
-    <tag k='operator' v='Semitag' />
-    <tag k='ref' v='AT' />
-  </node>
-  <node id='-3339' visible='true' lat='45.1864768' lon='5.7319336'>
-    <tag k='amenity' v='bicycle_parking' />
-    <tag k='bicycle_parking' v='stands' />
-  </node>
-  <node id='-3340' visible='true' lat='45.1926093' lon='5.7094943'>
-    <tag k='amenity' v='bicycle_parking' />
-    <tag k='bicycle_parking' v='stands' />
-    <tag k='capacity' v='2' />
-  </node>
-  <node id='-3342' visible='true' lat='45.2093369' lon='5.6904127' />
-  <node id='-3343' visible='true' lat='45.1834625' lon='5.7265375'>
-    <tag k='amenity' v='bicycle_parking' />
-    <tag k='bicycle_parking' v='stands' />
-    <tag k='capacity' v='20' />
-  </node>
-  <node id='-3344' visible='true' lat='45.1960146' lon='5.7242218'>
-    <tag k='amenity' v='bicycle_parking' />
-    <tag k='covered' v='yes' />
-    <tag k='source' v='cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010' />
-  </node>
-  <node id='-3345' visible='true' lat='45.1564174' lon='5.7343965'>
-    <tag k='amenity' v='bicycle_parking' />
-  </node>
-  <node id='-3346' visible='true' lat='45.1932463' lon='5.7314643'>
-    <tag k='amenity' v='bicycle_parking' />
-  </node>
-  <node id='-3347' visible='true' lat='45.1904557' lon='5.7294576'>
-    <tag k='amenity' v='bicycle_parking' />
-    <tag k='bicycle_parking' v='stands' />
-    <tag k='capacity' v='4' />
-  </node>
-  <node id='-3348' visible='true' lat='45.193687' lon='5.7371566'>
-    <tag k='amenity' v='bicycle_parking' />
-  </node>
-  <node id='-3349' visible='true' lat='45.2076122' lon='5.6968878' />
-  <node id='-3350' visible='true' lat='45.1952272' lon='5.7109678'>
-    <tag k='amenity' v='bicycle_parking' />
-    <tag k='bicycle_parking' v='lockers' />
-    <tag k='capacity' v='6' />
-    <tag k='name' v='Cité Internationale' />
-    <tag k='network' v='MétroVéloBox' />
-    <tag k='operator' v='Semitag' />
-    <tag k='ref' v='AA' />
-  </node>
-  <node id='-3351' visible='true' lat='45.1914667' lon='5.7358039' />
-  <node id='-3353' visible='true' lat='45.1893527' lon='5.7327569'>
-    <tag k='amenity' v='bicycle_parking' />
-    <tag k='bicycle_parking' v='stands' />
-    <tag k='capacity' v='8' />
-  </node>
-  <node id='-3354' visible='true' lat='45.2087159' lon='5.6907809' />
-  <node id='-3355' visible='true' lat='45.1851441' lon='5.726572'>
-    <tag k='amenity' v='bicycle_parking' />
-    <tag k='bicycle_parking' v='stands' />
-    <tag k='capacity' v='6' />
-    <tag k='covered' v='no' />
-  </node>
-  <node id='-3356' visible='true' lat='45.2072741' lon='5.69387' />
-  <node id='-3357' visible='true' lat='45.1909482' lon='5.7096823'>
-    <tag k='amenity' v='bicycle_parking' />
-    <tag k='bicycle_parking' v='stands' />
-    <tag k='capacity' v='4' />
-  </node>
-  <node id='-3358' visible='true' lat='45.2014278' lon='5.7340323'>
-    <tag k='amenity' v='bicycle_parking' />
-    <tag k='bicycle_parking' v='lockers' />
-    <tag k='capacity' v='10' />
-    <tag k='name' v='Métro vélo BOX' />
-  </node>
-  <node id='-3359' visible='true' lat='45.1923459' lon='5.714303' />
-  <node id='-3360' visible='true' lat='45.1940097' lon='5.726007'>
-    <tag k='amenity' v='bicycle_parking' />
-    <tag k='bicycle_parking' v='stands' />
-    <tag k='capacity' v='6' />
-  </node>
-  <node id='-3361' visible='true' lat='45.1863629' lon='5.7329812'>
-    <tag k='amenity' v='bicycle_parking' />
-  </node>
-  <node id='-3363' visible='true' lat='45.2093041' lon='5.6904313' />
-  <node id='-3365' visible='true' lat='45.1891835' lon='5.7180353'>
-    <tag k='amenity' v='bicycle_parking' />
-  </node>
-  <node id='-3366' visible='true' lat='45.1918406' lon='5.7127851'>
-    <tag k='amenity' v='bicycle_parking' />
-    <tag k='bicycle_parking' v='stands' />
-    <tag k='capacity' v='4' />
-  </node>
-  <node id='-3367' visible='true' lat='45.1844324' lon='5.7035391'>
-    <tag k='amenity' v='bicycle_parking' />
-    <tag k='bicycle_parking' v='stands' />
-    <tag k='capacity' v='10' />
-  </node>
-  <node id='-3368' visible='true' lat='45.2098803' lon='5.6908248'>
-    <tag k='amenity' v='bicycle_parking' />
-  </node>
-  <node id='-3369' visible='true' lat='45.1939465' lon='5.7256768'>
-    <tag k='amenity' v='bicycle_parking' />
-    <tag k='bicycle_parking' v='stands' />
-    <tag k='capacity' v='4' />
-  </node>
-  <node id='-3370' visible='true' lat='45.2092919' lon='5.6924907' />
-  <node id='-3371' visible='true' lat='45.1912272' lon='5.7359912' />
-  <node id='-3372' visible='true' lat='45.21' lon='5.689281' />
-  <node id='-3373' visible='true' lat='45.1884834' lon='5.736928'>
-    <tag k='amenity' v='bicycle_parking' />
-  </node>
-  <node id='-3374' visible='true' lat='45.1844238' lon='5.7038786'>
-    <tag k='access' v='permissive' />
-    <tag k='amenity' v='bicycle_parking' />
-    <tag k='bicycle_parking' v='stands' />
-    <tag k='capacity' v='20' />
-    <tag k='covered' v='yes' />
-  </node>
-  <node id='-3375' visible='true' lat='45.1912592' lon='5.7359144' />
-  <node id='-3376' visible='true' lat='45.1901455' lon='5.7264375'>
-    <tag k='amenity' v='bicycle_parking' />
-    <tag k='bicycle_parking' v='stands' />
-    <tag k='capacity' v='4' />
-  </node>
-  <node id='-3377' visible='true' lat='45.1849042' lon='5.7035113'>
-    <tag k='amenity' v='bicycle_parking' />
-    <tag k='capacity' v='8' />
-  </node>
-  <node id='-3378' visible='true' lat='45.2072719' lon='5.6939585' />
-  <node id='-3379' visible='true' lat='45.1790756' lon='5.7260991'>
-    <tag k='amenity' v='bicycle_parking' />
-    <tag k='bicycle_parking' v='stands' />
-    <tag k='capacity' v='6' />
-    <tag k='covered' v='no' />
-  </node>
-  <node id='-3380' visible='true' lat='45.1923224' lon='5.7142104' />
-  <node id='-3381' visible='true' lat='45.2073365' lon='5.6964655' />
-  <node id='-3382' visible='true' lat='45.2076786' lon='5.6922896'>
-    <tag k='amenity' v='bicycle_parking' />
-  </node>
-  <node id='-3383' visible='true' lat='45.1907441' lon='5.7119622'>
-    <tag k='amenity' v='bicycle_parking' />
-    <tag k='source' v='cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre ; mise à jour : 2010' />
-  </node>
-  <node id='-3384' visible='true' lat='45.157718' lon='5.7363412' />
-  <node id='-3385' visible='true' lat='45.1807955' lon='5.7056327'>
-    <tag k='amenity' v='bicycle_parking' />
-    <tag k='bicycle_parking' v='stands' />
-    <tag k='capacity' v='4' />
-  </node>
-  <node id='-3386' visible='true' lat='45.192719' lon='5.7124917'>
-    <tag k='amenity' v='bicycle_parking' />
-    <tag k='capacity' v='4' />
-  </node>
-  <node id='-3387' visible='true' lat='45.1912929' lon='5.7359409' />
-  <node id='-3390' visible='true' lat='45.1896782' lon='5.7248412'>
-    <tag k='amenity' v='bicycle_parking' />
-  </node>
-  <node id='-3391' visible='true' lat='45.1976781' lon='5.7317552'>
-    <tag k='amenity' v='bicycle_parking' />
-    <tag k='bicycle_parking' v='stands' />
-  </node>
-  <node id='-3393' visible='true' lat='45.1577654' lon='5.7363407' />
-  <node id='-3394' visible='true' lat='45.1883257' lon='5.7149826'>
-    <tag k='amenity' v='bicycle_parking' />
-    <tag k='capacity' v='12' />
-  </node>
-  <node id='-3395' visible='true' lat='45.1862698' lon='5.7046831'>
-    <tag k='amenity' v='bicycle_parking' />
-  </node>
-  <node id='-3396' visible='true' lat='45.1899724' lon='5.7257988'>
-    <tag k='amenity' v='bicycle_parking' />
-    <tag k='bicycle_parking' v='stands' />
-    <tag k='capacity' v='18' />
-  </node>
-  <node id='-3397' visible='true' lat='45.2086254' lon='5.6930393' />
-  <node id='-3398' visible='true' lat='45.1848135' lon='5.7035092'>
-    <tag k='amenity' v='bicycle_parking' />
-    <tag k='capacity' v='8' />
-  </node>
-  <node id='-3399' visible='true' lat='45.1947709' lon='5.7286779'>
-    <tag k='amenity' v='bicycle_parking' />
-    <tag k='bicycle_parking' v='stands' />
-    <tag k='capacity' v='6' />
-  </node>
-  <node id='-3400' visible='true' lat='45.1831059' lon='5.7125237'>
-    <tag k='amenity' v='bicycle_parking' />
-    <tag k='bicycle_parking' v='stands' />
-    <tag k='capacity' v='8' />
-    <tag k='covered' v='no' />
-  </node>
-  <node id='-3401' visible='true' lat='45.1883057' lon='5.7127241'>
-    <tag k='amenity' v='bicycle_parking' />
-    <tag k='bicycle_parking' v='stands' />
-    <tag k='capacity' v='4' />
-  </node>
-  <node id='-3402' visible='true' lat='45.1905515' lon='5.7132624'>
-    <tag k='amenity' v='bicycle_parking' />
-  </node>
-  <node id='-3403' visible='true' lat='45.1841822' lon='5.7147471'>
-    <tag k='amenity' v='bicycle_parking' />
-    <tag k='bicycle_parking' v='stands' />
-    <tag k='capacity' v='8' />
-  </node>
-  <node id='-3404' visible='true' lat='45.2083024' lon='5.6877269'>
-    <tag k='amenity' v='bicycle_parking' />
-  </node>
-  <node id='-3405' visible='true' lat='45.2086354' lon='5.6927091' />
-  <node id='-3406' visible='true' lat='45.203214' lon='5.7019776'>
-    <tag k='amenity' v='bicycle_parking' />
-  </node>
-  <node id='-3408' visible='true' lat='45.1891071' lon='5.7157982'>
-    <tag k='amenity' v='bicycle_parking' />
-    <tag k='bicycle_parking' v='shed' />
-  </node>
-  <node id='-3409' visible='true' lat='45.1891661' lon='5.7224767'>
-    <tag k='amenity' v='bicycle_parking' />
-  </node>
-  <node id='-3410' visible='true' lat='45.209925' lon='5.689311' />
-  <node id='-3411' visible='true' lat='45.1577652' lon='5.7362922' />
-  <node id='-3413' visible='true' lat='45.1912748' lon='5.7359541' />
-  <node id='-3414' visible='true' lat='45.1796198' lon='5.7052254'>
-    <tag k='amenity' v='bicycle_parking' />
-  </node>
-  <node id='-3415' visible='true' lat='45.1764528' lon='5.722331'>
-    <tag k='amenity' v='bicycle_parking' />
-    <tag k='bicycle_parking' v='stands' />
-    <tag k='capacity' v='16' />
-  </node>
-  <node id='-3416' visible='true' lat='45.2086436' lon='5.6928371' />
-  <node id='-3417' visible='true' lat='45.1855898' lon='5.7058001'>
-    <tag k='amenity' v='bicycle_parking' />
-    <tag k='bicycle_parking' v='stands' />
-    <tag k='capacity' v='6' />
-  </node>
-  <node id='-3418' visible='true' lat='45.2035466' lon='5.7015109'>
-    <tag k='amenity' v='bicycle_parking' />
-  </node>
-  <node id='-3419' visible='true' lat='45.2100617' lon='5.6882499'>
-    <tag k='amenity' v='bicycle_parking' />
-  </node>
-  <node id='-3420' visible='true' lat='45.1828155' lon='5.7245353'>
-    <tag k='amenity' v='bicycle_parking' />
-    <tag k='bicycle_parking' v='stands' />
-    <tag k='capacity' v='10' />
-  </node>
-  <node id='-3421' visible='true' lat='45.1952188' lon='5.7289164'>
-    <tag k='amenity' v='bicycle_parking' />
-    <tag k='bicycle_parking' v='stands' />
-    <tag k='capacity' v='8' />
-  </node>
-  <node id='-3422' visible='true' lat='45.1907446' lon='5.7151979'>
-    <tag k='amenity' v='bicycle_parking' />
-    <tag k='bicycle_parking' v='stands' />
-    <tag k='capacity' v='26' />
-    <tag k='level' v='0' />
-  </node>
-  <node id='-3423' visible='true' lat='45.1906833' lon='5.7154106'>
-    <tag k='amenity' v='bicycle_parking' />
-    <tag k='bicycle_parking' v='stands' />
-    <tag k='capacity' v='42' />
-    <tag k='level' v='0' />
-  </node>
-  <node id='-3424' visible='true' lat='45.2057172' lon='5.6954412'>
-    <tag k='amenity' v='bicycle_parking' />
-    <tag k='source' v='cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010' />
-  </node>
-  <node id='-3425' visible='true' lat='45.210005' lon='5.689306' />
-  <node id='-3426' visible='true' lat='45.187958' lon='5.7206755'>
-    <tag k='amenity' v='bicycle_parking' />
-  </node>
-  <node id='-3427' visible='true' lat='45.1895553' lon='5.7246739'>
-    <tag k='amenity' v='bicycle_parking' />
-    <tag k='bicycle_parking' v='stands' />
-    <tag k='capacity' v='6' />
-  </node>
-  <node id='-3428' visible='true' lat='45.1857629' lon='5.7302826'>
-    <tag k='amenity' v='bicycle_parking' />
-    <tag k='bicycle_parking' v='stands' />
-    <tag k='capacity' v='4' />
-  </node>
-  <node id='-3429' visible='true' lat='45.1709536' lon='5.74031'>
-    <tag k='amenity' v='bicycle_parking' />
-    <tag k='bicycle_parking' v='stands' />
-    <tag k='capacity' v='6' />
-    <tag k='covered' v='no' />
-  </node>
-  <node id='-3430' visible='true' lat='45.2086751' lon='5.6907561' />
-  <node id='-3431' visible='true' lat='45.1844809' lon='5.7035261'>
-    <tag k='access' v='permissive' />
-    <tag k='amenity' v='bicycle_parking' />
-    <tag k='bicycle_parking' v='stands' />
-    <tag k='capacity' v='4' />
-    <tag k='covered' v='yes' />
-  </node>
-  <node id='-3433' visible='true' lat='45.1892378' lon='5.7217448'>
-    <tag k='amenity' v='bicycle_parking' />
-    <tag k='bicycle_parking' v='stands' />
-    <tag k='capacity' v='10' />
-  </node>
-  <node id='-3434' visible='true' lat='45.1937843' lon='5.7119379'>
-    <tag k='amenity' v='bicycle_parking' />
-    <tag k='bicycle_parking' v='stands' />
-    <tag k='capacity' v='6' />
-  </node>
-  <node id='-3436' visible='true' lat='45.1856387' lon='5.7226883'>
-    <tag k='amenity' v='bicycle_parking' />
-    <tag k='bicycle_parking' v='lockers' />
-    <tag k='capacity' v='10' />
-    <tag k='covered' v='no' />
-  </node>
-  <node id='-3437' visible='true' lat='45.1889496' lon='5.7392218'>
-    <tag k='amenity' v='bicycle_parking' />
-    <tag k='covered' v='yes' />
-  </node>
-  <node id='-3438' visible='true' lat='45.1943857' lon='5.7280482'>
-    <tag k='amenity' v='bicycle_parking' />
-    <tag k='bicycle_parking' v='stands' />
-    <tag k='capacity' v='28' />
-  </node>
-  <node id='-3439' visible='true' lat='45.1888183' lon='5.7225001'>
-    <tag k='amenity' v='bicycle_parking' />
-    <tag k='bicycle_parking' v='stands' />
-    <tag k='capacity' v='8' />
-  </node>
-  <node id='-3440' visible='true' lat='45.186447' lon='5.7167435'>
-    <tag k='amenity' v='bicycle_parking' />
-  </node>
-  <node id='-3441' visible='true' lat='45.1854473' lon='5.7056324'>
-    <tag k='amenity' v='bicycle_parking' />
-    <tag k='bicycle_parking' v='stands' />
-    <tag k='capacity' v='18' />
-  </node>
-  <node id='-3442' visible='true' lat='45.1905443' lon='5.7251676'>
-    <tag k='amenity' v='bicycle_parking' />
-  </node>
-  <node id='-3443' visible='true' lat='45.1904243' lon='5.7153467'>
-    <tag k='amenity' v='bicycle_parking' />
-    <tag k='bicycle_parking' v='stands' />
-    <tag k='capacity' v='40' />
-    <tag k='level' v='0' />
-  </node>
-  <node id='-3444' visible='true' lat='45.1852747' lon='5.7168383'>
-    <tag k='amenity' v='bicycle_parking' />
-    <tag k='bicycle_parking' v='stands' />
-    <tag k='capacity' v='4' />
-  </node>
-  <node id='-3445' visible='true' lat='45.1910776' lon='5.7277571'>
-    <tag k='amenity' v='bicycle_parking' />
-  </node>
-  <node id='-3446' visible='true' lat='45.1916528' lon='5.7307885'>
-    <tag k='amenity' v='bicycle_parking' />
-    <tag k='bicycle_parking' v='stands' />
-    <tag k='capacity' v='4' />
-  </node>
-  <node id='-3447' visible='true' lat='45.1994385' lon='5.7331131'>
+  <node id='-8573' visible='true' lat='45.1994385' lon='5.7331131'>
     <tag k='amenity' v='bicycle_parking' />
     <tag k='bicycle_parking' v='lockers' />
     <tag k='capacity' v='10' />
@@ -613,363 +15,484 @@
     <tag k='operator' v='Semitag' />
     <tag k='ref' v='AE' />
   </node>
-  <node id='-3448' visible='true' lat='45.1903198' lon='5.7277514'>
+  <node id='-8574' visible='true' lat='45.1831059' lon='5.7125237'>
+    <tag k='amenity' v='bicycle_parking' />
+    <tag k='bicycle_parking' v='stands' />
+    <tag k='capacity' v='8' />
+    <tag k='covered' v='no' />
+  </node>
+  <node id='-8575' visible='true' lat='45.1946588' lon='5.7286279'>
+    <tag k='amenity' v='bicycle_parking' />
+    <tag k='bicycle_parking' v='stands' />
+    <tag k='capacity' v='12' />
+    <tag k='covered' v='no' />
+  </node>
+  <node id='-8576' visible='true' lat='45.1877672' lon='5.7215164'>
+    <tag k='amenity' v='bicycle_parking' />
+    <tag k='bicycle_parking' v='stands' />
+    <tag k='capacity' v='8' />
+  </node>
+  <node id='-8577' visible='true' lat='45.1889421' lon='5.7394928'>
+    <tag k='amenity' v='bicycle_parking' />
+    <tag k='bicycle_parking' v='shed' />
+    <tag k='covered' v='yes' />
+    <tag k='operator' v='La Métro' />
+  </node>
+  <node id='-8578' visible='true' lat='45.2014278' lon='5.7340323'>
+    <tag k='amenity' v='bicycle_parking' />
+    <tag k='bicycle_parking' v='lockers' />
+    <tag k='capacity' v='10' />
+    <tag k='name' v='Métro vélo BOX' />
+  </node>
+  <node id='-8579' visible='true' lat='45.1892378' lon='5.7217448'>
+    <tag k='amenity' v='bicycle_parking' />
+    <tag k='bicycle_parking' v='stands' />
+    <tag k='capacity' v='10' />
+  </node>
+  <node id='-8580' visible='true' lat='45.2076786' lon='5.6922896'>
+    <tag k='amenity' v='bicycle_parking' />
+  </node>
+  <node id='-8581' visible='true' lat='45.1893527' lon='5.7327569'>
+    <tag k='amenity' v='bicycle_parking' />
+    <tag k='bicycle_parking' v='stands' />
+    <tag k='capacity' v='8' />
+  </node>
+  <node id='-8582' visible='true' lat='45.2057172' lon='5.6954412'>
+    <tag k='amenity' v='bicycle_parking' />
+    <tag k='source' v='cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010' />
+  </node>
+  <node id='-8583' visible='true' lat='45.1911306' lon='5.7339033'>
+    <tag k='amenity' v='bicycle_parking' />
+    <tag k='bicycle_parking' v='stands' />
+    <tag k='capacity' v='8' />
+  </node>
+  <node id='-8584' visible='true' lat='45.1952188' lon='5.7289164'>
+    <tag k='amenity' v='bicycle_parking' />
+    <tag k='bicycle_parking' v='stands' />
+    <tag k='capacity' v='8' />
+  </node>
+  <node id='-8585' visible='true' lat='45.1960146' lon='5.7242218'>
+    <tag k='amenity' v='bicycle_parking' />
+    <tag k='covered' v='yes' />
+    <tag k='source' v='cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010' />
+  </node>
+  <node id='-8586' visible='true' lat='45.1844784' lon='5.7036433'>
+    <tag k='access' v='permissive' />
+    <tag k='amenity' v='bicycle_parking' />
+    <tag k='bicycle_parking' v='stands' />
+    <tag k='capacity' v='10' />
+    <tag k='covered' v='yes' />
+  </node>
+  <node id='-8587' visible='true' lat='45.1891661' lon='5.7224767'>
+    <tag k='amenity' v='bicycle_parking' />
+  </node>
+  <node id='-8588' visible='true' lat='45.196376' lon='5.737912'>
+    <tag k='amenity' v='bicycle_parking' />
+    <tag k='bicycle_parking' v='anchors' />
+    <tag k='capacity' v='3' />
+    <tag k='source' v='cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre ; mise à jour :2012' />
+  </node>
+  <node id='-8589' visible='true' lat='45.1893075' lon='5.7369286'>
     <tag k='amenity' v='bicycle_parking' />
     <tag k='bicycle_parking' v='stands' />
     <tag k='capacity' v='6' />
   </node>
-  <node id='-3450' visible='true' lat='45.1830638' lon='5.7223923'>
-    <tag k='amenity' v='bicycle_parking' />
-    <tag k='capacity' v='20' />
-    <tag k='source' v='cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010' />
-  </node>
-  <node id='-3453' visible='true' lat='45.1875131' lon='5.7381649'>
+  <node id='-8590' visible='true' lat='45.1840137' lon='5.7133639'>
     <tag k='amenity' v='bicycle_parking' />
     <tag k='bicycle_parking' v='stands' />
+    <tag k='capacity' v='10' />
   </node>
-  <node id='-3454' visible='true' lat='45.1797357' lon='5.7052222'>
-    <tag k='amenity' v='bicycle_parking' />
-  </node>
-  <node id='-3455' visible='true' lat='45.1860019' lon='5.7169847'>
-    <tag k='amenity' v='bicycle_parking' />
-  </node>
-  <node id='-3456' visible='true' lat='45.206744' lon='5.6932164'>
-    <tag k='amenity' v='bicycle_parking' />
-    <tag k='source' v='cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010' />
-  </node>
-  <node id='-3457' visible='true' lat='45.1925754' lon='5.7124592'>
-    <tag k='amenity' v='bicycle_parking' />
-    <tag k='bicycle_parking' v='stands' />
-    <tag k='capacity' v='6' />
-  </node>
-  <node id='-3458' visible='true' lat='45.1848096' lon='5.7145827'>
+  <node id='-8591' visible='true' lat='45.1901455' lon='5.7264375'>
     <tag k='amenity' v='bicycle_parking' />
     <tag k='bicycle_parking' v='stands' />
     <tag k='capacity' v='4' />
   </node>
-  <node id='-3460' visible='true' lat='45.1903937' lon='5.7155522'>
+  <node id='-8592' visible='true' lat='45.194891' lon='5.7094785'>
+    <tag k='amenity' v='bicycle_parking' />
+  </node>
+  <node id='-8593' visible='true' lat='45.1883057' lon='5.7127241'>
+    <tag k='amenity' v='bicycle_parking' />
+    <tag k='bicycle_parking' v='stands' />
+    <tag k='capacity' v='4' />
+  </node>
+  <node id='-8594' visible='true' lat='45.1851441' lon='5.726572'>
+    <tag k='amenity' v='bicycle_parking' />
+    <tag k='bicycle_parking' v='stands' />
+    <tag k='capacity' v='6' />
+    <tag k='covered' v='no' />
+  </node>
+  <node id='-8595' visible='true' lat='45.1881866' lon='5.7045414'>
+    <tag k='amenity' v='bicycle_parking' />
+    <tag k='bicycle_parking' v='stands' />
+    <tag k='capacity' v='12' />
+    <tag k='covered' v='yes' />
+  </node>
+  <node id='-8596' visible='true' lat='45.1902882' lon='5.7155181'>
+    <tag k='amenity' v='bicycle_parking' />
+    <tag k='bicycle_parking' v='stands' />
+    <tag k='capacity' v='18' />
+    <tag k='level' v='0' />
+  </node>
+  <node id='-8597' visible='true' lat='45.1844257' lon='5.703812'>
+    <tag k='access' v='permissive' />
+    <tag k='amenity' v='bicycle_parking' />
+    <tag k='bicycle_parking' v='stands' />
+    <tag k='capacity' v='6' />
+    <tag k='covered' v='yes' />
+  </node>
+  <node id='-8598' visible='true' lat='45.2098803' lon='5.6908248'>
+    <tag k='amenity' v='bicycle_parking' />
+  </node>
+  <node id='-8599' visible='true' lat='45.1868979' lon='5.7330143'>
+    <tag k='amenity' v='bicycle_parking' />
+  </node>
+  <node id='-8600' visible='true' lat='45.1896782' lon='5.7248412'>
+    <tag k='amenity' v='bicycle_parking' />
+  </node>
+  <node id='-8601' visible='true' lat='45.1888183' lon='5.7225001'>
+    <tag k='amenity' v='bicycle_parking' />
+    <tag k='bicycle_parking' v='stands' />
+    <tag k='capacity' v='8' />
+  </node>
+  <node id='-8602' visible='true' lat='45.1889543' lon='5.7380141'>
+    <tag k='amenity' v='bicycle_parking' />
+    <tag k='capacity' v='4' />
+  </node>
+  <node id='-8603' visible='true' lat='45.1976781' lon='5.7317552'>
+    <tag k='amenity' v='bicycle_parking' />
+    <tag k='bicycle_parking' v='stands' />
+  </node>
+  <node id='-8604' visible='true' lat='45.1786394' lon='5.7423731'>
+    <tag k='amenity' v='bicycle_parking' />
+    <tag k='bicycle_parking' v='stands' />
+    <tag k='capacity' v='6' />
+    <tag k='covered' v='no' />
+  </node>
+  <node id='-8605' visible='true' lat='45.1865619' lon='5.7191379'>
+    <tag k='access' v='private' />
+    <tag k='amenity' v='bicycle_parking' />
+    <tag k='bicycle_parking' v='stands' />
+    <tag k='capacity' v='6' />
+    <tag k='covered' v='yes' />
+  </node>
+  <node id='-8606' visible='true' lat='45.2092359' lon='5.6875418'>
+    <tag k='amenity' v='bicycle_parking' />
+  </node>
+  <node id='-8607' visible='true' lat='45.1926093' lon='5.7094943'>
+    <tag k='amenity' v='bicycle_parking' />
+    <tag k='bicycle_parking' v='stands' />
+    <tag k='capacity' v='2' />
+  </node>
+  <node id='-8608' visible='true' lat='45.1852747' lon='5.7168383'>
+    <tag k='amenity' v='bicycle_parking' />
+    <tag k='bicycle_parking' v='stands' />
+    <tag k='capacity' v='4' />
+  </node>
+  <node id='-8609' visible='true' lat='45.1892621' lon='5.7126828'>
+    <tag k='amenity' v='bicycle_parking' />
+    <tag k='bicycle_parking' v='stands' />
+    <tag k='capacity' v='8' />
+  </node>
+  <node id='-8610' visible='true' lat='45.1939465' lon='5.7256768'>
+    <tag k='amenity' v='bicycle_parking' />
+    <tag k='bicycle_parking' v='stands' />
+    <tag k='capacity' v='4' />
+  </node>
+  <node id='-8611' visible='true' lat='45.1904243' lon='5.7153467'>
+    <tag k='amenity' v='bicycle_parking' />
+    <tag k='bicycle_parking' v='stands' />
+    <tag k='capacity' v='40' />
+    <tag k='level' v='0' />
+  </node>
+  <node id='-8612' visible='true' lat='45.1918406' lon='5.7127851'>
+    <tag k='amenity' v='bicycle_parking' />
+    <tag k='bicycle_parking' v='stands' />
+    <tag k='capacity' v='4' />
+  </node>
+  <node id='-8613' visible='true' lat='45.1866532' lon='5.7334865'>
+    <tag k='access' v='private' />
+    <tag k='amenity' v='bicycle_parking' />
+  </node>
+  <node id='-8614' visible='true' lat='45.1844809' lon='5.7035261'>
+    <tag k='access' v='permissive' />
+    <tag k='amenity' v='bicycle_parking' />
+    <tag k='bicycle_parking' v='stands' />
+    <tag k='capacity' v='4' />
+    <tag k='covered' v='yes' />
+  </node>
+  <node id='-8615' visible='true' lat='45.1876132' lon='5.7166138'>
+    <tag k='amenity' v='bicycle_parking' />
+    <tag k='bicycle_parking' v='stands' />
+    <tag k='capacity' v='4' />
+    <tag k='covered' v='no' />
+  </node>
+  <node id='-8616' visible='true' lat='45.1952272' lon='5.7109678'>
+    <tag k='amenity' v='bicycle_parking' />
+    <tag k='bicycle_parking' v='lockers' />
+    <tag k='capacity' v='6' />
+    <tag k='name' v='Cité Internationale' />
+    <tag k='network' v='MétroVéloBox' />
+    <tag k='operator' v='Semitag' />
+    <tag k='ref' v='AA' />
+  </node>
+  <node id='-8617' visible='true' lat='45.193687' lon='5.7371566'>
+    <tag k='amenity' v='bicycle_parking' />
+  </node>
+  <node id='-8618' visible='true' lat='45.1830638' lon='5.7223923'>
+    <tag k='amenity' v='bicycle_parking' />
+    <tag k='capacity' v='20' />
+    <tag k='level' v='0' />
+    <tag k='source' v='cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010' />
+  </node>
+  <node id='-8619' visible='true' lat='45.180227' lon='5.7209987'>
+    <tag k='amenity' v='bicycle_parking' />
+    <tag k='bicycle_parking' v='stands' />
+    <tag k='capacity' v='2' />
+  </node>
+  <node id='-8620' visible='true' lat='45.1852701' lon='5.7417496'>
+    <tag k='amenity' v='bicycle_parking' />
+    <tag k='bicycle_parking' v='stands' />
+    <tag k='capacity' v='12' />
+  </node>
+  <node id='-8621' visible='true' lat='45.1903937' lon='5.7155522'>
     <tag k='amenity' v='bicycle_parking' />
     <tag k='bicycle_parking' v='stands' />
     <tag k='capacity' v='30' />
     <tag k='level' v='0' />
   </node>
-  <node id='-3461' visible='true' lat='45.1937891' lon='5.7251593'>
+  <node id='-8622' visible='true' lat='45.1796314' lon='5.705226'>
+    <tag k='amenity' v='bicycle_parking' />
+  </node>
+  <node id='-8623' visible='true' lat='45.1849042' lon='5.7035113'>
+    <tag k='amenity' v='bicycle_parking' />
+    <tag k='capacity' v='8' />
+  </node>
+  <node id='-8624' visible='true' lat='45.2100617' lon='5.6882499'>
+    <tag k='amenity' v='bicycle_parking' />
+  </node>
+  <node id='-8625' visible='true' lat='45.1910776' lon='5.7277571'>
+    <tag k='amenity' v='bicycle_parking' />
+  </node>
+  <node id='-8626' visible='true' lat='45.1847151' lon='5.7069012'>
+    <tag k='amenity' v='bicycle_parking' />
+    <tag k='covered' v='no' />
+  </node>
+  <node id='-8627' visible='true' lat='45.1846725' lon='5.7206493'>
     <tag k='amenity' v='bicycle_parking' />
     <tag k='bicycle_parking' v='stands' />
     <tag k='capacity' v='4' />
   </node>
-  <node id='-3462' visible='true' lat='45.1911306' lon='5.7339033'>
+  <node id='-8628' visible='true' lat='45.1939184' lon='5.7255355'>
     <tag k='amenity' v='bicycle_parking' />
     <tag k='bicycle_parking' v='stands' />
-    <tag k='capacity' v='8' />
+    <tag k='capacity' v='4' />
   </node>
-  <node id='-3463' visible='true' lat='45.186053' lon='5.704682'>
+  <node id='-8629' visible='true' lat='45.1722586' lon='5.7223164'>
     <tag k='amenity' v='bicycle_parking' />
     <tag k='bicycle_parking' v='stands' />
     <tag k='capacity' v='10' />
+    <tag k='covered' v='no' />
   </node>
-  <node id='-3464' visible='true' lat='45.1939537' lon='5.7318872'>
+  <node id='-8630' visible='true' lat='45.1942295' lon='5.7326306'>
+    <tag k='amenity' v='bicycle_parking' />
+  </node>
+  <node id='-8631' visible='true' lat='45.1943857' lon='5.7280482'>
+    <tag k='amenity' v='bicycle_parking' />
+    <tag k='bicycle_parking' v='stands' />
+    <tag k='capacity' v='28' />
+  </node>
+  <node id='-8632' visible='true' lat='45.1848135' lon='5.7035092'>
     <tag k='amenity' v='bicycle_parking' />
     <tag k='capacity' v='8' />
   </node>
-  <node id='-3465' visible='true' lat='45.1799792' lon='5.7133654'>
+  <node id='-8633' visible='true' lat='45.203214' lon='5.7019776'>
     <tag k='amenity' v='bicycle_parking' />
-    <tag k='bicycle_parking' v='lockers' />
-    <tag k='covered' v='yes' />
-    <tag k='name' v='MétrovéloBOX' />
-    <tag k='operator' v='Métrovélo' />
   </node>
-  <node id='-3466' visible='true' lat='45.180227' lon='5.7209987'>
+  <node id='-8634' visible='true' lat='45.1865376' lon='5.7188793'>
     <tag k='amenity' v='bicycle_parking' />
-    <tag k='bicycle_parking' v='stands' />
-    <tag k='capacity' v='2' />
+    <tag k='capacity' v='8' />
+    <tag k='covered' v='no' />
   </node>
-  <node id='-3467' visible='true' lat='45.1808251' lon='5.7045029'>
+  <node id='-8635' visible='true' lat='45.1808251' lon='5.7045029'>
     <tag k='amenity' v='bicycle_parking' />
     <tag k='bicycle_parking' v='shed' />
     <tag k='capacity' v='10' />
     <tag k='name' v='P+R Vallier-Catane' />
     <tag k='park_ride' v='yes' />
   </node>
-  <node id='-3468' visible='true' lat='45.1891796' lon='5.7214392'>
+  <node id='-8636' visible='true' lat='45.1797357' lon='5.7052222'>
     <tag k='amenity' v='bicycle_parking' />
-    <tag k='bicycle_parking' v='stands' />
-    <tag k='capacity' v='4' />
   </node>
-  <node id='-3469' visible='true' lat='45.194934' lon='5.7286915'>
+  <node id='-8637' visible='true' lat='45.1862698' lon='5.7046831'>
     <tag k='amenity' v='bicycle_parking' />
-    <tag k='bicycle_parking' v='stands' />
-    <tag k='capacity' v='16' />
   </node>
-  <node id='-3471' visible='true' lat='45.1817654' lon='5.708737'>
+  <node id='-8638' visible='true' lat='45.1937843' lon='5.7119379'>
     <tag k='amenity' v='bicycle_parking' />
     <tag k='bicycle_parking' v='stands' />
     <tag k='capacity' v='6' />
   </node>
-  <node id='-3472' visible='true' lat='45.1867421' lon='5.7260291' />
-  <node id='-3473' visible='true' lat='45.1867722' lon='5.72611' />
-  <node id='-3474' visible='true' lat='45.1868674' lon='5.7263654' />
-  <node id='-3475' visible='true' lat='45.1868367' lon='5.7263882' />
-  <node id='-3476' visible='true' lat='45.1867132' lon='5.7260506' />
-  <node id='-3477' visible='true' lat='45.1914039' lon='5.7358531' />
-  <node id='-3478' visible='true' lat='45.1913581' lon='5.7358894' />
-  <node id='-3479' visible='true' lat='45.2093026' lon='5.6923973' />
-  <node id='-3480' visible='true' lat='45.2093507' lon='5.692363' />
-  <node id='-3481' visible='true' lat='45.2093106' lon='5.6922506' />
-  <node id='-3482' visible='true' lat='45.2093362' lon='5.692714' />
-  <node id='-3483' visible='true' lat='45.2093608' lon='5.6927809' />
-  <node id='-3484' visible='true' lat='45.2094013' lon='5.692751' />
-  <node id='-3485' visible='true' lat='45.1916922' lon='5.713507' />
-  <node id='-3486' visible='true' lat='45.1914954' lon='5.7137123' />
-  <node id='-3487' visible='true' lat='45.2086487' lon='5.6931059' />
-  <node id='-3488' visible='true' lat='45.208653' lon='5.6931737'>
-    <tag k='amenity' v='compressed_air' />
-    <tag k='source' v='cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2014' />
-  </node>
-  <node id='-3489' visible='true' lat='45.2086569' lon='5.6932339' />
-  <node id='-3490' visible='true' lat='45.2087029' lon='5.6932281' />
-  <node id='-3491' visible='true' lat='45.1575188' lon='5.7365818' />
-  <node id='-3492' visible='true' lat='45.1574319' lon='5.7365848' />
-  <node id='-3493' visible='true' lat='45.1914507' lon='5.735764' />
-  <node id='-3494' visible='true' lat='45.1914058' lon='5.7358001' />
-  <node id='-3495' visible='true' lat='45.1988601' lon='5.7174796' />
-  <node id='-3496' visible='true' lat='45.1988466' lon='5.7174866' />
-  <node id='-3497' visible='true' lat='45.1988404' lon='5.7174685' />
-  <node id='-3498' visible='true' lat='45.1988099' lon='5.7174517' />
-  <node id='-3499' visible='true' lat='45.209332' lon='5.6926031' />
-  <node id='-3500' visible='true' lat='45.20934' lon='5.6924564' />
-  <node id='-3501' visible='true' lat='45.2092843' lon='5.6903945' />
-  <node id='-3502' visible='true' lat='45.2092898' lon='5.6904139' />
-  <node id='-3503' visible='true' lat='45.2092978' lon='5.6904093' />
-  <node id='-3504' visible='true' lat='45.1913251' lon='5.7358633' />
-  <node id='-3505' visible='true' lat='45.2072546' lon='5.693869' />
-  <node id='-3506' visible='true' lat='45.2072524' lon='5.6939575' />
-  <node id='-3507' visible='true' lat='45.2086714' lon='5.6930335' />
-  <node id='-3508' visible='true' lat='45.2086632' lon='5.6929055' />
-  <node id='-3509' visible='true' lat='45.1925427' lon='5.7140977' />
-  <node id='-3510' visible='true' lat='45.1925663' lon='5.7141903' />
-  <node id='-3511' visible='true' lat='45.2086759' lon='5.6907832' />
-  <node id='-3512' visible='true' lat='45.1912117' lon='5.7359515' />
-  <node id='-3513' visible='true' lat='45.2085976' lon='5.6928429' />
-  <node id='-3514' visible='true' lat='45.20993' lon='5.689338' />
-  <way id='-3289' visible='true'>
-    <nd ref='-3472' />
-    <nd ref='-3473' />
-    <nd ref='-3474' />
-    <nd ref='-3475' />
-    <nd ref='-3476' />
-    <nd ref='-3472' />
-    <tag k='access' v='private' />
-    <tag k='amenity' v='bicycle_parking' />
-    <tag k='building' v='roof' />
-    <tag k='source' v='cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre ; mise à jour : 2008' />
-  </way>
-  <way id='-3314' visible='true'>
-    <nd ref='-3300' />
-    <nd ref='-3477' />
-    <nd ref='-3478' />
-    <nd ref='-3288' />
-    <nd ref='-3300' />
-    <tag k='amenity' v='bicycle_parking' />
-    <tag k='building' v='yes' />
-    <tag k='source' v='cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre ; mise à jour : 2010' />
-    <tag k='wall' v='no' />
-  </way>
-  <way id='-3320' visible='true'>
-    <nd ref='-3310' />
-    <nd ref='-3479' />
-    <nd ref='-3480' />
-    <nd ref='-3481' />
-    <nd ref='-3310' />
-    <tag k='amenity' v='bicycle_parking' />
-    <tag k='source' v='cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre ; mise à jour : 2009' />
-  </way>
-  <way id='-3329' visible='true'>
-    <nd ref='-3482' />
-    <nd ref='-3483' />
-    <nd ref='-3484' />
-    <nd ref='-3297' />
-    <nd ref='-3482' />
-    <tag k='amenity' v='bicycle_parking' />
-    <tag k='source' v='cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre ; mise à jour : 2009' />
-  </way>
-  <way id='-3335' visible='true'>
-    <nd ref='-3485' />
-    <nd ref='-3278' />
-    <nd ref='-3486' />
-    <nd ref='-3315' />
-    <nd ref='-3485' />
-    <tag k='amenity' v='bicycle_parking' />
-    <tag k='bicycle_parking' v='building' />
-    <tag k='building' v='construction' />
-  </way>
-  <way id='-3341' visible='true'>
-    <nd ref='-3487' />
-    <nd ref='-3488' />
-    <nd ref='-3489' />
-    <nd ref='-3490' />
-    <nd ref='-3337' />
-    <nd ref='-3487' />
-    <tag k='amenity' v='bicycle_parking' />
-    <tag k='covered' v='yes' />
-  </way>
-  <way id='-3352' visible='true'>
-    <nd ref='-3491' />
-    <nd ref='-3492' />
-    <nd ref='-3326' />
-    <nd ref='-3280' />
-    <nd ref='-3491' />
-    <tag k='access' v='private' />
+  <node id='-8639' visible='true' lat='45.1594287' lon='5.7326214'>
     <tag k='amenity' v='bicycle_parking' />
     <tag k='bicycle_parking' v='stands' />
-    <tag k='building' v='yes' />
+    <tag k='capacity' v='16' />
+  </node>
+  <node id='-8640' visible='true' lat='45.1799792' lon='5.7133654'>
+    <tag k='amenity' v='bicycle_parking' />
+    <tag k='bicycle_parking' v='lockers' />
     <tag k='covered' v='yes' />
-    <tag k='source' v='extraction vectorielle v1 cadastre-dgi-fr source : Direction Générale des Impôts - Cadas. Mise à jour : 2010' />
-    <tag k='wall' v='no' />
-  </way>
-  <way id='-3362' visible='true'>
-    <nd ref='-3493' />
-    <nd ref='-3351' />
-    <nd ref='-3301' />
-    <nd ref='-3494' />
-    <nd ref='-3493' />
+    <tag k='name' v='MétrovéloBOX' />
+    <tag k='operator' v='Métrovélo' />
+  </node>
+  <node id='-8641' visible='true' lat='45.1807955' lon='5.7056327'>
     <tag k='amenity' v='bicycle_parking' />
-    <tag k='building' v='yes' />
-    <tag k='source' v='cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre ; mise à jour : 2010' />
-    <tag k='wall' v='no' />
-  </way>
-  <way id='-3364' visible='true'>
-    <nd ref='-3309' />
-    <nd ref='-3495' />
-    <nd ref='-3496' />
-    <nd ref='-3497' />
-    <nd ref='-3498' />
-    <nd ref='-3276' />
-    <nd ref='-3270' />
-    <nd ref='-3283' />
-    <nd ref='-3309' />
+    <tag k='bicycle_parking' v='stands' />
+    <tag k='capacity' v='4' />
+  </node>
+  <node id='-8642' visible='true' lat='45.1921656' lon='5.7125104'>
     <tag k='amenity' v='bicycle_parking' />
-    <tag k='bicycle_parking' v='shed' />
-    <tag k='building' v='yes' />
-    <tag k='name' v='P+R Esplanade' />
-    <tag k='park_ride' v='yes' />
-  </way>
-  <way id='-3388' visible='true'>
-    <nd ref='-3370' />
-    <nd ref='-3499' />
-    <nd ref='-3274' />
-    <nd ref='-3500' />
-    <nd ref='-3370' />
+    <tag k='bicycle_parking' v='stands' />
+    <tag k='capacity' v='12' />
+  </node>
+  <node id='-8643' visible='true' lat='45.1906833' lon='5.7154106'>
     <tag k='amenity' v='bicycle_parking' />
-    <tag k='source' v='cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre ; mise à jour : 2009' />
-  </way>
-  <way id='-3389' visible='true'>
-    <nd ref='-3268' />
-    <nd ref='-3501' />
-    <nd ref='-3502' />
-    <nd ref='-3503' />
-    <nd ref='-3363' />
-    <nd ref='-3342' />
-    <nd ref='-3268' />
+    <tag k='bicycle_parking' v='stands' />
+    <tag k='capacity' v='42' />
+    <tag k='level' v='0' />
+  </node>
+  <node id='-8644' visible='true' lat='45.1790756' lon='5.7260991'>
     <tag k='amenity' v='bicycle_parking' />
-    <tag k='source' v='cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre ; mise à jour : 2009' />
-  </way>
-  <way id='-3392' visible='true'>
-    <nd ref='-3504' />
-    <nd ref='-3307' />
-    <nd ref='-3387' />
-    <nd ref='-3316' />
-    <nd ref='-3504' />
+    <tag k='bicycle_parking' v='stands' />
+    <tag k='capacity' v='6' />
+    <tag k='covered' v='no' />
+  </node>
+  <node id='-8645' visible='true' lat='45.1946426' lon='5.728435'>
     <tag k='amenity' v='bicycle_parking' />
-    <tag k='building' v='yes' />
-    <tag k='source' v='cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre ; mise à jour : 2010' />
-    <tag k='wall' v='no' />
-  </way>
-  <way id='-3407' visible='true'>
-    <nd ref='-3505' />
-    <nd ref='-3506' />
-    <nd ref='-3378' />
-    <nd ref='-3356' />
-    <nd ref='-3505' />
+    <tag k='bicycle_parking' v='stands' />
+    <tag k='capacity' v='4' />
+  </node>
+  <node id='-8646' visible='true' lat='45.206744' lon='5.6932164'>
     <tag k='amenity' v='bicycle_parking' />
     <tag k='source' v='cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010' />
-  </way>
-  <way id='-3412' visible='true'>
-    <nd ref='-3330' />
-    <nd ref='-3397' />
-    <nd ref='-3507' />
-    <nd ref='-3508' />
-    <nd ref='-3330' />
+  </node>
+  <node id='-8647' visible='true' lat='45.2035466' lon='5.7015109'>
     <tag k='amenity' v='bicycle_parking' />
-    <tag k='covered' v='yes' />
-  </way>
-  <way id='-3432' visible='true'>
-    <nd ref='-3509' />
-    <nd ref='-3380' />
-    <nd ref='-3359' />
-    <nd ref='-3510' />
-    <nd ref='-3509' />
-    <tag k='amenity' v='bicycle_parking' />
-    <tag k='bicycle_parking' v='building' />
-    <tag k='building' v='construction' />
-  </way>
-  <way id='-3435' visible='true'>
-    <nd ref='-3511' />
-    <nd ref='-3354' />
-    <nd ref='-3311' />
-    <nd ref='-3430' />
-    <nd ref='-3511' />
-    <tag k='amenity' v='bicycle_parking' />
-    <tag k='source' v='cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre ; mise à jour : 2009' />
-  </way>
-  <way id='-3449' visible='true'>
-    <nd ref='-3375' />
-    <nd ref='-3413' />
-    <nd ref='-3371' />
-    <nd ref='-3512' />
-    <nd ref='-3375' />
-    <tag k='amenity' v='bicycle_parking' />
-    <tag k='building' v='yes' />
-    <tag k='source' v='cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre ; mise à jour : 2010' />
-    <tag k='wall' v='no' />
-  </way>
-  <way id='-3451' visible='true'>
-    <nd ref='-3319' />
-    <nd ref='-3513' />
-    <nd ref='-3416' />
-    <nd ref='-3405' />
-    <nd ref='-3319' />
-    <tag k='amenity' v='bicycle_parking' />
-    <tag k='covered' v='yes' />
-    <tag k='source' v='cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre ; mise à jour : 2009' />
-  </way>
-  <way id='-3452' visible='true'>
-    <nd ref='-3285' />
-    <nd ref='-3381' />
-    <nd ref='-3349' />
-    <nd ref='-3331' />
-    <nd ref='-3285' />
-    <tag k='amenity' v='bicycle_parking' />
-    <tag k='source' v='cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2014' />
-  </way>
-  <way id='-3459' visible='true'>
-    <nd ref='-3410' />
-    <nd ref='-3514' />
-    <nd ref='-3425' />
-    <nd ref='-3372' />
-    <nd ref='-3410' />
-    <tag k='amenity' v='bicycle_parking' />
-    <tag k='source' v='cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre ; mise à jour : 2009' />
-  </way>
-  <way id='-3470' visible='true'>
-    <nd ref='-3384' />
-    <nd ref='-3393' />
-    <nd ref='-3411' />
-    <nd ref='-3308' />
-    <nd ref='-3384' />
-    <tag k='access' v='private' />
+  </node>
+  <node id='-8648' visible='true' lat='45.1907446' lon='5.7151979'>
     <tag k='amenity' v='bicycle_parking' />
     <tag k='bicycle_parking' v='stands' />
+    <tag k='capacity' v='26' />
+    <tag k='level' v='0' />
+  </node>
+  <node id='-8649' visible='true' lat='45.173799' lon='5.7209042'>
+    <tag k='amenity' v='bicycle_parking' />
+    <tag k='bicycle_parking' v='stands' />
+    <tag k='capacity' v='6' />
+    <tag k='covered' v='no' />
+  </node>
+  <node id='-8650' visible='true' lat='45.1568019' lon='5.734188'>
+    <tag k='amenity' v='bicycle_parking' />
+    <tag k='bicycle_parking' v='lockers' />
+    <tag k='capacity' v='6' />
+    <tag k='name' v='Alpexpo' />
+    <tag k='network' v='MétroVéloBox' />
+    <tag k='operator' v='Semitag' />
+    <tag k='ref' v='AB' />
+  </node>
+  <node id='-8651' visible='true' lat='45.1905443' lon='5.7251676'>
+    <tag k='amenity' v='bicycle_parking' />
+  </node>
+  <node id='-8652' visible='true' lat='45.1732701' lon='5.7316947'>
+    <tag k='amenity' v='bicycle_parking' />
+    <tag k='bicycle_parking' v='lockers' />
+    <tag k='capacity' v='6' />
+    <tag k='name' v='MC2 Maison Culture' />
+    <tag k='network' v='MétroVéloBox' />
+    <tag k='operator' v='Semitag' />
+    <tag k='ref' v='AT' />
+  </node>
+  <node id='-8653' visible='true' lat='45.1860019' lon='5.7169847'>
+    <tag k='amenity' v='bicycle_parking' />
+  </node>
+  <node id='-8654' visible='true' lat='45.2071352' lon='5.6934176'>
+    <tag k='amenity' v='bicycle_parking' />
+    <tag k='source' v='cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010' />
+  </node>
+  <node id='-8655' visible='true' lat='45.1940097' lon='5.726007'>
+    <tag k='amenity' v='bicycle_parking' />
+    <tag k='bicycle_parking' v='stands' />
+    <tag k='capacity' v='6' />
+  </node>
+  <node id='-8656' visible='true' lat='45.1977156' lon='5.7323517'>
+    <tag k='amenity' v='bicycle_parking' />
+  </node>
+  <node id='-8657' visible='true' lat='45.1856387' lon='5.7226883'>
+    <tag k='amenity' v='bicycle_parking' />
+    <tag k='bicycle_parking' v='lockers' />
+    <tag k='capacity' v='10' />
+    <tag k='covered' v='no' />
+  </node>
+  <node id='-8658' visible='true' lat='45.1891071' lon='5.7157982'>
+    <tag k='amenity' v='bicycle_parking' />
+    <tag k='bicycle_parking' v='shed' />
+  </node>
+  <node id='-8659' visible='true' lat='45.1857629' lon='5.7302826'>
+    <tag k='amenity' v='bicycle_parking' />
+    <tag k='bicycle_parking' v='stands' />
+    <tag k='capacity' v='4' />
+  </node>
+  <node id='-8660' visible='true' lat='45.1844324' lon='5.7035391'>
+    <tag k='amenity' v='bicycle_parking' />
+    <tag k='bicycle_parking' v='stands' />
+    <tag k='capacity' v='10' />
+  </node>
+  <node id='-8661' visible='true' lat='45.1947709' lon='5.7286779'>
+    <tag k='amenity' v='bicycle_parking' />
+    <tag k='bicycle_parking' v='stands' />
+    <tag k='capacity' v='6' />
+    <tag k='covered' v='no' />
+  </node>
+  <node id='-8662' visible='true' lat='45.2083024' lon='5.6877269'>
+    <tag k='amenity' v='bicycle_parking' />
+  </node>
+  <node id='-8663' visible='true' lat='45.194934' lon='5.7286915'>
+    <tag k='amenity' v='bicycle_parking' />
+    <tag k='bicycle_parking' v='stands' />
+    <tag k='capacity' v='16' />
+  </node>
+  <node id='-8664' visible='true' lat='45.1891796' lon='5.7214392'>
+    <tag k='amenity' v='bicycle_parking' />
+    <tag k='bicycle_parking' v='stands' />
+    <tag k='capacity' v='4' />
+  </node>
+  <node id='-8665' visible='true' lat='45.1929081' lon='5.7371061'>
+    <tag k='amenity' v='bicycle_parking' />
+  </node>
+  <node id='-8666' visible='true' lat='45.1796198' lon='5.7052254'>
+    <tag k='amenity' v='bicycle_parking' />
+  </node>
+  <node id='-8667' visible='true' lat='45.186053' lon='5.704682'>
+    <tag k='amenity' v='bicycle_parking' />
+    <tag k='bicycle_parking' v='stands' />
+    <tag k='capacity' v='10' />
+  </node>
+  <node id='-8668' visible='true' lat='45.1764528' lon='5.722331'>
+    <tag k='amenity' v='bicycle_parking' />
+    <tag k='bicycle_parking' v='stands' />
+    <tag k='capacity' v='16' />
+  </node>
+  <node id='-8669' visible='true' lat='45.1925754' lon='5.7124592'>
+    <tag k='amenity' v='bicycle_parking' />
+    <tag k='bicycle_parking' v='stands' />
+    <tag k='capacity' v='6' />
+  </node>
+  <node id='-8670' visible='true' lat='45.1844238' lon='5.7038786'>
+    <tag k='access' v='permissive' />
+    <tag k='amenity' v='bicycle_parking' />
+    <tag k='bicycle_parking' v='stands' />
+    <tag k='capacity' v='20' />
     <tag k='covered' v='yes' />
-  </way>
+  </node>
+  <node id='-8671' visible='true' lat='45.1884834' lon='5.736928'>
+    <tag k='amenity' v='bicycle_parking' />
+  </node>
 </osm>

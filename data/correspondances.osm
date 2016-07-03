@@ -1,730 +1,1522 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <osm version='0.6' upload='true' generator='JOSM'>
-  <node id='-2858' visible='true' lat='45.1896976' lon='5.7248787'>
+  <node id='-6184' visible='true' lat='45.183819' lon='5.711808'>
+    <tag k='amenity' v='bicycle_parking' />
+    <tag k='bicycle_parking' v='stands' />
+    <tag k='capacity' v='6' />
+    <tag k='ref:FR:Grenoble:Arceaux' v='795' />
+    <tag k='start_date' v='19900101000000' />
+  </node>
+  <node id='-6185' visible='true' lat='45.188747' lon='5.739072'>
+    <tag k='amenity' v='bicycle_parking' />
+    <tag k='bicycle_parking' v='stands' />
+    <tag k='capacity' v='8' />
+    <tag k='ref:FR:Grenoble:Arceaux' v='261' />
+    <tag k='start_date' v='20030101000000' />
+  </node>
+  <node id='-6186' visible='true' lat='45.192113' lon='5.734723'>
     <tag k='amenity' v='bicycle_parking' />
     <tag k='bicycle_parking' v='stands' />
     <tag k='capacity' v='4' />
+    <tag k='ref:FR:Grenoble:Arceaux' v='326' />
+    <tag k='start_date' v='20070101000000' />
   </node>
-  <node id='-2859' visible='true' lat='45.1938004' lon='5.732579'>
+  <node id='-6187' visible='true' lat='45.192466' lon='5.722632'>
     <tag k='amenity' v='bicycle_parking' />
     <tag k='bicycle_parking' v='stands' />
     <tag k='capacity' v='6' />
+    <tag k='ref:FR:Grenoble:Arceaux' v='198' />
+    <tag k='start_date' v='20030101000000' />
   </node>
-  <node id='-2860' visible='true' lat='45.1864843' lon='5.7436178'>
+  <node id='-6188' visible='true' lat='45.185423' lon='5.714935'>
     <tag k='amenity' v='bicycle_parking' />
     <tag k='bicycle_parking' v='stands' />
-    <tag k='capacity' v='10' />
+    <tag k='capacity' v='12' />
+    <tag k='ref:FR:Grenoble:Arceaux' v='343' />
+    <tag k='start_date' v='20120101000000' />
   </node>
-  <node id='-2861' visible='true' lat='45.1804104' lon='5.7130087'>
-    <tag k='amenity' v='bicycle_parking' />
-    <tag k='bicycle_parking' v='stands' />
-    <tag k='capacity' v='6' />
-    <tag k='source' v='cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2013' />
-  </node>
-  <node id='-2862' visible='true' lat='45.1848195' lon='5.7147598'>
+  <node id='-6189' visible='true' lat='45.182763' lon='5.71682'>
     <tag k='amenity' v='bicycle_parking' />
     <tag k='bicycle_parking' v='stands' />
     <tag k='capacity' v='6' />
+    <tag k='ref:FR:Grenoble:Arceaux' v='1033' />
+    <tag k='start_date' v='20110101000000' />
   </node>
-  <node id='-2863' visible='true' lat='45.1926016' lon='5.7298293'>
-    <tag k='amenity' v='bicycle_parking' />
-  </node>
-  <node id='-2864' visible='true' lat='45.1803042' lon='5.7114658'>
+  <node id='-6190' visible='true' lat='45.18031' lon='5.71229'>
     <tag k='amenity' v='bicycle_parking' />
     <tag k='bicycle_parking' v='stands' />
     <tag k='capacity' v='8' />
+    <tag k='ref:FR:Grenoble:Arceaux' v='21' />
+    <tag k='start_date' v='20060101000000' />
   </node>
-  <node id='-2865' visible='true' lat='45.1903181' lon='5.7267963'>
-    <tag k='amenity' v='bicycle_parking' />
-    <tag k='bicycle_parking' v='stands' />
-    <tag k='capacity' v='10' />
-  </node>
-  <node id='-2866' visible='true' lat='45.1861919' lon='5.7293478'>
-    <tag k='amenity' v='bicycle_parking' />
-    <tag k='bicycle_parking' v='stands' />
-    <tag k='capacity' v='8' />
-  </node>
-  <node id='-2867' visible='true' lat='45.1829484' lon='5.7364624'>
-    <tag k='amenity' v='bicycle_parking' />
-  </node>
-  <node id='-2868' visible='true' lat='45.185083' lon='5.7233166'>
-    <tag k='amenity' v='bicycle_parking' />
-    <tag k='bicycle_parking' v='stands' />
-    <tag k='capacity' v='14' />
-  </node>
-  <node id='-2869' visible='true' lat='45.1976323' lon='5.7401734'>
-    <tag k='amenity' v='bicycle_parking' />
-    <tag k='bicycle_parking' v='anchors' />
-    <tag k='capacity' v='6' />
-  </node>
-  <node id='-2870' visible='true' lat='45.1875001' lon='5.7110725'>
+  <node id='-6191' visible='true' lat='45.18879' lon='5.715658'>
     <tag k='amenity' v='bicycle_parking' />
     <tag k='bicycle_parking' v='stands' />
     <tag k='capacity' v='6' />
+    <tag k='ref:FR:Grenoble:Arceaux' v='1205' />
+    <tag k='start_date' v='20150728000000' />
   </node>
-  <node id='-2871' visible='true' lat='45.1882963' lon='5.7048848'>
-    <tag k='amenity' v='bicycle_parking' />
-  </node>
-  <node id='-2872' visible='true' lat='45.1841369' lon='5.7151738'>
+  <node id='-6192' visible='true' lat='45.18912' lon='5.718139'>
     <tag k='amenity' v='bicycle_parking' />
     <tag k='bicycle_parking' v='stands' />
     <tag k='capacity' v='6' />
+    <tag k='ref:FR:Grenoble:Arceaux' v='435' />
+    <tag k='start_date' v='20070101000000' />
   </node>
-  <node id='-2873' visible='true' lat='45.1796634' lon='5.7420371'>
+  <node id='-6193' visible='true' lat='45.182958' lon='5.736493'>
+    <tag k='amenity' v='bicycle_parking' />
+    <tag k='bicycle_parking' v='stands' />
+    <tag k='capacity' v='30' />
+    <tag k='ref:FR:Grenoble:Arceaux' v='838' />
+    <tag k='start_date' v='20090101000000' />
+  </node>
+  <node id='-6194' visible='true' lat='45.187725' lon='5.723184'>
+    <tag k='amenity' v='bicycle_parking' />
+    <tag k='bicycle_parking' v='stands' />
+    <tag k='capacity' v='12' />
+    <tag k='ref:FR:Grenoble:Arceaux' v='126' />
+    <tag k='start_date' v='20110101000000' />
+  </node>
+  <node id='-6195' visible='true' lat='45.193509' lon='5.711882'>
+    <tag k='amenity' v='bicycle_parking' />
+    <tag k='bicycle_parking' v='stands' />
+    <tag k='capacity' v='6' />
+    <tag k='ref:FR:Grenoble:Arceaux' v='271' />
+    <tag k='start_date' v='20060101000000' />
+  </node>
+  <node id='-6196' visible='true' lat='45.184334' lon='5.723789'>
+    <tag k='amenity' v='bicycle_parking' />
+    <tag k='bicycle_parking' v='stands' />
+    <tag k='capacity' v='6' />
+    <tag k='ref:FR:Grenoble:Arceaux' v='1067' />
+    <tag k='start_date' v='20100101000000' />
+  </node>
+  <node id='-6197' visible='true' lat='45.187938' lon='5.719495'>
     <tag k='amenity' v='bicycle_parking' />
     <tag k='bicycle_parking' v='stands' />
     <tag k='capacity' v='4' />
-    <tag k='covered' v='no' />
+    <tag k='ref:FR:Grenoble:Arceaux' v='1108' />
+    <tag k='start_date' v='20120101000000' />
   </node>
-  <node id='-2874' visible='true' lat='45.1853198' lon='5.7155469'>
+  <node id='-6198' visible='true' lat='45.178379' lon='5.741569'>
     <tag k='amenity' v='bicycle_parking' />
     <tag k='bicycle_parking' v='stands' />
     <tag k='capacity' v='6' />
-    <tag k='covered' v='no' />
+    <tag k='ref:FR:Grenoble:Arceaux' v='669' />
+    <tag k='start_date' v='20050101000000' />
   </node>
-  <node id='-2875' visible='true' lat='45.1862889' lon='5.7115968'>
-    <tag k='amenity' v='bicycle_parking' />
-    <tag k='bicycle_parking' v='stands' />
-    <tag k='capacity' v='8' />
-  </node>
-  <node id='-2876' visible='true' lat='45.1894166' lon='5.7296623'>
-    <tag k='amenity' v='bicycle_parking' />
-    <tag k='bicycle_parking' v='stands' />
-  </node>
-  <node id='-2877' visible='true' lat='45.1800087' lon='5.7112449'>
-    <tag k='amenity' v='bicycle_parking' />
-    <tag k='bicycle_parking' v='stands' />
-    <tag k='capacity' v='8' />
-  </node>
-  <node id='-2878' visible='true' lat='45.1950233' lon='5.7104038'>
-    <tag k='amenity' v='bicycle_parking' />
-    <tag k='capacity' v='10' />
-  </node>
-  <node id='-2879' visible='true' lat='45.1811864' lon='5.7123319'>
-    <tag k='amenity' v='bicycle_parking' />
-    <tag k='capacity' v='8' />
-    <tag k='covered' v='no' />
-  </node>
-  <node id='-2880' visible='true' lat='45.1803249' lon='5.7123283'>
-    <tag k='amenity' v='bicycle_parking' />
-    <tag k='capacity' v='6' />
-    <tag k='covered' v='no' />
-  </node>
-  <node id='-2881' visible='true' lat='45.1860264' lon='5.7298198'>
-    <tag k='amenity' v='bicycle_parking' />
-    <tag k='bicycle_parking' v='stands' />
-    <tag k='capacity' v='8' />
-  </node>
-  <node id='-2882' visible='true' lat='45.1570605' lon='5.7342624'>
-    <tag k='amenity' v='bicycle_parking' />
-    <tag k='bicycle_parking' v='stands' />
-    <tag k='capacity' v='26' />
-    <tag k='covered' v='no' />
-  </node>
-  <node id='-2883' visible='true' lat='45.1783858' lon='5.741606'>
-    <tag k='amenity' v='bicycle_parking' />
-    <tag k='bicycle_parking' v='stands' />
-    <tag k='capacity' v='6' />
-    <tag k='covered' v='no' />
-  </node>
-  <node id='-2884' visible='true' lat='45.1834378' lon='5.7043664'>
-    <tag k='access' v='permissive' />
-    <tag k='amenity' v='bicycle_parking' />
-    <tag k='bicycle_parking' v='stands' />
-    <tag k='capacity' v='6' />
-    <tag k='covered' v='no' />
-  </node>
-  <node id='-2885' visible='true' lat='45.1838055' lon='5.7163338'>
-    <tag k='amenity' v='bicycle_parking' />
-    <tag k='bicycle_parking' v='stands' />
-    <tag k='capacity' v='6' />
-  </node>
-  <node id='-2886' visible='true' lat='45.1924641' lon='5.73143'>
-    <tag k='amenity' v='bicycle_parking' />
-  </node>
-  <node id='-2887' visible='true' lat='45.1887652' lon='5.7332308'>
-    <tag k='amenity' v='bicycle_parking' />
-    <tag k='bicycle_parking' v='stands' />
-  </node>
-  <node id='-2888' visible='true' lat='45.1917913' lon='5.7381985'>
-    <tag k='amenity' v='bicycle_parking' />
-  </node>
-  <node id='-2889' visible='true' lat='45.1904057' lon='5.7268899'>
-    <tag k='amenity' v='bicycle_parking' />
-    <tag k='bicycle_parking' v='stands' />
-    <tag k='capacity' v='6' />
-  </node>
-  <node id='-2890' visible='true' lat='45.193767' lon='5.7250294'>
-    <tag k='amenity' v='bicycle_parking' />
-    <tag k='bicycle_parking' v='stands' />
-    <tag k='capacity' v='8' />
-  </node>
-  <node id='-2891' visible='true' lat='45.1904009' lon='5.7289311'>
-    <tag k='amenity' v='bicycle_parking' />
-    <tag k='bicycle_parking' v='stands' />
-    <tag k='capacity' v='10' />
-  </node>
-  <node id='-2892' visible='true' lat='45.1805428' lon='5.7154822'>
-    <tag k='amenity' v='bicycle_parking' />
-    <tag k='capacity' v='6' />
-    <tag k='covered' v='no' />
-  </node>
-  <node id='-2893' visible='true' lat='45.1670274' lon='5.7122786'>
-    <tag k='amenity' v='bicycle_parking' />
-    <tag k='capacity' v='4' />
-    <tag k='covered' v='no' />
-  </node>
-  <node id='-2894' visible='true' lat='45.19353' lon='5.7120187'>
-    <tag k='amenity' v='bicycle_parking' />
-    <tag k='capacity' v='8' />
-  </node>
-  <node id='-2895' visible='true' lat='45.1884922' lon='5.706519'>
-    <tag k='amenity' v='bicycle_parking' />
-    <tag k='bicycle_parking' v='stands' />
-    <tag k='capacity' v='6' />
-  </node>
-  <node id='-2896' visible='true' lat='45.1797245' lon='5.7052228'>
-    <tag k='amenity' v='bicycle_parking' />
-  </node>
-  <node id='-2897' visible='true' lat='45.1904528' lon='5.7296605'>
-    <tag k='amenity' v='bicycle_parking' />
-    <tag k='bicycle_parking' v='stands' />
-    <tag k='capacity' v='22' />
-  </node>
-  <node id='-2898' visible='true' lat='45.1888479' lon='5.7156688'>
-    <tag k='amenity' v='bicycle_parking' />
-    <tag k='bicycle_parking' v='stands' />
-    <tag k='capacity' v='6' />
-    <tag k='covered' v='no' />
-  </node>
-  <node id='-2899' visible='true' lat='45.1930449' lon='5.727711'>
-    <tag k='amenity' v='bicycle_parking' />
-    <tag k='source' v='survey' />
-  </node>
-  <node id='-2900' visible='true' lat='45.1799435' lon='5.7132486'>
-    <tag k='amenity' v='bicycle_parking' />
-    <tag k='bicycle_parking' v='stands' />
-    <tag k='capacity' v='22' />
-    <tag k='covered' v='yes' />
-  </node>
-  <node id='-2901' visible='true' lat='45.185227' lon='5.7312853'>
-    <tag k='amenity' v='bicycle_parking' />
-  </node>
-  <node id='-2902' visible='true' lat='45.1854105' lon='5.7149247'>
-    <tag k='amenity' v='bicycle_parking' />
-    <tag k='bicycle_parking' v='stands' />
-    <tag k='capacity' v='6' />
-    <tag k='covered' v='no' />
-  </node>
-  <node id='-2903' visible='true' lat='45.1870179' lon='5.7138652'>
-    <tag k='amenity' v='bicycle_parking' />
-    <tag k='bicycle_parking' v='stands' />
-    <tag k='capacity' v='14' />
-  </node>
-  <node id='-2904' visible='true' lat='45.1877374' lon='5.7231834'>
-    <tag k='amenity' v='bicycle_parking' />
-    <tag k='bicycle_parking' v='stands' />
-    <tag k='capacity' v='14' />
-  </node>
-  <node id='-2905' visible='true' lat='45.1850196' lon='5.7232605'>
-    <tag k='amenity' v='bicycle_parking' />
-    <tag k='bicycle_parking' v='stands' />
-    <tag k='capacity' v='10' />
-  </node>
-  <node id='-2906' visible='true' lat='45.1807858' lon='5.7196835'>
-    <tag k='amenity' v='bicycle_parking' />
-    <tag k='bicycle_parking' v='stands' />
-    <tag k='capacity' v='8' />
-    <tag k='description' v='Arceaux à vélos' />
-  </node>
-  <node id='-2907' visible='true' lat='45.1837007' lon='5.7223312'>
-    <tag k='amenity' v='bicycle_parking' />
-  </node>
-  <node id='-2908' visible='true' lat='45.1834645' lon='5.7215761'>
-    <tag k='amenity' v='bicycle_parking' />
-  </node>
-  <node id='-2909' visible='true' lat='45.1834805' lon='5.7035359'>
-    <tag k='access' v='permissive' />
-    <tag k='amenity' v='bicycle_parking' />
-    <tag k='bicycle_parking' v='stands' />
-    <tag k='capacity' v='14' />
-    <tag k='covered' v='yes' />
-  </node>
-  <node id='-2910' visible='true' lat='45.1904498' lon='5.7303512'>
-    <tag k='amenity' v='bicycle_parking' />
-    <tag k='bicycle_parking' v='stands' />
-    <tag k='capacity' v='6' />
-  </node>
-  <node id='-2911' visible='true' lat='45.1938141' lon='5.7326589'>
-    <tag k='amenity' v='bicycle_parking' />
-    <tag k='bicycle_parking' v='stands' />
-    <tag k='capacity' v='8' />
-  </node>
-  <node id='-2912' visible='true' lat='45.1789901' lon='5.7455303'>
-    <tag k='amenity' v='bicycle_parking' />
-    <tag k='bicycle_parking' v='stands' />
-    <tag k='capacity' v='2' />
-  </node>
-  <node id='-2913' visible='true' lat='45.1909011' lon='5.7282053'>
-    <tag k='amenity' v='bicycle_parking' />
-    <tag k='source' v='survey' />
-  </node>
-  <node id='-2914' visible='true' lat='45.1920944' lon='5.7347294'>
-    <tag k='amenity' v='bicycle_parking' />
-    <tag k='bicycle_parking' v='stands' />
-    <tag k='capacity' v='6' />
-  </node>
-  <node id='-2915' visible='true' lat='45.1801338' lon='5.7420043'>
-    <tag k='amenity' v='bicycle_parking' />
-    <tag k='capacity' v='6' />
-  </node>
-  <node id='-2916' visible='true' lat='45.1918432' lon='5.7129936'>
-    <tag k='amenity' v='bicycle_parking' />
-    <tag k='capacity' v='16' />
-  </node>
-  <node id='-2917' visible='true' lat='45.1854436' lon='5.7442709'>
-    <tag k='amenity' v='bicycle_parking' />
-    <tag k='capacity' v='8' />
-    <tag k='covered' v='no' />
-  </node>
-  <node id='-2918' visible='true' lat='45.1713842' lon='5.7397781'>
-    <tag k='amenity' v='bicycle_parking' />
-    <tag k='bicycle_parking' v='stands' />
-    <tag k='capacity' v='6' />
-    <tag k='covered' v='no' />
-  </node>
-  <node id='-2919' visible='true' lat='45.1922576' lon='5.7273168'>
-    <tag k='amenity' v='bicycle_parking' />
-    <tag k='source' v='cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre ; mise à jour : 2010' />
-  </node>
-  <node id='-2920' visible='true' lat='45.1895224' lon='5.7131443'>
+  <node id='-6199' visible='true' lat='45.182054' lon='5.747967'>
     <tag k='amenity' v='bicycle_parking' />
     <tag k='bicycle_parking' v='stands' />
     <tag k='capacity' v='4' />
+    <tag k='ref:FR:Grenoble:Arceaux' v='653' />
+    <tag k='start_date' v='20030101000000' />
   </node>
-  <node id='-2921' visible='true' lat='45.180252' lon='5.7419339'>
-    <tag k='amenity' v='bicycle_parking' />
-    <tag k='capacity' v='6' />
-  </node>
-  <node id='-2922' visible='true' lat='45.1877107' lon='5.7164052'>
+  <node id='-6200' visible='true' lat='45.194502' lon='5.711444'>
     <tag k='amenity' v='bicycle_parking' />
     <tag k='bicycle_parking' v='stands' />
     <tag k='capacity' v='6' />
-    <tag k='covered' v='no' />
+    <tag k='ref:FR:Grenoble:Arceaux' v='411' />
+    <tag k='start_date' v='20060101000000' />
   </node>
-  <node id='-2923' visible='true' lat='45.1892798' lon='5.7297549'>
+  <node id='-6201' visible='true' lat='45.19398' lon='5.731789'>
+    <tag k='amenity' v='bicycle_parking' />
+    <tag k='bicycle_parking' v='stands' />
+    <tag k='capacity' v='8' />
+    <tag k='ref:FR:Grenoble:Arceaux' v='189' />
+    <tag k='start_date' v='20120101000000' />
+  </node>
+  <node id='-6202' visible='true' lat='45.190208' lon='5.728736'>
+    <tag k='amenity' v='bicycle_parking' />
+    <tag k='bicycle_parking' v='stands' />
+    <tag k='capacity' v='8' />
+    <tag k='ref:FR:Grenoble:Arceaux' v='982' />
+    <tag k='start_date' v='20100101000000' />
+  </node>
+  <node id='-6203' visible='true' lat='45.188489' lon='5.706475'>
+    <tag k='amenity' v='bicycle_parking' />
+    <tag k='bicycle_parking' v='stands' />
+    <tag k='capacity' v='8' />
+    <tag k='ref:FR:Grenoble:Arceaux' v='888' />
+    <tag k='start_date' v='20100101000000' />
+  </node>
+  <node id='-6204' visible='true' lat='45.195356' lon='5.711441'>
+    <tag k='amenity' v='bicycle_parking' />
+    <tag k='bicycle_parking' v='stands' />
+    <tag k='capacity' v='6' />
+    <tag k='ref:FR:Grenoble:Arceaux' v='413' />
+    <tag k='start_date' v='20060101000000' />
+  </node>
+  <node id='-6205' visible='true' lat='45.194989' lon='5.710388'>
+    <tag k='amenity' v='bicycle_parking' />
+    <tag k='bicycle_parking' v='stands' />
+    <tag k='capacity' v='10' />
+    <tag k='ref:FR:Grenoble:Arceaux' v='272' />
+    <tag k='start_date' v='20060101000000' />
+  </node>
+  <node id='-6206' visible='true' lat='45.17138' lon='5.739741'>
+    <tag k='amenity' v='bicycle_parking' />
+    <tag k='bicycle_parking' v='stands' />
+    <tag k='capacity' v='6' />
+    <tag k='ref:FR:Grenoble:Arceaux' v='675' />
+    <tag k='start_date' v='20050101000000' />
+  </node>
+  <node id='-6207' visible='true' lat='45.189513' lon='5.713147'>
+    <tag k='amenity' v='bicycle_parking' />
+    <tag k='bicycle_parking' v='stands' />
+    <tag k='capacity' v='4' />
+    <tag k='ref:FR:Grenoble:Arceaux' v='417' />
+    <tag k='start_date' v='20040101000000' />
+  </node>
+  <node id='-6208' visible='true' lat='45.188378' lon='5.714474'>
+    <tag k='amenity' v='bicycle_parking' />
+    <tag k='bicycle_parking' v='stands' />
+    <tag k='capacity' v='10' />
+    <tag k='ref:FR:Grenoble:Arceaux' v='284' />
+    <tag k='start_date' v='20120101000000' />
+  </node>
+  <node id='-6209' visible='true' lat='45.192228' lon='5.727306'>
+    <tag k='amenity' v='bicycle_parking' />
+    <tag k='bicycle_parking' v='stands' />
+    <tag k='capacity' v='14' />
+    <tag k='ref:FR:Grenoble:Arceaux' v='921' />
+    <tag k='start_date' v='20090101000000' />
+  </node>
+  <node id='-6210' visible='true' lat='45.190302' lon='5.726771'>
+    <tag k='amenity' v='bicycle_parking' />
+    <tag k='bicycle_parking' v='stands' />
+    <tag k='capacity' v='8' />
+    <tag k='ref:FR:Grenoble:Arceaux' v='99' />
+    <tag k='start_date' v='19990101000000' />
+  </node>
+  <node id='-6211' visible='true' lat='45.172637' lon='5.724527'>
+    <tag k='amenity' v='bicycle_parking' />
+    <tag k='bicycle_parking' v='stands' />
+    <tag k='capacity' v='4' />
+    <tag k='ref:FR:Grenoble:Arceaux' v='591' />
+    <tag k='start_date' v='20050101000000' />
+  </node>
+  <node id='-6212' visible='true' lat='45.190351' lon='5.7269'>
+    <tag k='amenity' v='bicycle_parking' />
+    <tag k='bicycle_parking' v='stands' />
+    <tag k='capacity' v='6' />
+    <tag k='ref:FR:Grenoble:Arceaux' v='98' />
+    <tag k='start_date' v='19990101000000' />
+  </node>
+  <node id='-6213' visible='true' lat='45.184216' lon='5.72383'>
+    <tag k='amenity' v='bicycle_parking' />
+    <tag k='bicycle_parking' v='stands' />
+    <tag k='capacity' v='4' />
+    <tag k='ref:FR:Grenoble:Arceaux' v='935' />
+    <tag k='start_date' v='20100101000000' />
+  </node>
+  <node id='-6214' visible='true' lat='45.193212' lon='5.709101'>
+    <tag k='amenity' v='bicycle_parking' />
+    <tag k='bicycle_parking' v='stands' />
+    <tag k='capacity' v='6' />
+    <tag k='ref:FR:Grenoble:Arceaux' v='415' />
+    <tag k='start_date' v='19900101000000' />
+  </node>
+  <node id='-6215' visible='true' lat='45.182205' lon='5.715304'>
+    <tag k='amenity' v='bicycle_parking' />
+    <tag k='bicycle_parking' v='stands' />
+    <tag k='capacity' v='6' />
+    <tag k='ref:FR:Grenoble:Arceaux' v='923' />
+    <tag k='start_date' v='20100101000000' />
+  </node>
+  <node id='-6216' visible='true' lat='45.17971' lon='5.705237'>
+    <tag k='amenity' v='bicycle_parking' />
+    <tag k='bicycle_parking' v='stands' />
+    <tag k='capacity' v='4' />
+    <tag k='ref:FR:Grenoble:Arceaux' v='399' />
+    <tag k='start_date' v='20060101000000' />
+  </node>
+  <node id='-6217' visible='true' lat='45.190344' lon='5.719115'>
+    <tag k='amenity' v='bicycle_parking' />
+    <tag k='bicycle_parking' v='stands' />
+    <tag k='capacity' v='8' />
+    <tag k='ref:FR:Grenoble:Arceaux' v='774' />
+    <tag k='start_date' v='20000101000000' />
+  </node>
+  <node id='-6218' visible='true' lat='45.190808' lon='5.71822'>
+    <tag k='amenity' v='bicycle_parking' />
+    <tag k='bicycle_parking' v='stands' />
+    <tag k='capacity' v='8' />
+    <tag k='ref:FR:Grenoble:Arceaux' v='896' />
+    <tag k='start_date' v='20100101000000' />
+  </node>
+  <node id='-6219' visible='true' lat='45.190683' lon='5.71188'>
+    <tag k='amenity' v='bicycle_parking' />
+    <tag k='bicycle_parking' v='stands' />
+    <tag k='capacity' v='8' />
+    <tag k='ref:FR:Grenoble:Arceaux' v='278' />
+    <tag k='start_date' v='20060101000000' />
+  </node>
+  <node id='-6220' visible='true' lat='45.190459' lon='5.730344'>
+    <tag k='amenity' v='bicycle_parking' />
+    <tag k='bicycle_parking' v='stands' />
+    <tag k='capacity' v='6' />
+    <tag k='ref:FR:Grenoble:Arceaux' v='787' />
+    <tag k='start_date' v='20090101000000' />
+  </node>
+  <node id='-6221' visible='true' lat='45.18045' lon='5.71304'>
+    <tag k='amenity' v='bicycle_parking' />
+    <tag k='bicycle_parking' v='stands' />
+    <tag k='capacity' v='6' />
+    <tag k='ref:FR:Grenoble:Arceaux' v='886' />
+    <tag k='start_date' v='20100101000000' />
+  </node>
+  <node id='-6222' visible='true' lat='45.186023' lon='5.729757'>
+    <tag k='amenity' v='bicycle_parking' />
+    <tag k='bicycle_parking' v='stands' />
+    <tag k='capacity' v='8' />
+    <tag k='ref:FR:Grenoble:Arceaux' v='52' />
+    <tag k='start_date' v='19990101000000' />
+  </node>
+  <node id='-6223' visible='true' lat='45.191429' lon='5.711614'>
+    <tag k='amenity' v='bicycle_parking' />
+    <tag k='bicycle_parking' v='stands' />
+    <tag k='capacity' v='8' />
+    <tag k='ref:FR:Grenoble:Arceaux' v='277' />
+    <tag k='start_date' v='20030101000000' />
+  </node>
+  <node id='-6224' visible='true' lat='45.193789' lon='5.73256'>
+    <tag k='amenity' v='bicycle_parking' />
+    <tag k='bicycle_parking' v='stands' />
+    <tag k='capacity' v='6' />
+    <tag k='ref:FR:Grenoble:Arceaux' v='188' />
+    <tag k='start_date' v='19930101000000' />
+  </node>
+  <node id='-6225' visible='true' lat='45.190369' lon='5.72788'>
+    <tag k='amenity' v='bicycle_parking' />
+    <tag k='bicycle_parking' v='stands' />
+    <tag k='capacity' v='8' />
+    <tag k='ref:FR:Grenoble:Arceaux' v='97' />
+    <tag k='start_date' v='19930101000000' />
+  </node>
+  <node id='-6226' visible='true' lat='45.185437' lon='5.744309'>
+    <tag k='amenity' v='bicycle_parking' />
+    <tag k='bicycle_parking' v='stands' />
+    <tag k='capacity' v='8' />
+    <tag k='ref:FR:Grenoble:Arceaux' v='639' />
+    <tag k='start_date' v='20040101000000' />
+  </node>
+  <node id='-6227' visible='true' lat='45.184187' lon='5.714622'>
+    <tag k='amenity' v='bicycle_parking' />
+    <tag k='bicycle_parking' v='stands' />
+    <tag k='capacity' v='6' />
+    <tag k='ref:FR:Grenoble:Arceaux' v='355' />
+    <tag k='start_date' v='19900101000000' />
+  </node>
+  <node id='-6228' visible='true' lat='45.1858' lon='5.717036'>
+    <tag k='amenity' v='bicycle_parking' />
+    <tag k='bicycle_parking' v='stands' />
+    <tag k='capacity' v='10' />
+    <tag k='ref:FR:Grenoble:Arceaux' v='300' />
+    <tag k='start_date' v='20080101000000' />
+  </node>
+  <node id='-6229' visible='true' lat='45.188431' lon='5.72445'>
+    <tag k='amenity' v='bicycle_parking' />
+    <tag k='bicycle_parking' v='stands' />
+    <tag k='capacity' v='8' />
+    <tag k='ref:FR:Grenoble:Arceaux' v='119' />
+    <tag k='start_date' v='19930101000000' />
+  </node>
+  <node id='-6230' visible='true' lat='45.187407' lon='5.711062'>
+    <tag k='amenity' v='bicycle_parking' />
+    <tag k='bicycle_parking' v='stands' />
+    <tag k='capacity' v='6' />
+    <tag k='ref:FR:Grenoble:Arceaux' v='431' />
+    <tag k='start_date' v='19900101000000' />
+  </node>
+  <node id='-6231' visible='true' lat='45.190577' lon='5.713143'>
+    <tag k='amenity' v='bicycle_parking' />
+    <tag k='bicycle_parking' v='stands' />
+    <tag k='capacity' v='30' />
+    <tag k='ref:FR:Grenoble:Arceaux' v='890' />
+    <tag k='start_date' v='20100101000000' />
+  </node>
+  <node id='-6232' visible='true' lat='45.187071' lon='5.724132'>
+    <tag k='amenity' v='bicycle_parking' />
+    <tag k='bicycle_parking' v='stands' />
+    <tag k='capacity' v='14' />
+    <tag k='ref:FR:Grenoble:Arceaux' v='130' />
+    <tag k='start_date' v='19980101000000' />
+  </node>
+  <node id='-6233' visible='true' lat='45.184837' lon='5.714492'>
+    <tag k='amenity' v='bicycle_parking' />
+    <tag k='bicycle_parking' v='stands' />
+    <tag k='capacity' v='6' />
+    <tag k='ref:FR:Grenoble:Arceaux' v='895' />
+    <tag k='start_date' v='20100101000000' />
+  </node>
+  <node id='-6234' visible='true' lat='45.192214' lon='5.709924'>
+    <tag k='amenity' v='bicycle_parking' />
+    <tag k='bicycle_parking' v='stands' />
+    <tag k='capacity' v='4' />
+    <tag k='ref:FR:Grenoble:Arceaux' v='275' />
+    <tag k='start_date' v='20060101000000' />
+  </node>
+  <node id='-6235' visible='true' lat='45.190076' lon='5.709991'>
+    <tag k='amenity' v='bicycle_parking' />
+    <tag k='bicycle_parking' v='stands' />
+    <tag k='capacity' v='10' />
+    <tag k='ref:FR:Grenoble:Arceaux' v='291' />
+    <tag k='start_date' v='20100101000000' />
+  </node>
+  <node id='-6236' visible='true' lat='45.179466' lon='5.741954'>
+    <tag k='amenity' v='bicycle_parking' />
+    <tag k='bicycle_parking' v='stands' />
+    <tag k='capacity' v='6' />
+    <tag k='ref:FR:Grenoble:Arceaux' v='662' />
+    <tag k='start_date' v='19980101000000' />
+  </node>
+  <node id='-6237' visible='true' lat='45.179994' lon='5.711256'>
+    <tag k='amenity' v='bicycle_parking' />
+    <tag k='bicycle_parking' v='stands' />
+    <tag k='capacity' v='8' />
+    <tag k='ref:FR:Grenoble:Arceaux' v='19' />
+    <tag k='start_date' v='20060101000000' />
+  </node>
+  <node id='-6238' visible='true' lat='45.190648' lon='5.729137'>
+    <tag k='amenity' v='bicycle_parking' />
+    <tag k='bicycle_parking' v='stands' />
+    <tag k='capacity' v='10' />
+    <tag k='ref:FR:Grenoble:Arceaux' v='87' />
+    <tag k='start_date' v='20040101000000' />
+  </node>
+  <node id='-6239' visible='true' lat='45.189299' lon='5.729817'>
     <tag k='amenity' v='bicycle_parking' />
     <tag k='bicycle_parking' v='stands' />
     <tag k='capacity' v='18' />
+    <tag k='ref:FR:Grenoble:Arceaux' v='258' />
+    <tag k='start_date' v='20060101000000' />
   </node>
-  <node id='-2924' visible='true' lat='45.1894284' lon='5.7246807'>
-    <tag k='amenity' v='bicycle_parking' />
-    <tag k='bicycle_parking' v='stands' />
-    <tag k='capacity' v='10' />
-  </node>
-  <node id='-2925' visible='true' lat='45.1903261' lon='5.7303505'>
-    <tag k='amenity' v='bicycle_parking' />
-    <tag k='bicycle_parking' v='stands' />
-    <tag k='capacity' v='6' />
-  </node>
-  <node id='-2926' visible='true' lat='45.1817343' lon='5.744882'>
-    <tag k='amenity' v='bicycle_parking' />
-    <tag k='bicycle_parking' v='stands' />
-  </node>
-  <node id='-2927' visible='true' lat='45.1884213' lon='5.7145393'>
-    <tag k='amenity' v='bicycle_parking' />
-    <tag k='capacity' v='4' />
-  </node>
-  <node id='-2928' visible='true' lat='45.1647227' lon='5.7277993'>
+  <node id='-6240' visible='true' lat='45.184769' lon='5.705869'>
     <tag k='amenity' v='bicycle_parking' />
     <tag k='bicycle_parking' v='stands' />
     <tag k='capacity' v='4' />
+    <tag k='ref:FR:Grenoble:Arceaux' v='436' />
+    <tag k='start_date' v='20070101000000' />
   </node>
-  <node id='-2929' visible='true' lat='45.1892675' lon='5.7214178'>
-    <tag k='amenity' v='bicycle_parking' />
-    <tag k='bicycle_parking' v='stands' />
-    <tag k='capacity' v='10' />
-  </node>
-  <node id='-2930' visible='true' lat='45.1804369' lon='5.7153535'>
-    <tag k='amenity' v='bicycle_parking' />
-    <tag k='capacity' v='4' />
-    <tag k='covered' v='no' />
-  </node>
-  <node id='-2931' visible='true' lat='45.1815292' lon='5.7228768'>
+  <node id='-6241' visible='true' lat='45.180598' lon='5.735167'>
     <tag k='amenity' v='bicycle_parking' />
     <tag k='bicycle_parking' v='stands' />
     <tag k='capacity' v='6' />
+    <tag k='ref:FR:Grenoble:Arceaux' v='652' />
+    <tag k='start_date' v='19900101000000' />
   </node>
-  <node id='-2932' visible='true' lat='45.1937967' lon='5.7321019'>
-    <tag k='amenity' v='bicycle_parking' />
-    <tag k='bicycle_parking' v='stands' />
-    <tag k='capacity' v='6' />
-  </node>
-  <node id='-2933' visible='true' lat='45.1872761' lon='5.7302308'>
-    <tag k='amenity' v='bicycle_parking' />
-    <tag k='bicycle_parking' v='stands' />
-    <tag k='capacity' v='8' />
-  </node>
-  <node id='-2934' visible='true' lat='45.1930433' lon='5.7273182'>
-    <tag k='amenity' v='bicycle_parking' />
-    <tag k='source' v='survey' />
-  </node>
-  <node id='-2935' visible='true' lat='45.1936262' lon='5.7120343'>
-    <tag k='amenity' v='bicycle_parking' />
-    <tag k='capacity' v='4' />
-  </node>
-  <node id='-2936' visible='true' lat='45.1927984' lon='5.7314119'>
-    <tag k='amenity' v='bicycle_parking' />
-  </node>
-  <node id='-2937' visible='true' lat='45.1863535' lon='5.7109543'>
-    <tag k='amenity' v='bicycle_parking' />
-    <tag k='bicycle_parking' v='stands' />
-    <tag k='capacity' v='10' />
-  </node>
-  <node id='-2938' visible='true' lat='45.1820376' lon='5.7479923'>
-    <tag k='amenity' v='bicycle_parking' />
-  </node>
-  <node id='-2939' visible='true' lat='45.1872086' lon='5.7125572'>
-    <tag k='amenity' v='bicycle_parking' />
-    <tag k='bicycle_parking' v='stands' />
-    <tag k='capacity' v='6' />
-  </node>
-  <node id='-2940' visible='true' lat='45.1818742' lon='5.7076871'>
-    <tag k='amenity' v='bicycle_parking' />
-    <tag k='bicycle_parking' v='stands' />
-    <tag k='capacity' v='4' />
-  </node>
-  <node id='-2941' visible='true' lat='45.1871462' lon='5.7371559'>
-    <tag k='amenity' v='bicycle_parking' />
-    <tag k='bicycle_parking' v='stands' />
-  </node>
-  <node id='-2942' visible='true' lat='45.1849962' lon='5.7131703'>
-    <tag k='amenity' v='bicycle_parking' />
-    <tag k='bicycle_parking' v='stands' />
-    <tag k='capacity' v='6' />
-    <tag k='covered' v='no' />
-  </node>
-  <node id='-2943' visible='true' lat='45.1922752' lon='5.7099175'>
-    <tag k='amenity' v='bicycle_parking' />
-    <tag k='bicycle_parking' v='stands' />
-    <tag k='capacity' v='2' />
-  </node>
-  <node id='-2944' visible='true' lat='45.1905962' lon='5.7333738'>
-    <tag k='amenity' v='bicycle_parking' />
-    <tag k='bicycle_parking' v='stands' />
-    <tag k='capacity' v='8' />
-  </node>
-  <node id='-2945' visible='true' lat='45.1820551' lon='5.7155361'>
-    <tag k='amenity' v='bicycle_parking' />
-    <tag k='bicycle_parking' v='stands' />
-    <tag k='capacity' v='2' />
-  </node>
-  <node id='-2946' visible='true' lat='45.1750785' lon='5.7411028'>
-    <tag k='amenity' v='bicycle_parking' />
-    <tag k='bicycle_parking' v='stands' />
-    <tag k='capacity' v='8' />
-    <tag k='covered' v='no' />
-  </node>
-  <node id='-2947' visible='true' lat='45.1879813' lon='5.7207002'>
-    <tag k='amenity' v='bicycle_parking' />
-  </node>
-  <node id='-2948' visible='true' lat='45.19446' lon='5.7101812'>
-    <tag k='amenity' v='bicycle_parking' />
-  </node>
-  <node id='-2949' visible='true' lat='45.1914861' lon='5.7128164'>
-    <tag k='amenity' v='bicycle_parking' />
-    <tag k='capacity' v='20' />
-    <tag k='covered' v='yes' />
-  </node>
-  <node id='-2950' visible='true' lat='45.187345' lon='5.7110485'>
-    <tag k='amenity' v='bicycle_parking' />
-    <tag k='bicycle_parking' v='stands' />
-    <tag k='capacity' v='6' />
-  </node>
-  <node id='-2951' visible='true' lat='45.1796095' lon='5.705226'>
-    <tag k='amenity' v='bicycle_parking' />
-  </node>
-  <node id='-2952' visible='true' lat='45.1754253' lon='5.7094065'>
-    <tag k='amenity' v='bicycle_parking' />
-    <tag k='bicycle_parking' v='stands' />
-    <tag k='capacity' v='8' />
-  </node>
-  <node id='-2953' visible='true' lat='45.190649' lon='5.7291123'>
-    <tag k='amenity' v='bicycle_parking' />
-  </node>
-  <node id='-2954' visible='true' lat='45.195344' lon='5.7114079'>
-    <tag k='amenity' v='bicycle_parking' />
-    <tag k='bicycle_parking' v='stands' />
-    <tag k='capacity' v='6' />
-  </node>
-  <node id='-2955' visible='true' lat='45.1857926' lon='5.716593'>
-    <tag k='amenity' v='bicycle_parking' />
-    <tag k='capacity' v='8' />
-    <tag k='covered' v='no' />
-  </node>
-  <node id='-2956' visible='true' lat='45.1820045' lon='5.7240177'>
-    <tag k='amenity' v='bicycle_parking' />
-    <tag k='bicycle_parking' v='stands' />
-    <tag k='capacity' v='6' />
-  </node>
-  <node id='-2957' visible='true' lat='45.1803079' lon='5.7116747'>
-    <tag k='amenity' v='bicycle_parking' />
-    <tag k='bicycle_parking' v='stands' />
-    <tag k='capacity' v='4' />
-  </node>
-  <node id='-2958' visible='true' lat='45.188634' lon='5.7346466'>
-    <tag k='amenity' v='bicycle_parking' />
-    <tag k='bicycle_parking' v='stands' />
-    <tag k='capacity' v='4' />
-  </node>
-  <node id='-2959' visible='true' lat='45.1850716' lon='5.7120783'>
-    <tag k='amenity' v='bicycle_parking' />
-    <tag k='bicycle_parking' v='stands' />
-    <tag k='capacity' v='4' />
-  </node>
-  <node id='-2960' visible='true' lat='45.1799424' lon='5.7128568'>
-    <tag k='amenity' v='bicycle_parking' />
-    <tag k='bicycle_parking' v='stands' />
-  </node>
-  <node id='-2961' visible='true' lat='45.1838289' lon='5.7118068'>
-    <tag k='amenity' v='bicycle_parking' />
-    <tag k='source' v='cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre ; mise à jour : 2010' />
-  </node>
-  <node id='-2962' visible='true' lat='45.1913803' lon='5.7115719'>
-    <tag k='amenity' v='bicycle_parking' />
-    <tag k='capacity' v='20' />
-    <tag k='covered' v='no' />
-  </node>
-  <node id='-2963' visible='true' lat='45.185911' lon='5.7289242'>
-    <tag k='amenity' v='bicycle_parking' />
-  </node>
-  <node id='-2964' visible='true' lat='45.1839292' lon='5.732149'>
-    <tag k='amenity' v='bicycle_parking' />
-    <tag k='bicycle_parking' v='stands' />
-    <tag k='capacity' v='6' />
-    <tag k='covered' v='no' />
-  </node>
-  <node id='-2965' visible='true' lat='45.1909132' lon='5.7303537'>
-    <tag k='amenity' v='bicycle_parking' />
-    <tag k='bicycle_parking' v='stands' />
-    <tag k='capacity' v='12' />
-  </node>
-  <node id='-2966' visible='true' lat='45.1925862' lon='5.712113'>
-    <tag k='amenity' v='bicycle_parking' />
-    <tag k='bicycle_parking' v='stands' />
-    <tag k='capacity' v='4' />
-  </node>
-  <node id='-2967' visible='true' lat='45.1885643' lon='5.7066055'>
-    <tag k='amenity' v='bicycle_parking' />
-    <tag k='bicycle_parking' v='stands' />
-    <tag k='capacity' v='12' />
-  </node>
-  <node id='-2968' visible='true' lat='45.1924737' lon='5.7226498'>
-    <tag k='amenity' v='bicycle_parking' />
-    <tag k='bicycle_parking' v='stands' />
-    <tag k='capacity' v='6' />
-    <tag k='covered' v='no' />
-  </node>
-  <node id='-2969' visible='true' lat='45.19323' lon='5.709106'>
-    <tag k='amenity' v='bicycle_parking' />
-    <tag k='bicycle_parking' v='stands' />
-    <tag k='capacity' v='6' />
-  </node>
-  <node id='-2970' visible='true' lat='45.1799409' lon='5.7487072'>
-    <tag k='amenity' v='bicycle_parking' />
-  </node>
-  <node id='-2971' visible='true' lat='45.1841721' lon='5.715327'>
-    <tag k='amenity' v='bicycle_parking' />
-    <tag k='bicycle_parking' v='stands' />
-    <tag k='capacity' v='14' />
-  </node>
-  <node id='-2972' visible='true' lat='45.1842176' lon='5.7237993'>
-    <tag k='amenity' v='bicycle_parking' />
-    <tag k='bicycle_parking' v='stands' />
-    <tag k='capacity' v='4' />
-  </node>
-  <node id='-2973' visible='true' lat='45.1822935' lon='5.7238197'>
-    <tag k='amenity' v='bicycle_parking' />
-    <tag k='bicycle_parking' v='stands' />
-    <tag k='capacity' v='6' />
-  </node>
-  <node id='-2974' visible='true' lat='45.1837779' lon='5.7105582'>
-    <tag k='amenity' v='bicycle_parking' />
-    <tag k='source' v='cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre ; mise à jour : 2010' />
-  </node>
-  <node id='-2975' visible='true' lat='45.1935175' lon='5.7118805'>
-    <tag k='amenity' v='bicycle_parking' />
-    <tag k='capacity' v='8' />
-  </node>
-  <node id='-2976' visible='true' lat='45.1838879' lon='5.7142949'>
-    <tag k='amenity' v='bicycle_parking' />
-    <tag k='bicycle_parking' v='stands' />
-    <tag k='capacity' v='4' />
-  </node>
-  <node id='-2977' visible='true' lat='45.1647313' lon='5.7279018'>
-    <tag k='amenity' v='bicycle_parking' />
-    <tag k='bicycle_parking' v='stands' />
-    <tag k='capacity' v='2' />
-  </node>
-  <node id='-2978' visible='true' lat='45.1925293' lon='5.7121387'>
-    <tag k='amenity' v='bicycle_parking' />
-    <tag k='bicycle_parking' v='stands' />
-    <tag k='capacity' v='4' />
-  </node>
-  <node id='-2979' visible='true' lat='45.1843194' lon='5.7237572'>
-    <tag k='amenity' v='bicycle_parking' />
-    <tag k='bicycle_parking' v='stands' />
-    <tag k='capacity' v='6' />
-  </node>
-  <node id='-2980' visible='true' lat='45.1908289' lon='5.718255'>
-    <tag k='amenity' v='bicycle_parking' />
-  </node>
-  <node id='-2981' visible='true' lat='45.1646357' lon='5.7278808'>
-    <tag k='amenity' v='bicycle_parking' />
-    <tag k='bicycle_parking' v='stands' />
-    <tag k='capacity' v='6' />
-  </node>
-  <node id='-2982' visible='true' lat='45.1917412' lon='5.71258'>
-    <tag k='amenity' v='bicycle_parking' />
-    <tag k='bicycle_parking' v='stands' />
-    <tag k='capacity' v='10' />
-  </node>
-  <node id='-2983' visible='true' lat='45.1903575' lon='5.7259108'>
-    <tag k='amenity' v='bicycle_parking' />
-    <tag k='bicycle_parking' v='stands' />
-    <tag k='capacity' v='12' />
-  </node>
-  <node id='-2984' visible='true' lat='45.1858594' lon='5.7167392'>
-    <tag k='amenity' v='bicycle_parking' />
-    <tag k='capacity' v='6' />
-    <tag k='covered' v='yes' />
-  </node>
-  <node id='-2985' visible='true' lat='45.196997' lon='5.7369117'>
-    <tag k='amenity' v='bicycle_parking' />
-    <tag k='bicycle_parking' v='anchors' />
-  </node>
-  <node id='-2986' visible='true' lat='45.1908188' lon='5.7303545'>
-    <tag k='amenity' v='bicycle_parking' />
-    <tag k='bicycle_parking' v='stands' />
-    <tag k='capacity' v='24' />
-  </node>
-  <node id='-2987' visible='true' lat='45.157121' lon='5.7335331'>
-    <tag k='amenity' v='bicycle_parking' />
-  </node>
-  <node id='-2988' visible='true' lat='45.1923102' lon='5.7273047'>
-    <tag k='amenity' v='bicycle_parking' />
-  </node>
-  <node id='-2989' visible='true' lat='45.1841259' lon='5.7152764'>
-    <tag k='amenity' v='bicycle_parking' />
-    <tag k='bicycle_parking' v='stands' />
-    <tag k='capacity' v='6' />
-  </node>
-  <node id='-2990' visible='true' lat='45.1901021' lon='5.7100543'>
-    <tag k='amenity' v='bicycle_parking' />
-    <tag k='bicycle_parking' v='stands' />
-    <tag k='capacity' v='10' />
-  </node>
-  <node id='-2991' visible='true' lat='45.1841776' lon='5.7236454'>
-    <tag k='amenity' v='bicycle_parking' />
-    <tag k='bicycle_parking' v='stands' />
-    <tag k='capacity' v='10' />
-  </node>
-  <node id='-2992' visible='true' lat='45.1844324' lon='5.7037159'>
-    <tag k='amenity' v='bicycle_parking' />
-    <tag k='bicycle_parking' v='stands' />
-    <tag k='capacity' v='20' />
-    <tag k='covered' v='yes' />
-  </node>
-  <node id='-2993' visible='true' lat='45.1784588' lon='5.7496732'>
-    <tag k='amenity' v='bicycle_parking' />
-    <tag k='bicycle_parking' v='stands' />
-    <tag k='capacity' v='3' />
-  </node>
-  <node id='-2994' visible='true' lat='45.1903488' lon='5.7130945'>
-    <tag k='amenity' v='bicycle_parking' />
-    <tag k='covered' v='yes' />
-    <tag k='source' v='survey' />
-  </node>
-  <node id='-2995' visible='true' lat='45.1872383' lon='5.7165119'>
-    <tag k='amenity' v='bicycle_parking' />
-    <tag k='bicycle_parking' v='stands' />
-    <tag k='capacity' v='12' />
-    <tag k='covered' v='no' />
-  </node>
-  <node id='-2996' visible='true' lat='45.1884214' lon='5.7244258'>
-    <tag k='amenity' v='bicycle_parking' />
-    <tag k='bicycle_parking' v='stands' />
-    <tag k='capacity' v='8' />
-  </node>
-  <node id='-2997' visible='true' lat='45.1805554' lon='5.7212622'>
-    <tag k='amenity' v='bicycle_parking' />
-    <tag k='bicycle_parking' v='stands' />
-    <tag k='capacity' v='4' />
-    <tag k='name' v='Arceaux à vélos' />
-  </node>
-  <node id='-2998' visible='true' lat='45.1782349' lon='5.7407095'>
-    <tag k='amenity' v='bicycle_parking' />
-    <tag k='bicycle_parking' v='stands' />
-    <tag k='capacity' v='4' />
-    <tag k='covered' v='no' />
-  </node>
-  <node id='-2999' visible='true' lat='45.1902229' lon='5.7287562'>
-    <tag k='amenity' v='bicycle_parking' />
-    <tag k='bicycle_parking' v='stands' />
-    <tag k='capacity' v='8' />
-  </node>
-  <node id='-3000' visible='true' lat='45.1740272' lon='5.7419523'>
-    <tag k='amenity' v='bicycle_parking' />
-    <tag k='bicycle_parking' v='stands' />
-    <tag k='capacity' v='10' />
-    <tag k='covered' v='no' />
-  </node>
-  <node id='-3001' visible='true' lat='45.1860732' lon='5.7296976'>
-    <tag k='amenity' v='bicycle_parking' />
-    <tag k='bicycle_parking' v='stands' />
-    <tag k='capacity' v='8' />
-  </node>
-  <node id='-3002' visible='true' lat='45.1834779' lon='5.7036852'>
+  <node id='-6242' visible='true' lat='45.183453' lon='5.703672'>
     <tag k='amenity' v='bicycle_parking' />
     <tag k='bicycle_parking' v='stands' />
     <tag k='capacity' v='16' />
+    <tag k='ref:FR:Grenoble:Arceaux' v='858' />
+    <tag k='start_date' v='20100101000000' />
   </node>
-  <node id='-3003' visible='true' lat='45.1926282' lon='5.7290402'>
+  <node id='-6243' visible='true' lat='45.189887' lon='5.72571'>
     <tag k='amenity' v='bicycle_parking' />
-    <tag k='source' v='cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre ; mise à jour : 2010' />
+    <tag k='bicycle_parking' v='stands' />
+    <tag k='capacity' v='18' />
+    <tag k='ref:FR:Grenoble:Arceaux' v='125' />
+    <tag k='start_date' v='20070101000000' />
   </node>
-  <node id='-3004' visible='true' lat='45.1903596' lon='5.7264598'>
-    <tag k='amenity' v='bicycle_parking' />
-    <tag k='source' v='survey' />
-  </node>
-  <node id='-3005' visible='true' lat='45.187248' lon='5.7116639'>
+  <node id='-6244' visible='true' lat='45.187565' lon='5.723563'>
     <tag k='amenity' v='bicycle_parking' />
     <tag k='bicycle_parking' v='stands' />
     <tag k='capacity' v='8' />
+    <tag k='ref:FR:Grenoble:Arceaux' v='127' />
+    <tag k='start_date' v='20000101000000' />
   </node>
-  <node id='-3006' visible='true' lat='45.1847599' lon='5.7058349'>
+  <node id='-6245' visible='true' lat='45.187429' lon='5.730362'>
     <tag k='amenity' v='bicycle_parking' />
     <tag k='bicycle_parking' v='stands' />
     <tag k='capacity' v='6' />
+    <tag k='ref:FR:Grenoble:Arceaux' v='984' />
+    <tag k='start_date' v='20100101000000' />
   </node>
-  <node id='-3007' visible='true' lat='45.1874274' lon='5.7303247'>
+  <node id='-6246' visible='true' lat='45.183811' lon='5.716326'>
+    <tag k='amenity' v='bicycle_parking' />
+    <tag k='bicycle_parking' v='stands' />
+    <tag k='capacity' v='12' />
+    <tag k='ref:FR:Grenoble:Arceaux' v='306' />
+    <tag k='start_date' v='20080101000000' />
+  </node>
+  <node id='-6247' visible='true' lat='45.186507' lon='5.731824'>
     <tag k='amenity' v='bicycle_parking' />
     <tag k='bicycle_parking' v='stands' />
     <tag k='capacity' v='8' />
+    <tag k='ref:FR:Grenoble:Arceaux' v='30' />
+    <tag k='start_date' v='20090101000000' />
   </node>
-  <node id='-3008' visible='true' lat='45.1821522' lon='5.7152552'>
+  <node id='-6248' visible='true' lat='45.180293' lon='5.711458'>
+    <tag k='amenity' v='bicycle_parking' />
+    <tag k='bicycle_parking' v='stands' />
+    <tag k='capacity' v='8' />
+    <tag k='ref:FR:Grenoble:Arceaux' v='401' />
+    <tag k='start_date' v='20060101000000' />
+  </node>
+  <node id='-6249' visible='true' lat='45.175062' lon='5.741053'>
+    <tag k='amenity' v='bicycle_parking' />
+    <tag k='bicycle_parking' v='stands' />
+    <tag k='capacity' v='8' />
+    <tag k='ref:FR:Grenoble:Arceaux' v='672' />
+    <tag k='start_date' v='20060101000000' />
+  </node>
+  <node id='-6250' visible='true' lat='45.180266' lon='5.74188'>
     <tag k='amenity' v='bicycle_parking' />
     <tag k='bicycle_parking' v='stands' />
     <tag k='capacity' v='6' />
+    <tag k='ref:FR:Grenoble:Arceaux' v='661' />
+    <tag k='start_date' v='19930101000000' />
   </node>
-  <node id='-3009' visible='true' lat='45.1944707' lon='5.7114352'>
+  <node id='-6251' visible='true' lat='45.183755' lon='5.710575'>
+    <tag k='amenity' v='bicycle_parking' />
+    <tag k='bicycle_parking' v='stands' />
+    <tag k='capacity' v='8' />
+    <tag k='ref:FR:Grenoble:Arceaux' v='818' />
+    <tag k='start_date' v='20090101000000' />
+  </node>
+  <node id='-6252' visible='true' lat='45.194253' lon='5.727206'>
     <tag k='amenity' v='bicycle_parking' />
     <tag k='bicycle_parking' v='stands' />
     <tag k='capacity' v='6' />
+    <tag k='ref:FR:Grenoble:Arceaux' v='238' />
+    <tag k='start_date' v='20040101000000' />
   </node>
-  <node id='-3010' visible='true' lat='45.1827619' lon='5.7168405'>
+  <node id='-6253' visible='true' lat='45.193806' lon='5.732655'>
+    <tag k='amenity' v='bicycle_parking' />
+    <tag k='bicycle_parking' v='stands' />
+    <tag k='capacity' v='8' />
+    <tag k='ref:FR:Grenoble:Arceaux' v='1073' />
+    <tag k='start_date' v='20110101000000' />
+  </node>
+  <node id='-6254' visible='true' lat='45.188783' lon='5.703869'>
+    <tag k='amenity' v='bicycle_parking' />
+    <tag k='bicycle_parking' v='stands' />
+    <tag k='capacity' v='8' />
+    <tag k='ref:FR:Grenoble:Arceaux' v='434' />
+    <tag k='start_date' v='20070101000000' />
+  </node>
+  <node id='-6255' visible='true' lat='45.187996' lon='5.720703'>
+    <tag k='amenity' v='bicycle_parking' />
+    <tag k='bicycle_parking' v='stands' />
+    <tag k='capacity' v='10' />
+    <tag k='ref:FR:Grenoble:Arceaux' v='314' />
+    <tag k='start_date' v='20080101000000' />
+  </node>
+  <node id='-6256' visible='true' lat='45.190887' lon='5.70964'>
+    <tag k='amenity' v='bicycle_parking' />
+    <tag k='bicycle_parking' v='stands' />
+    <tag k='capacity' v='4' />
+    <tag k='ref:FR:Grenoble:Arceaux' v='304' />
+    <tag k='start_date' v='20080101000000' />
+  </node>
+  <node id='-6257' visible='true' lat='45.184867' lon='5.741196'>
+    <tag k='amenity' v='bicycle_parking' />
+    <tag k='bicycle_parking' v='stands' />
+    <tag k='capacity' v='12' />
+    <tag k='ref:FR:Grenoble:Arceaux' v='626' />
+    <tag k='start_date' v='20080101000000' />
+  </node>
+  <node id='-6258' visible='true' lat='45.170981' lon='5.740225'>
     <tag k='amenity' v='bicycle_parking' />
     <tag k='bicycle_parking' v='stands' />
     <tag k='capacity' v='6' />
+    <tag k='ref:FR:Grenoble:Arceaux' v='677' />
+    <tag k='start_date' v='20050101000000' />
+  </node>
+  <node id='-6259' visible='true' lat='45.179925' lon='5.748668'>
+    <tag k='amenity' v='bicycle_parking' />
+    <tag k='bicycle_parking' v='stands' />
+    <tag k='capacity' v='8' />
+    <tag k='ref:FR:Grenoble:Arceaux' v='1098' />
+    <tag k='start_date' v='20120101000000' />
+  </node>
+  <node id='-6260' visible='true' lat='45.192603' lon='5.712119'>
+    <tag k='amenity' v='bicycle_parking' />
+    <tag k='bicycle_parking' v='stands' />
+    <tag k='capacity' v='4' />
+    <tag k='ref:FR:Grenoble:Arceaux' v='1043' />
+    <tag k='start_date' v='20120101000000' />
+  </node>
+  <node id='-6261' visible='true' lat='45.184151' lon='5.715384'>
+    <tag k='amenity' v='bicycle_parking' />
+    <tag k='bicycle_parking' v='stands' />
+    <tag k='capacity' v='14' />
+    <tag k='ref:FR:Grenoble:Arceaux' v='353' />
+    <tag k='start_date' v='19900101000000' />
+  </node>
+  <node id='-6262' visible='true' lat='45.189418' lon='5.724688'>
+    <tag k='amenity' v='bicycle_parking' />
+    <tag k='bicycle_parking' v='stands' />
+    <tag k='capacity' v='10' />
+    <tag k='ref:FR:Grenoble:Arceaux' v='112' />
+    <tag k='start_date' v='19930101000000' />
+  </node>
+  <node id='-6263' visible='true' lat='45.185258' lon='5.731337'>
+    <tag k='amenity' v='bicycle_parking' />
+    <tag k='bicycle_parking' v='stands' />
+    <tag k='capacity' v='22' />
+    <tag k='ref:FR:Grenoble:Arceaux' v='3' />
+    <tag k='start_date' v='20060101000000' />
+  </node>
+  <node id='-6264' visible='true' lat='45.17898' lon='5.745554'>
+    <tag k='amenity' v='bicycle_parking' />
+    <tag k='bicycle_parking' v='stands' />
+    <tag k='capacity' v='4' />
+    <tag k='ref:FR:Grenoble:Arceaux' v='658' />
+    <tag k='start_date' v='19990101000000' />
+  </node>
+  <node id='-6265' visible='true' lat='45.189518' lon='5.724591'>
+    <tag k='amenity' v='bicycle_parking' />
+    <tag k='bicycle_parking' v='stands' />
+    <tag k='capacity' v='6' />
+    <tag k='ref:FR:Grenoble:Arceaux' v='1141' />
+    <tag k='start_date' v='20120101000000' />
+  </node>
+  <node id='-6266' visible='true' lat='45.182053' lon='5.715577'>
+    <tag k='amenity' v='bicycle_parking' />
+    <tag k='bicycle_parking' v='stands' />
+    <tag k='capacity' v='4' />
+    <tag k='ref:FR:Grenoble:Arceaux' v='922' />
+    <tag k='start_date' v='20100101000000' />
+  </node>
+  <node id='-6267' visible='true' lat='45.184397' lon='5.703648'>
+    <tag k='amenity' v='bicycle_parking' />
+    <tag k='bicycle_parking' v='stands' />
+    <tag k='capacity' v='64' />
+    <tag k='ref:FR:Grenoble:Arceaux' v='860' />
+    <tag k='start_date' v='20120101000000' />
+  </node>
+  <node id='-6268' visible='true' lat='45.174045' lon='5.741962'>
+    <tag k='amenity' v='bicycle_parking' />
+    <tag k='bicycle_parking' v='stands' />
+    <tag k='capacity' v='10' />
+    <tag k='ref:FR:Grenoble:Arceaux' v='926' />
+    <tag k='start_date' v='20100101000000' />
+  </node>
+  <node id='-6269' visible='true' lat='45.189689' lon='5.724891'>
+    <tag k='amenity' v='bicycle_parking' />
+    <tag k='bicycle_parking' v='stands' />
+    <tag k='capacity' v='4' />
+    <tag k='ref:FR:Grenoble:Arceaux' v='298' />
+    <tag k='start_date' v='20000101000000' />
+  </node>
+  <node id='-6270' visible='true' lat='45.196964' lon='5.736954'>
+    <tag k='amenity' v='bicycle_parking' />
+    <tag k='bicycle_parking' v='stands' />
+    <tag k='capacity' v='4' />
+    <tag k='ref:FR:Grenoble:Arceaux' v='447' />
+    <tag k='start_date' v='20080101000000' />
+  </node>
+  <node id='-6271' visible='true' lat='45.190478' lon='5.729619'>
+    <tag k='amenity' v='bicycle_parking' />
+    <tag k='bicycle_parking' v='stands' />
+    <tag k='capacity' v='10' />
+    <tag k='ref:FR:Grenoble:Arceaux' v='96' />
+    <tag k='start_date' v='19930101000000' />
+  </node>
+  <node id='-6272' visible='true' lat='45.186282' lon='5.711351'>
+    <tag k='amenity' v='bicycle_parking' />
+    <tag k='bicycle_parking' v='stands' />
+    <tag k='capacity' v='12' />
+    <tag k='ref:FR:Grenoble:Arceaux' v='336' />
+    <tag k='start_date' v='20040101000000' />
+  </node>
+  <node id='-6273' visible='true' lat='45.188769' lon='5.733213'>
+    <tag k='amenity' v='bicycle_parking' />
+    <tag k='bicycle_parking' v='stands' />
+    <tag k='capacity' v='4' />
+    <tag k='ref:FR:Grenoble:Arceaux' v='784' />
+    <tag k='start_date' v='20010101000000' />
+  </node>
+  <node id='-6274' visible='true' lat='45.180445' lon='5.715275'>
+    <tag k='amenity' v='bicycle_parking' />
+    <tag k='bicycle_parking' v='stands' />
+    <tag k='capacity' v='4' />
+    <tag k='ref:FR:Grenoble:Arceaux' v='404' />
+    <tag k='start_date' v='20060101000000' />
+  </node>
+  <node id='-6275' visible='true' lat='45.193184' lon='5.731579'>
+    <tag k='amenity' v='bicycle_parking' />
+    <tag k='bicycle_parking' v='stands' />
+    <tag k='capacity' v='18' />
+    <tag k='ref:FR:Grenoble:Arceaux' v='259' />
+    <tag k='start_date' v='20060101000000' />
+  </node>
+  <node id='-6276' visible='true' lat='45.193492' lon='5.712061'>
+    <tag k='amenity' v='bicycle_parking' />
+    <tag k='bicycle_parking' v='stands' />
+    <tag k='capacity' v='8' />
+    <tag k='ref:FR:Grenoble:Arceaux' v='410' />
+    <tag k='start_date' v='20060101000000' />
+  </node>
+  <node id='-6277' visible='true' lat='45.188326' lon='5.704925'>
+    <tag k='amenity' v='bicycle_parking' />
+    <tag k='bicycle_parking' v='stands' />
+    <tag k='capacity' v='22' />
+    <tag k='ref:FR:Grenoble:Arceaux' v='978' />
+    <tag k='start_date' v='20100101000000' />
+  </node>
+  <node id='-6278' visible='true' lat='45.190368' lon='5.713092'>
+    <tag k='amenity' v='bicycle_parking' />
+    <tag k='bicycle_parking' v='stands' />
+    <tag k='capacity' v='70' />
+    <tag k='ref:FR:Grenoble:Arceaux' v='281' />
+    <tag k='start_date' v='19900101000000' />
+  </node>
+  <node id='-6279' visible='true' lat='45.18722' lon='5.716504'>
+    <tag k='amenity' v='bicycle_parking' />
+    <tag k='bicycle_parking' v='stands' />
+    <tag k='capacity' v='12' />
+    <tag k='ref:FR:Grenoble:Arceaux' v='315' />
+    <tag k='start_date' v='20120101000000' />
+  </node>
+  <node id='-6280' visible='true' lat='45.188891' lon='5.731001'>
+    <tag k='amenity' v='bicycle_parking' />
+    <tag k='bicycle_parking' v='stands' />
+    <tag k='capacity' v='18' />
+    <tag k='ref:FR:Grenoble:Arceaux' v='55' />
+    <tag k='start_date' v='20080101000000' />
+  </node>
+  <node id='-6281' visible='true' lat='45.186323' lon='5.710965'>
+    <tag k='amenity' v='bicycle_parking' />
+    <tag k='bicycle_parking' v='stands' />
+    <tag k='capacity' v='8' />
+    <tag k='ref:FR:Grenoble:Arceaux' v='1021' />
+    <tag k='start_date' v='20100101000000' />
+  </node>
+  <node id='-6282' visible='true' lat='45.184665' lon='5.740869'>
+    <tag k='amenity' v='bicycle_parking' />
+    <tag k='bicycle_parking' v='stands' />
+    <tag k='capacity' v='12' />
+    <tag k='ref:FR:Grenoble:Arceaux' v='628' />
+    <tag k='start_date' v='20080101000000' />
+  </node>
+  <node id='-6283' visible='true' lat='45.183777' lon='5.724091'>
+    <tag k='amenity' v='bicycle_parking' />
+    <tag k='bicycle_parking' v='stands' />
+    <tag k='capacity' v='22' />
+    <tag k='ref:FR:Grenoble:Arceaux' v='943' />
+    <tag k='start_date' v='20100101000000' />
+  </node>
+  <node id='-6284' visible='true' lat='45.187097' lon='5.716489'>
+    <tag k='amenity' v='bicycle_parking' />
+    <tag k='bicycle_parking' v='stands' />
+    <tag k='capacity' v='4' />
+    <tag k='ref:FR:Grenoble:Arceaux' v='1064' />
+    <tag k='start_date' v='20120101000000' />
+  </node>
+  <node id='-6285' visible='true' lat='45.156385' lon='5.734488'>
+    <tag k='amenity' v='bicycle_parking' />
+    <tag k='bicycle_parking' v='stands' />
+    <tag k='capacity' v='14' />
+    <tag k='ref:FR:Grenoble:Arceaux' v='701' />
+    <tag k='start_date' v='20080101000000' />
+  </node>
+  <node id='-6286' visible='true' lat='45.175036' lon='5.741509'>
+    <tag k='amenity' v='bicycle_parking' />
+    <tag k='bicycle_parking' v='stands' />
+    <tag k='capacity' v='6' />
+    <tag k='ref:FR:Grenoble:Arceaux' v='1088' />
+    <tag k='start_date' v='20060101000000' />
+  </node>
+  <node id='-6287' visible='true' lat='45.184141' lon='5.715128'>
+    <tag k='amenity' v='bicycle_parking' />
+    <tag k='bicycle_parking' v='stands' />
+    <tag k='capacity' v='6' />
+    <tag k='ref:FR:Grenoble:Arceaux' v='440' />
+    <tag k='start_date' v='19900101000000' />
+  </node>
+  <node id='-6288' visible='true' lat='45.192466' lon='5.731431'>
+    <tag k='amenity' v='bicycle_parking' />
+    <tag k='bicycle_parking' v='stands' />
+    <tag k='capacity' v='10' />
+    <tag k='ref:FR:Grenoble:Arceaux' v='81' />
+    <tag k='start_date' v='20000101000000' />
+  </node>
+  <node id='-6289' visible='true' lat='45.188541' lon='5.732965'>
+    <tag k='amenity' v='bicycle_parking' />
+    <tag k='bicycle_parking' v='stands' />
+    <tag k='capacity' v='18' />
+    <tag k='ref:FR:Grenoble:Arceaux' v='59' />
+    <tag k='start_date' v='19990101000000' />
+  </node>
+  <node id='-6290' visible='true' lat='45.180081' lon='5.741991'>
+    <tag k='amenity' v='bicycle_parking' />
+    <tag k='bicycle_parking' v='stands' />
+    <tag k='capacity' v='6' />
+    <tag k='ref:FR:Grenoble:Arceaux' v='660' />
+    <tag k='start_date' v='19930101000000' />
+  </node>
+  <node id='-6291' visible='true' lat='45.194495' lon='5.710181'>
+    <tag k='amenity' v='bicycle_parking' />
+    <tag k='bicycle_parking' v='stands' />
+    <tag k='capacity' v='48' />
+    <tag k='ref:FR:Grenoble:Arceaux' v='414' />
+    <tag k='start_date' v='20070101000000' />
+  </node>
+  <node id='-6292' visible='true' lat='45.188634' lon='5.734567'>
+    <tag k='amenity' v='bicycle_parking' />
+    <tag k='bicycle_parking' v='stands' />
+    <tag k='capacity' v='4' />
+    <tag k='ref:FR:Grenoble:Arceaux' v='60' />
+    <tag k='start_date' v='20030101000000' />
+  </node>
+  <node id='-6293' visible='true' lat='45.185474' lon='5.705835'>
+    <tag k='amenity' v='bicycle_parking' />
+    <tag k='bicycle_parking' v='stands' />
+    <tag k='capacity' v='6' />
+    <tag k='ref:FR:Grenoble:Arceaux' v='1023' />
+    <tag k='start_date' v='20110101000000' />
+  </node>
+  <node id='-6294' visible='true' lat='45.157096' lon='5.733526'>
+    <tag k='amenity' v='bicycle_parking' />
+    <tag k='bicycle_parking' v='stands' />
+    <tag k='capacity' v='16' />
+    <tag k='ref:FR:Grenoble:Arceaux' v='705' />
+    <tag k='start_date' v='20050101000000' />
+  </node>
+  <node id='-6295' visible='true' lat='45.173249' lon='5.724486'>
+    <tag k='amenity' v='bicycle_parking' />
+    <tag k='bicycle_parking' v='stands' />
+    <tag k='capacity' v='4' />
+    <tag k='ref:FR:Grenoble:Arceaux' v='590' />
+    <tag k='start_date' v='20050101000000' />
+  </node>
+  <node id='-6296' visible='true' lat='45.190374' lon='5.726484'>
+    <tag k='amenity' v='bicycle_parking' />
+    <tag k='bicycle_parking' v='stands' />
+    <tag k='capacity' v='10' />
+    <tag k='ref:FR:Grenoble:Arceaux' v='101' />
+    <tag k='start_date' v='19990101000000' />
+  </node>
+  <node id='-6297' visible='true' lat='45.191496' lon='5.712858'>
+    <tag k='amenity' v='bicycle_parking' />
+    <tag k='bicycle_parking' v='stands' />
+    <tag k='capacity' v='24' />
+    <tag k='ref:FR:Grenoble:Arceaux' v='408' />
+    <tag k='start_date' v='19900101000000' />
+  </node>
+  <node id='-6298' visible='true' lat='45.188453' lon='5.722928'>
+    <tag k='amenity' v='bicycle_parking' />
+    <tag k='bicycle_parking' v='stands' />
+    <tag k='capacity' v='6' />
+    <tag k='ref:FR:Grenoble:Arceaux' v='151' />
+    <tag k='start_date' v='20020101000000' />
+  </node>
+  <node id='-6299' visible='true' lat='45.191746' lon='5.738181'>
+    <tag k='amenity' v='bicycle_parking' />
+    <tag k='bicycle_parking' v='stands' />
+    <tag k='capacity' v='6' />
+    <tag k='ref:FR:Grenoble:Arceaux' v='453' />
+    <tag k='start_date' v='20030101000000' />
+  </node>
+  <node id='-6300' visible='true' lat='45.19038' lon='5.72887'>
+    <tag k='amenity' v='bicycle_parking' />
+    <tag k='bicycle_parking' v='stands' />
+    <tag k='capacity' v='10' />
+    <tag k='ref:FR:Grenoble:Arceaux' v='827' />
+    <tag k='start_date' v='20090101000000' />
+  </node>
+  <node id='-6301' visible='true' lat='45.17968' lon='5.741981'>
+    <tag k='amenity' v='bicycle_parking' />
+    <tag k='bicycle_parking' v='stands' />
+    <tag k='capacity' v='4' />
+    <tag k='ref:FR:Grenoble:Arceaux' v='1096' />
+    <tag k='start_date' v='20120101000000' />
+  </node>
+  <node id='-6302' visible='true' lat='45.186658' lon='5.718219'>
+    <tag k='amenity' v='bicycle_parking' />
+    <tag k='bicycle_parking' v='stands' />
+    <tag k='capacity' v='4' />
+    <tag k='ref:FR:Grenoble:Arceaux' v='249' />
+    <tag k='start_date' v='19900101000000' />
+  </node>
+  <node id='-6303' visible='true' lat='45.183696' lon='5.722283'>
+    <tag k='amenity' v='bicycle_parking' />
+    <tag k='bicycle_parking' v='stands' />
+    <tag k='capacity' v='10' />
+    <tag k='ref:FR:Grenoble:Arceaux' v='937' />
+    <tag k='start_date' v='20100101000000' />
+  </node>
+  <node id='-6304' visible='true' lat='45.188296' lon='5.714852'>
+    <tag k='amenity' v='bicycle_parking' />
+    <tag k='bicycle_parking' v='stands' />
+    <tag k='capacity' v='4' />
+    <tag k='ref:FR:Grenoble:Arceaux' v='423' />
+    <tag k='start_date' v='19930101000000' />
+  </node>
+  <node id='-6305' visible='true' lat='45.157068' lon='5.73419'>
+    <tag k='amenity' v='bicycle_parking' />
+    <tag k='bicycle_parking' v='stands' />
+    <tag k='capacity' v='26' />
+    <tag k='ref:FR:Grenoble:Arceaux' v='703' />
+    <tag k='start_date' v='20020101000000' />
+  </node>
+  <node id='-6306' visible='true' lat='45.185858' lon='5.716739'>
+    <tag k='amenity' v='bicycle_parking' />
+    <tag k='bicycle_parking' v='stands' />
+    <tag k='capacity' v='6' />
+    <tag k='ref:FR:Grenoble:Arceaux' v='345' />
+    <tag k='start_date' v='19970101000000' />
+  </node>
+  <node id='-6307' visible='true' lat='45.183878' lon='5.714283'>
+    <tag k='amenity' v='bicycle_parking' />
+    <tag k='bicycle_parking' v='stands' />
+    <tag k='capacity' v='6' />
+    <tag k='ref:FR:Grenoble:Arceaux' v='894' />
+    <tag k='start_date' v='20100101000000' />
+  </node>
+  <node id='-6308' visible='true' lat='45.188589' lon='5.706559'>
+    <tag k='amenity' v='bicycle_parking' />
+    <tag k='bicycle_parking' v='stands' />
+    <tag k='capacity' v='12' />
+    <tag k='ref:FR:Grenoble:Arceaux' v='422' />
+    <tag k='start_date' v='20080101000000' />
+  </node>
+  <node id='-6309' visible='true' lat='45.197655' lon='5.740189'>
+    <tag k='amenity' v='bicycle_parking' />
+    <tag k='bicycle_parking' v='stands' />
+    <tag k='capacity' v='6' />
+    <tag k='ref:FR:Grenoble:Arceaux' v='1109' />
+    <tag k='start_date' v='20120101000000' />
+  </node>
+  <node id='-6310' visible='true' lat='45.191751' lon='5.712519'>
+    <tag k='amenity' v='bicycle_parking' />
+    <tag k='bicycle_parking' v='stands' />
+    <tag k='capacity' v='6' />
+    <tag k='ref:FR:Grenoble:Arceaux' v='1029' />
+    <tag k='start_date' v='20110101000000' />
+  </node>
+  <node id='-6311' visible='true' lat='45.187114' lon='5.737164'>
+    <tag k='amenity' v='bicycle_parking' />
+    <tag k='bicycle_parking' v='stands' />
+    <tag k='capacity' v='6' />
+    <tag k='ref:FR:Grenoble:Arceaux' v='395' />
+    <tag k='start_date' v='20060101000000' />
+  </node>
+  <node id='-6312' visible='true' lat='45.18617' lon='5.729306'>
+    <tag k='amenity' v='bicycle_parking' />
+    <tag k='bicycle_parking' v='stands' />
+    <tag k='capacity' v='8' />
+    <tag k='ref:FR:Grenoble:Arceaux' v='763' />
+    <tag k='start_date' v='19900101000000' />
+  </node>
+  <node id='-6313' visible='true' lat='45.182027' lon='5.724002'>
+    <tag k='amenity' v='bicycle_parking' />
+    <tag k='bicycle_parking' v='stands' />
+    <tag k='capacity' v='6' />
+    <tag k='ref:FR:Grenoble:Arceaux' v='847' />
+    <tag k='start_date' v='20090101000000' />
+  </node>
+  <node id='-6314' visible='true' lat='45.184815' lon='5.714711'>
+    <tag k='amenity' v='bicycle_parking' />
+    <tag k='bicycle_parking' v='stands' />
+    <tag k='capacity' v='6' />
+    <tag k='ref:FR:Grenoble:Arceaux' v='421' />
+    <tag k='start_date' v='20080101000000' />
+  </node>
+  <node id='-6315' visible='true' lat='45.179605' lon='5.705241'>
+    <tag k='amenity' v='bicycle_parking' />
+    <tag k='bicycle_parking' v='stands' />
+    <tag k='capacity' v='6' />
+    <tag k='ref:FR:Grenoble:Arceaux' v='400' />
+    <tag k='start_date' v='20060101000000' />
+  </node>
+  <node id='-6316' visible='true' lat='45.198737' lon='5.732747'>
+    <tag k='amenity' v='bicycle_parking' />
+    <tag k='bicycle_parking' v='stands' />
+    <tag k='capacity' v='4' />
+    <tag k='ref:FR:Grenoble:Arceaux' v='776' />
+    <tag k='start_date' v='20010101000000' />
+  </node>
+  <node id='-6317' visible='true' lat='45.180528' lon='5.721323'>
+    <tag k='amenity' v='bicycle_parking' />
+    <tag k='bicycle_parking' v='stands' />
+    <tag k='capacity' v='6' />
+    <tag k='ref:FR:Grenoble:Arceaux' v='297' />
+    <tag k='start_date' v='20070101000000' />
+  </node>
+  <node id='-6318' visible='true' lat='45.178437' lon='5.749667'>
+    <tag k='amenity' v='bicycle_parking' />
+    <tag k='bicycle_parking' v='stands' />
+    <tag k='capacity' v='6' />
+    <tag k='ref:FR:Grenoble:Arceaux' v='857' />
+    <tag k='start_date' v='20100101000000' />
+  </node>
+  <node id='-6319' visible='true' lat='45.190398' lon='5.727786'>
+    <tag k='amenity' v='bicycle_parking' />
+    <tag k='bicycle_parking' v='stands' />
+    <tag k='capacity' v='10' />
+    <tag k='ref:FR:Grenoble:Arceaux' v='1002' />
+    <tag k='start_date' v='20100101000000' />
+  </node>
+  <node id='-6320' visible='true' lat='45.192323' lon='5.727287'>
+    <tag k='amenity' v='bicycle_parking' />
+    <tag k='bicycle_parking' v='stands' />
+    <tag k='capacity' v='12' />
+    <tag k='ref:FR:Grenoble:Arceaux' v='93' />
+    <tag k='start_date' v='20090101000000' />
+  </node>
+  <node id='-6321' visible='true' lat='45.19168' lon='5.730669'>
+    <tag k='amenity' v='bicycle_parking' />
+    <tag k='bicycle_parking' v='stands' />
+    <tag k='capacity' v='4' />
+    <tag k='ref:FR:Grenoble:Arceaux' v='85' />
+    <tag k='start_date' v='19990101000000' />
+  </node>
+  <node id='-6322' visible='true' lat='45.18791' lon='5.718797'>
+    <tag k='amenity' v='bicycle_parking' />
+    <tag k='bicycle_parking' v='stands' />
+    <tag k='capacity' v='4' />
+    <tag k='ref:FR:Grenoble:Arceaux' v='248' />
+    <tag k='start_date' v='20020101000000' />
+  </node>
+  <node id='-6323' visible='true' lat='45.184162' lon='5.723658'>
+    <tag k='amenity' v='bicycle_parking' />
+    <tag k='bicycle_parking' v='stands' />
+    <tag k='capacity' v='10' />
+    <tag k='ref:FR:Grenoble:Arceaux' v='936' />
+    <tag k='start_date' v='20100101000000' />
+  </node>
+  <node id='-6324' visible='true' lat='45.182341' lon='5.723793'>
+    <tag k='amenity' v='bicycle_parking' />
+    <tag k='bicycle_parking' v='stands' />
+    <tag k='capacity' v='6' />
+    <tag k='ref:FR:Grenoble:Arceaux' v='848' />
+    <tag k='start_date' v='20090101000000' />
+  </node>
+  <node id='-6325' visible='true' lat='45.186001' lon='5.718216'>
+    <tag k='amenity' v='bicycle_parking' />
+    <tag k='bicycle_parking' v='stands' />
+    <tag k='capacity' v='6' />
+    <tag k='ref:FR:Grenoble:Arceaux' v='251' />
+    <tag k='start_date' v='19900101000000' />
+  </node>
+  <node id='-6326' visible='true' lat='45.182214' lon='5.723677'>
+    <tag k='amenity' v='bicycle_parking' />
+    <tag k='bicycle_parking' v='stands' />
+    <tag k='capacity' v='6' />
+    <tag k='ref:FR:Grenoble:Arceaux' v='948' />
+    <tag k='start_date' v='20100101000000' />
+  </node>
+  <node id='-6327' visible='true' lat='45.192602' lon='5.729892'>
+    <tag k='amenity' v='bicycle_parking' />
+    <tag k='bicycle_parking' v='stands' />
+    <tag k='capacity' v='8' />
+    <tag k='ref:FR:Grenoble:Arceaux' v='86' />
+    <tag k='start_date' v='20040101000000' />
+  </node>
+  <node id='-6328' visible='true' lat='45.180468' lon='5.70498'>
+    <tag k='amenity' v='bicycle_parking' />
+    <tag k='bicycle_parking' v='stands' />
+    <tag k='capacity' v='10' />
+    <tag k='ref:FR:Grenoble:Arceaux' v='398' />
+    <tag k='start_date' v='20060101000000' />
+  </node>
+  <node id='-6329' visible='true' lat='45.192832' lon='5.731345'>
+    <tag k='amenity' v='bicycle_parking' />
+    <tag k='bicycle_parking' v='stands' />
+    <tag k='capacity' v='18' />
+    <tag k='ref:FR:Grenoble:Arceaux' v='80' />
+    <tag k='start_date' v='19990101000000' />
+  </node>
+  <node id='-6330' visible='true' lat='45.181759' lon='5.744878'>
+    <tag k='amenity' v='bicycle_parking' />
+    <tag k='bicycle_parking' v='stands' />
+    <tag k='capacity' v='4' />
+    <tag k='ref:FR:Grenoble:Arceaux' v='654' />
+    <tag k='start_date' v='20010101000000' />
+  </node>
+  <node id='-6331' visible='true' lat='45.190353' lon='5.730339'>
+    <tag k='amenity' v='bicycle_parking' />
+    <tag k='bicycle_parking' v='stands' />
+    <tag k='capacity' v='6' />
+    <tag k='ref:FR:Grenoble:Arceaux' v='985' />
+    <tag k='start_date' v='20100101000000' />
+  </node>
+  <node id='-6332' visible='true' lat='45.190817' lon='5.730287'>
+    <tag k='amenity' v='bicycle_parking' />
+    <tag k='bicycle_parking' v='stands' />
+    <tag k='capacity' v='12' />
+    <tag k='ref:FR:Grenoble:Arceaux' v='267' />
+    <tag k='start_date' v='20060101000000' />
+  </node>
+  <node id='-6333' visible='true' lat='45.185894' lon='5.728925'>
+    <tag k='amenity' v='bicycle_parking' />
+    <tag k='bicycle_parking' v='stands' />
+    <tag k='capacity' v='10' />
+    <tag k='ref:FR:Grenoble:Arceaux' v='53' />
+    <tag k='start_date' v='20140917000000' />
+  </node>
+  <node id='-6334' visible='true' lat='45.190324' lon='5.725861'>
+    <tag k='amenity' v='bicycle_parking' />
+    <tag k='bicycle_parking' v='stands' />
+    <tag k='capacity' v='12' />
+    <tag k='ref:FR:Grenoble:Arceaux' v='100' />
+    <tag k='start_date' v='19990101000000' />
+  </node>
+  <node id='-6335' visible='true' lat='45.19085' lon='5.728195'>
+    <tag k='amenity' v='bicycle_parking' />
+    <tag k='bicycle_parking' v='stands' />
+    <tag k='capacity' v='10' />
+    <tag k='ref:FR:Grenoble:Arceaux' v='983' />
+    <tag k='start_date' v='20100101000000' />
+  </node>
+  <node id='-6336' visible='true' lat='45.192512' lon='5.712157'>
+    <tag k='amenity' v='bicycle_parking' />
+    <tag k='bicycle_parking' v='stands' />
+    <tag k='capacity' v='4' />
+    <tag k='ref:FR:Grenoble:Arceaux' v='1044' />
+    <tag k='start_date' v='20120101000000' />
+  </node>
+  <node id='-6337' visible='true' lat='45.188047' lon='5.719761'>
+    <tag k='amenity' v='bicycle_parking' />
+    <tag k='bicycle_parking' v='stands' />
+    <tag k='capacity' v='4' />
+    <tag k='ref:FR:Grenoble:Arceaux' v='1066' />
+    <tag k='start_date' v='20120101000000' />
+  </node>
+  <node id='-6338' visible='true' lat='45.185379' lon='5.705546'>
+    <tag k='amenity' v='bicycle_parking' />
+    <tag k='bicycle_parking' v='stands' />
+    <tag k='capacity' v='6' />
+    <tag k='ref:FR:Grenoble:Arceaux' v='329' />
+    <tag k='start_date' v='20000101000000' />
+  </node>
+  <node id='-6339' visible='true' lat='45.193056' lon='5.727342'>
+    <tag k='amenity' v='bicycle_parking' />
+    <tag k='bicycle_parking' v='stands' />
+    <tag k='capacity' v='14' />
+    <tag k='ref:FR:Grenoble:Arceaux' v='801' />
+    <tag k='start_date' v='20090101000000' />
+  </node>
+  <node id='-6340' visible='true' lat='45.185009' lon='5.713181'>
+    <tag k='amenity' v='bicycle_parking' />
+    <tag k='bicycle_parking' v='stands' />
+    <tag k='capacity' v='6' />
+    <tag k='ref:FR:Grenoble:Arceaux' v='349' />
+    <tag k='start_date' v='20060101000000' />
+  </node>
+  <node id='-6341' visible='true' lat='45.182827' lon='5.724683'>
+    <tag k='amenity' v='bicycle_parking' />
+    <tag k='bicycle_parking' v='stands' />
+    <tag k='capacity' v='14' />
+    <tag k='ref:FR:Grenoble:Arceaux' v='950' />
+    <tag k='start_date' v='20100101000000' />
+  </node>
+  <node id='-6342' visible='true' lat='45.193815' lon='5.725269'>
+    <tag k='amenity' v='bicycle_parking' />
+    <tag k='bicycle_parking' v='stands' />
+    <tag k='capacity' v='20' />
+    <tag k='ref:FR:Grenoble:Arceaux' v='236' />
+    <tag k='start_date' v='19990101000000' />
+  </node>
+  <node id='-6343' visible='true' lat='45.187249' lon='5.712612'>
+    <tag k='amenity' v='bicycle_parking' />
+    <tag k='bicycle_parking' v='stands' />
+    <tag k='capacity' v='6' />
+    <tag k='ref:FR:Grenoble:Arceaux' v='1136' />
+    <tag k='start_date' v='20120101000000' />
+  </node>
+  <node id='-6344' visible='true' lat='45.187238' lon='5.730212'>
+    <tag k='amenity' v='bicycle_parking' />
+    <tag k='bicycle_parking' v='stands' />
+    <tag k='capacity' v='10' />
+    <tag k='ref:FR:Grenoble:Arceaux' v='323' />
+    <tag k='start_date' v='20070101000000' />
+  </node>
+  <node id='-6345' visible='true' lat='45.183547' lon='5.726498'>
+    <tag k='amenity' v='bicycle_parking' />
+    <tag k='bicycle_parking' v='stands' />
+    <tag k='capacity' v='6' />
+    <tag k='ref:FR:Grenoble:Arceaux' v='945' />
+    <tag k='start_date' v='20100101000000' />
+  </node>
+  <node id='-6346' visible='true' lat='45.181695' lon='5.708605'>
+    <tag k='amenity' v='bicycle_parking' />
+    <tag k='bicycle_parking' v='stands' />
+    <tag k='capacity' v='6' />
+    <tag k='ref:FR:Grenoble:Arceaux' v='1028' />
+    <tag k='start_date' v='19900101000000' />
+  </node>
+  <node id='-6347' visible='true' lat='45.190918' lon='5.730307'>
+    <tag k='amenity' v='bicycle_parking' />
+    <tag k='bicycle_parking' v='stands' />
+    <tag k='capacity' v='8' />
+    <tag k='ref:FR:Grenoble:Arceaux' v='266' />
+    <tag k='start_date' v='20060101000000' />
+  </node>
+  <node id='-6348' visible='true' lat='45.187695' lon='5.716439'>
+    <tag k='amenity' v='bicycle_parking' />
+    <tag k='bicycle_parking' v='stands' />
+    <tag k='capacity' v='6' />
+    <tag k='ref:FR:Grenoble:Arceaux' v='294' />
+    <tag k='start_date' v='20070101000000' />
+  </node>
+  <node id='-6349' visible='true' lat='45.186542' lon='5.716682'>
+    <tag k='amenity' v='bicycle_parking' />
+    <tag k='bicycle_parking' v='stands' />
+    <tag k='capacity' v='8' />
+    <tag k='ref:FR:Grenoble:Arceaux' v='1204' />
+    <tag k='start_date' v='20150728000000' />
+  </node>
+  <node id='-6350' visible='true' lat='45.181173' lon='5.712335'>
+    <tag k='amenity' v='bicycle_parking' />
+    <tag k='bicycle_parking' v='stands' />
+    <tag k='capacity' v='10' />
+    <tag k='ref:FR:Grenoble:Arceaux' v='359' />
+    <tag k='start_date' v='20060101000000' />
+  </node>
+  <node id='-6351' visible='true' lat='45.183436' lon='5.704324'>
+    <tag k='amenity' v='bicycle_parking' />
+    <tag k='bicycle_parking' v='stands' />
+    <tag k='capacity' v='6' />
+    <tag k='ref:FR:Grenoble:Arceaux' v='1031' />
+    <tag k='start_date' v='20120101000000' />
+  </node>
+  <node id='-6352' visible='true' lat='45.164723' lon='5.727844'>
+    <tag k='amenity' v='bicycle_parking' />
+    <tag k='bicycle_parking' v='stands' />
+    <tag k='capacity' v='4' />
+    <tag k='ref:FR:Grenoble:Arceaux' v='727' />
+    <tag k='start_date' v='20050101000000' />
+  </node>
+  <node id='-6353' visible='true' lat='45.186053' lon='5.729658'>
+    <tag k='amenity' v='bicycle_parking' />
+    <tag k='bicycle_parking' v='stands' />
+    <tag k='capacity' v='8' />
+    <tag k='ref:FR:Grenoble:Arceaux' v='760' />
+    <tag k='start_date' v='20080101000000' />
+  </node>
+  <node id='-6354' visible='true' lat='45.185014' lon='5.723278'>
+    <tag k='amenity' v='bicycle_parking' />
+    <tag k='bicycle_parking' v='stands' />
+    <tag k='capacity' v='10' />
+    <tag k='ref:FR:Grenoble:Arceaux' v='137' />
+    <tag k='start_date' v='19980101000000' />
+  </node>
+  <node id='-6355' visible='true' lat='45.183898' lon='5.732087'>
+    <tag k='amenity' v='bicycle_parking' />
+    <tag k='bicycle_parking' v='stands' />
+    <tag k='capacity' v='6' />
+    <tag k='ref:FR:Grenoble:Arceaux' v='582' />
+    <tag k='start_date' v='20080101000000' />
+  </node>
+  <node id='-6356' visible='true' lat='45.193835' lon='5.732054'>
+    <tag k='amenity' v='bicycle_parking' />
+    <tag k='bicycle_parking' v='stands' />
+    <tag k='capacity' v='6' />
+    <tag k='ref:FR:Grenoble:Arceaux' v='1077' />
+    <tag k='start_date' v='20120101000000' />
+  </node>
+  <node id='-6357' visible='true' lat='45.183455' lon='5.703514'>
+    <tag k='amenity' v='bicycle_parking' />
+    <tag k='bicycle_parking' v='stands' />
+    <tag k='capacity' v='14' />
+    <tag k='ref:FR:Grenoble:Arceaux' v='859' />
+    <tag k='start_date' v='20100101000000' />
+  </node>
+  <node id='-6358' visible='true' lat='45.175428' lon='5.709373'>
+    <tag k='amenity' v='bicycle_parking' />
+    <tag k='bicycle_parking' v='stands' />
+    <tag k='capacity' v='8' />
+    <tag k='ref:FR:Grenoble:Arceaux' v='779' />
+    <tag k='start_date' v='19980101000000' />
+  </node>
+  <node id='-6359' visible='true' lat='45.181865' lon='5.707702'>
+    <tag k='amenity' v='bicycle_parking' />
+    <tag k='bicycle_parking' v='stands' />
+    <tag k='capacity' v='4' />
+    <tag k='ref:FR:Grenoble:Arceaux' v='441' />
+    <tag k='start_date' v='19930101000000' />
+  </node>
+  <node id='-6360' visible='true' lat='45.193788' lon='5.725034'>
+    <tag k='amenity' v='bicycle_parking' />
+    <tag k='bicycle_parking' v='stands' />
+    <tag k='capacity' v='6' />
+    <tag k='ref:FR:Grenoble:Arceaux' v='237' />
+    <tag k='start_date' v='20010101000000' />
+  </node>
+  <node id='-6361' visible='true' lat='45.192633' lon='5.72903'>
+    <tag k='amenity' v='bicycle_parking' />
+    <tag k='bicycle_parking' v='stands' />
+    <tag k='capacity' v='12' />
+    <tag k='ref:FR:Grenoble:Arceaux' v='92' />
+    <tag k='start_date' v='19990101000000' />
+  </node>
+  <node id='-6362' visible='true' lat='45.186301' lon='5.711617'>
+    <tag k='amenity' v='bicycle_parking' />
+    <tag k='bicycle_parking' v='stands' />
+    <tag k='capacity' v='22' />
+    <tag k='ref:FR:Grenoble:Arceaux' v='338' />
+    <tag k='start_date' v='20040101000000' />
+  </node>
+  <node id='-6363' visible='true' lat='45.19043' lon='5.73484'>
+    <tag k='amenity' v='bicycle_parking' />
+    <tag k='bicycle_parking' v='stands' />
+    <tag k='capacity' v='6' />
+    <tag k='ref:FR:Grenoble:Arceaux' v='66' />
+    <tag k='start_date' v='19900101000000' />
+  </node>
+  <node id='-6364' visible='true' lat='45.183451' lon='5.7216'>
+    <tag k='amenity' v='bicycle_parking' />
+    <tag k='bicycle_parking' v='stands' />
+    <tag k='capacity' v='8' />
+    <tag k='ref:FR:Grenoble:Arceaux' v='940' />
+    <tag k='start_date' v='20100101000000' />
+  </node>
+  <node id='-6365' visible='true' lat='45.185839' lon='5.742487'>
+    <tag k='amenity' v='bicycle_parking' />
+    <tag k='bicycle_parking' v='stands' />
+    <tag k='capacity' v='20' />
+    <tag k='ref:FR:Grenoble:Arceaux' v='624' />
+    <tag k='start_date' v='20080101000000' />
+  </node>
+  <node id='-6366' visible='true' lat='45.173324' lon='5.719218'>
+    <tag k='amenity' v='bicycle_parking' />
+    <tag k='bicycle_parking' v='stands' />
+    <tag k='capacity' v='8' />
+    <tag k='ref:FR:Grenoble:Arceaux' v='1101' />
+    <tag k='start_date' v='20120101000000' />
+  </node>
+  <node id='-6367' visible='true' lat='45.180058' lon='5.715266'>
+    <tag k='amenity' v='bicycle_parking' />
+    <tag k='bicycle_parking' v='stands' />
+    <tag k='capacity' v='6' />
+    <tag k='ref:FR:Grenoble:Arceaux' v='374' />
+    <tag k='start_date' v='20060101000000' />
+  </node>
+  <node id='-6368' visible='true' lat='45.18029' lon='5.711696'>
+    <tag k='amenity' v='bicycle_parking' />
+    <tag k='bicycle_parking' v='stands' />
+    <tag k='capacity' v='4' />
+    <tag k='ref:FR:Grenoble:Arceaux' v='402' />
+    <tag k='start_date' v='20060101000000' />
+  </node>
+  <node id='-6369' visible='true' lat='45.187454' lon='5.738043'>
+    <tag k='amenity' v='bicycle_parking' />
+    <tag k='bicycle_parking' v='stands' />
+    <tag k='capacity' v='12' />
+    <tag k='ref:FR:Grenoble:Arceaux' v='397' />
+    <tag k='start_date' v='20060101000000' />
+  </node>
+  <node id='-6370' visible='true' lat='45.188011' lon='5.720376'>
+    <tag k='amenity' v='bicycle_parking' />
+    <tag k='bicycle_parking' v='stands' />
+    <tag k='capacity' v='6' />
+    <tag k='ref:FR:Grenoble:Arceaux' v='158' />
+    <tag k='start_date' v='20010101000000' />
+  </node>
+  <node id='-6371' visible='true' lat='45.180807' lon='5.719678'>
+    <tag k='amenity' v='bicycle_parking' />
+    <tag k='bicycle_parking' v='stands' />
+    <tag k='capacity' v='10' />
+    <tag k='ref:FR:Grenoble:Arceaux' v='380' />
+    <tag k='start_date' v='20060101000000' />
+  </node>
+  <node id='-6372' visible='true' lat='45.167043' lon='5.712241'>
+    <tag k='amenity' v='bicycle_parking' />
+    <tag k='bicycle_parking' v='stands' />
+    <tag k='capacity' v='4' />
+    <tag k='ref:FR:Grenoble:Arceaux' v='512' />
+    <tag k='start_date' v='19990101000000' />
+  </node>
+  <node id='-6373' visible='true' lat='45.188826' lon='5.739233'>
+    <tag k='amenity' v='bicycle_parking' />
+    <tag k='bicycle_parking' v='stands' />
+    <tag k='capacity' v='22' />
+    <tag k='ref:FR:Grenoble:Arceaux' v='260' />
+    <tag k='start_date' v='19980101000000' />
+  </node>
+  <node id='-6374' visible='true' lat='45.193608' lon='5.712031'>
+    <tag k='amenity' v='bicycle_parking' />
+    <tag k='bicycle_parking' v='stands' />
+    <tag k='capacity' v='6' />
+    <tag k='ref:FR:Grenoble:Arceaux' v='1113' />
+    <tag k='start_date' v='20120101000000' />
+  </node>
+  <node id='-6375' visible='true' lat='45.190492' lon='5.729331'>
+    <tag k='amenity' v='bicycle_parking' />
+    <tag k='bicycle_parking' v='stands' />
+    <tag k='capacity' v='4' />
+    <tag k='ref:FR:Grenoble:Arceaux' v='95' />
+    <tag k='start_date' v='20020101000000' />
+  </node>
+  <node id='-6376' visible='true' lat='45.182073' lon='5.723755'>
+    <tag k='amenity' v='bicycle_parking' />
+    <tag k='bicycle_parking' v='stands' />
+    <tag k='capacity' v='6' />
+    <tag k='ref:FR:Grenoble:Arceaux' v='947' />
+    <tag k='start_date' v='20100101000000' />
+  </node>
+  <node id='-6377' visible='true' lat='45.193068' lon='5.72766'>
+    <tag k='amenity' v='bicycle_parking' />
+    <tag k='bicycle_parking' v='stands' />
+    <tag k='capacity' v='14' />
+    <tag k='ref:FR:Grenoble:Arceaux' v='193' />
+    <tag k='start_date' v='20050101000000' />
+  </node>
+  <node id='-6378' visible='true' lat='45.187241' lon='5.71169'>
+    <tag k='amenity' v='bicycle_parking' />
+    <tag k='bicycle_parking' v='stands' />
+    <tag k='capacity' v='10' />
+    <tag k='ref:FR:Grenoble:Arceaux' v='430' />
+    <tag k='start_date' v='19980101000000' />
+  </node>
+  <node id='-6379' visible='true' lat='45.164723' lon='5.727814'>
+    <tag k='amenity' v='bicycle_parking' />
+    <tag k='bicycle_parking' v='stands' />
+    <tag k='capacity' v='4' />
+    <tag k='ref:FR:Grenoble:Arceaux' v='728' />
+    <tag k='start_date' v='20050101000000' />
+  </node>
+  <node id='-6380' visible='true' lat='45.179938' lon='5.712836'>
+    <tag k='amenity' v='bicycle_parking' />
+    <tag k='bicycle_parking' v='stands' />
+    <tag k='capacity' v='14' />
+    <tag k='ref:FR:Grenoble:Arceaux' v='915' />
+    <tag k='start_date' v='20100101000000' />
+  </node>
+  <node id='-6381' visible='true' lat='45.181548' lon='5.722816'>
+    <tag k='amenity' v='bicycle_parking' />
+    <tag k='bicycle_parking' v='stands' />
+    <tag k='capacity' v='6' />
+    <tag k='ref:FR:Grenoble:Arceaux' v='852' />
+    <tag k='start_date' v='20100101000000' />
+  </node>
+  <node id='-6382' visible='true' lat='45.185804' lon='5.716616'>
+    <tag k='amenity' v='bicycle_parking' />
+    <tag k='bicycle_parking' v='stands' />
+    <tag k='capacity' v='8' />
+    <tag k='ref:FR:Grenoble:Arceaux' v='346' />
+    <tag k='start_date' v='19900101000000' />
+  </node>
+  <node id='-6383' visible='true' lat='45.191803' lon='5.713042'>
+    <tag k='amenity' v='bicycle_parking' />
+    <tag k='bicycle_parking' v='stands' />
+    <tag k='capacity' v='6' />
+    <tag k='ref:FR:Grenoble:Arceaux' v='269' />
+    <tag k='start_date' v='19900101000000' />
+  </node>
+  <node id='-6384' visible='true' lat='45.184132' lon='5.715269'>
+    <tag k='amenity' v='bicycle_parking' />
+    <tag k='bicycle_parking' v='stands' />
+    <tag k='capacity' v='4' />
+    <tag k='ref:FR:Grenoble:Arceaux' v='354' />
+    <tag k='start_date' v='20010101000000' />
+  </node>
+  <node id='-6385' visible='true' lat='45.189417' lon='5.729734'>
+    <tag k='amenity' v='bicycle_parking' />
+    <tag k='bicycle_parking' v='stands' />
+    <tag k='capacity' v='20' />
+    <tag k='ref:FR:Grenoble:Arceaux' v='257' />
+    <tag k='start_date' v='20060101000000' />
+  </node>
+  <node id='-6386' visible='true' lat='45.186404' lon='5.732904'>
+    <tag k='amenity' v='bicycle_parking' />
+    <tag k='bicycle_parking' v='stands' />
+    <tag k='capacity' v='6' />
+    <tag k='ref:FR:Grenoble:Arceaux' v='28' />
+    <tag k='start_date' v='20000101000000' />
+  </node>
+  <node id='-6387' visible='true' lat='45.185078' lon='5.712022'>
+    <tag k='amenity' v='bicycle_parking' />
+    <tag k='bicycle_parking' v='stands' />
+    <tag k='capacity' v='4' />
+    <tag k='ref:FR:Grenoble:Arceaux' v='351' />
+    <tag k='start_date' v='19900101000000' />
+  </node>
+  <node id='-6388' visible='true' lat='45.19059' lon='5.733365'>
+    <tag k='amenity' v='bicycle_parking' />
+    <tag k='bicycle_parking' v='stands' />
+    <tag k='capacity' v='8' />
+    <tag k='ref:FR:Grenoble:Arceaux' v='920' />
+    <tag k='start_date' v='20100101000000' />
+  </node>
+  <node id='-6389' visible='true' lat='45.185096' lon='5.723322'>
+    <tag k='amenity' v='bicycle_parking' />
+    <tag k='bicycle_parking' v='stands' />
+    <tag k='capacity' v='24' />
+    <tag k='ref:FR:Grenoble:Arceaux' v='138' />
+    <tag k='start_date' v='20120101000000' />
+  </node>
+  <node id='-6390' visible='true' lat='45.187016' lon='5.713837'>
+    <tag k='amenity' v='bicycle_parking' />
+    <tag k='bicycle_parking' v='stands' />
+    <tag k='capacity' v='8' />
+    <tag k='ref:FR:Grenoble:Arceaux' v='347' />
+    <tag k='start_date' v='20010101000000' />
+  </node>
+  <node id='-6391' visible='true' lat='45.178255' lon='5.740703'>
+    <tag k='amenity' v='bicycle_parking' />
+    <tag k='bicycle_parking' v='stands' />
+    <tag k='capacity' v='4' />
+    <tag k='ref:FR:Grenoble:Arceaux' v='671' />
+    <tag k='start_date' v='19990101000000' />
+  </node>
+  <node id='-6392' visible='true' lat='45.187499' lon='5.711076'>
+    <tag k='amenity' v='bicycle_parking' />
+    <tag k='bicycle_parking' v='stands' />
+    <tag k='capacity' v='6' />
+    <tag k='ref:FR:Grenoble:Arceaux' v='1022' />
+    <tag k='start_date' v='19900101000000' />
+  </node>
+  <node id='-6393' visible='true' lat='45.189273' lon='5.721411'>
+    <tag k='amenity' v='bicycle_parking' />
+    <tag k='bicycle_parking' v='stands' />
+    <tag k='capacity' v='10' />
+    <tag k='ref:FR:Grenoble:Arceaux' v='154' />
+    <tag k='start_date' v='20020101000000' />
+  </node>
+  <node id='-6394' visible='true' lat='45.164652' lon='5.727849'>
+    <tag k='amenity' v='bicycle_parking' />
+    <tag k='bicycle_parking' v='stands' />
+    <tag k='capacity' v='6' />
+    <tag k='ref:FR:Grenoble:Arceaux' v='802' />
+    <tag k='start_date' v='20090101000000' />
+  </node>
+  <node id='-6395' visible='true' lat='45.185309' lon='5.715467'>
+    <tag k='amenity' v='bicycle_parking' />
+    <tag k='bicycle_parking' v='stands' />
+    <tag k='capacity' v='10' />
+    <tag k='ref:FR:Grenoble:Arceaux' v='344' />
+    <tag k='start_date' v='20120101000000' />
+  </node>
+  <node id='-6396' visible='true' lat='45.192686' lon='5.712399'>
+    <tag k='amenity' v='bicycle_parking' />
+    <tag k='bicycle_parking' v='stands' />
+    <tag k='capacity' v='4' />
+    <tag k='ref:FR:Grenoble:Arceaux' v='409' />
+    <tag k='start_date' v='20060101000000' />
+  </node>
+  <node id='-6397' visible='true' lat='45.187897' lon='5.720346'>
+    <tag k='amenity' v='bicycle_parking' />
+    <tag k='bicycle_parking' v='stands' />
+    <tag k='capacity' v='6' />
+    <tag k='ref:FR:Grenoble:Arceaux' v='157' />
+    <tag k='start_date' v='20010101000000' />
+  </node>
+  <node id='-6398' visible='true' lat='45.180532' lon='5.715419'>
+    <tag k='amenity' v='bicycle_parking' />
+    <tag k='bicycle_parking' v='stands' />
+    <tag k='capacity' v='6' />
+    <tag k='ref:FR:Grenoble:Arceaux' v='403' />
+    <tag k='start_date' v='20060101000000' />
+  </node>
+  <node id='-6399' visible='true' lat='45.179991' lon='5.71328'>
+    <tag k='amenity' v='bicycle_parking' />
+    <tag k='bicycle_parking' v='stands' />
+    <tag k='capacity' v='22' />
+    <tag k='ref:FR:Grenoble:Arceaux' v='916' />
+    <tag k='start_date' v='20100101000000' />
+  </node>
+  <node id='-6400' visible='true' lat='45.186472' lon='5.74354'>
+    <tag k='amenity' v='bicycle_parking' />
+    <tag k='bicycle_parking' v='stands' />
+    <tag k='capacity' v='10' />
+    <tag k='ref:FR:Grenoble:Arceaux' v='6' />
+    <tag k='start_date' v='20060101000000' />
   </node>
 </osm>

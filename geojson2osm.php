@@ -11,9 +11,6 @@
 
 /*---------------------- config -------------------------------------------*/
 
-// input file
-$file='data/Arceaux_EPSG4326.json';
-
 // transcode geojson tags to OSM ones
 $replace_tags=array(
     'MOB_ARCE_ID' => 'ref:FR:Grenoble:Arceaux',
@@ -29,6 +26,14 @@ $add_tags=array(
 );
 
 /*------------------------------------------------------------------------*/
+
+
+if ($argc!=2) {
+    die("Usage {$argv[0]} file.json");
+}
+
+// input file
+$file=$argv[1];
 
 $json = file_get_contents($file);
 if ($json===false) die("Error reading $file \n");
@@ -46,8 +51,9 @@ foreach($result['features'] as $j => $geoinfo) {
     
 }  
 
-$filename="data/". basename($file) . ".osm";
+$filename=dirname($file) . '/' . basename($file) . ".osm";
 save_osm($result,$filename);
+echo "Output file : $filename\n" ;
 
 
 
@@ -92,6 +98,12 @@ function save_osm($geojson,$filename) {
     <tag k='MOB_ARCE_TYP' v='nouveau modèle' />
     <tag k='name' v='46' />
   </node>    
+
+geojson data sample :
+{"type":"Feature",
+ 	"geometry":{"type":"Point","coordinates":[5.72616761182579,45.1865894781128]},
+	"properties":{"MOB_ARCE_ID":46,"MOB_ARCE_NB":1,"MOB_ARCE_TYP":"nouveau modèle","MOB_ARCE_DATECRE":"20010101000000"}}
+
  */
 $out=fopen($filename, 'w');
 if ($out===false) die("Error writing $filename \n");
@@ -108,6 +120,8 @@ foreach($geojson['features'] as $j => $geoinfo) {
         $lon=$coordinates[0];
         fprintf($out,"\t<node id='%d' visible='true' lat='%f' lon='%f'>\n",$id,$lat,$lon);
         foreach ($geoinfo['properties'] as $property => $value) {
+			if ($property=='capacity')
+				$value *= 2;	
             fprintf($out, "\t\t<tag k='%s' v='%s' />\n",$property,$value);     
         }
         fprintf($out,"\t</node>\n");
