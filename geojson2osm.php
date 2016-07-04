@@ -16,7 +16,7 @@ $replace_tags=array(
     'MOB_ARCE_ID' => 'ref',
     'MOB_ARCE_NB' => 'capacity',
     'MOB_ARCE_TYP' => '', // ignored
-    'MOB_ARCE_DATECRE' => 'start_date'  
+    'MOB_ARCE_DATECRE' => '', //'start_date'
 );
 
 // tags to add at each node
