@@ -124,6 +124,8 @@ foreach($geojson['features'] as $j => $geoinfo) {
 				$value *= 2;	
             fprintf($out, "\t\t<tag k='%s' v='%s' />\n",$property,$value);     
         }
+        fprintf($out, "\t\t<tag k=\"operator\" v=\"Grenoble Alpes Métropole\" >\n");
+        fprintf($out, "\t\t<tag k=\"operator:wikidata\" v=\"Q999238\" />\n");
         fprintf($out,"\t</node>\n");
     }
 }  
