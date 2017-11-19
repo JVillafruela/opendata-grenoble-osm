@@ -1,0 +1,255 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='-94039' lat='45.17932919253' lon='5.74761528577'>
+    <tag k='genus' v='Carpinus' />
+    <tag k='natural' v='tree' />
+    <tag k='species' v='betulus' />
+  </node>
+  <node id='-94041' lat='45.17926546735' lon='5.74754661575'>
+    <tag k='genus' v='Platanus' />
+    <tag k='natural' v='tree' />
+    <tag k='species' v='acerifolia' />
+  </node>
+  <node id='-94043' lat='45.17934450496' lon='5.74761516447'>
+    <tag k='genus' v='Carpinus' />
+    <tag k='natural' v='tree' />
+    <tag k='species' v='betulus' />
+  </node>
+  <node id='-94045' lat='45.17956650009' lon='5.74713809664'>
+    <tag k='genus' v='Platanus' />
+    <tag k='natural' v='tree' />
+    <tag k='species' v='acerifolia' />
+  </node>
+  <node id='-94047' lat='45.17930387766' lon='5.74760641748'>
+    <tag k='genus' v='Carpinus' />
+    <tag k='natural' v='tree' />
+    <tag k='species' v='betulus' />
+  </node>
+  <node id='-94049' lat='45.17976825667' lon='5.74712445264'>
+    <tag k='genus' v='Platanus' />
+    <tag k='natural' v='tree' />
+    <tag k='species' v='acerifolia' />
+  </node>
+  <node id='-94051' lat='45.17932882358' lon='5.74760329559'>
+    <tag k='genus' v='Carpinus' />
+    <tag k='natural' v='tree' />
+    <tag k='species' v='betulus' />
+  </node>
+  <node id='-94053' lat='45.17929239967' lon='5.74762318843'>
+    <tag k='genus' v='Carpinus' />
+    <tag k='natural' v='tree' />
+    <tag k='species' v='betulus' />
+  </node>
+  <node id='-94055' lat='45.1793205517' lon='5.74764279097'>
+    <tag k='genus' v='Carpinus' />
+    <tag k='natural' v='tree' />
+    <tag k='species' v='betulus' />
+  </node>
+  <node id='-94057' lat='45.18742849764' lon='5.74568180276'>
+    <tag k='genus' v='Pistacia' />
+    <tag k='natural' v='tree' />
+    <tag k='species' v='chinensis' />
+  </node>
+  <node id='-94059' lat='45.18744594172' lon='5.74559596636'>
+    <tag k='genus' v='Phellodendron' />
+    <tag k='natural' v='tree' />
+    <tag k='species' v='amurense' />
+  </node>
+  <node id='-94061' lat='45.17248477482' lon='5.70634196436'>
+    <tag k='genus' v='Tetradium' />
+    <tag k='natural' v='tree' />
+    <tag k='species' v='danielli' />
+  </node>
+  <node id='-94063' lat='45.1922912755' lon='5.72544366021'>
+    <tag k='genus' v='Celtis' />
+    <tag k='natural' v='tree' />
+    <tag k='species' v='australis' />
+  </node>
+  <node id='-94065' lat='45.19230024905' lon='5.72550966979'>
+    <tag k='genus' v='Celtis' />
+    <tag k='natural' v='tree' />
+    <tag k='species' v='australis' />
+  </node>
+  <node id='-94067' lat='45.19211415549' lon='5.72535245073'>
+    <tag k='genus' v='Carpinus' />
+    <tag k='natural' v='tree' />
+  </node>
+  <node id='-94069' lat='45.18832235795' lon='5.73155970928'>
+    <tag k='genus' v='Platanus' />
+    <tag k='natural' v='tree' />
+    <tag k='species' v='acerifolia' />
+  </node>
+  <node id='-94071' lat='45.18084496844' lon='5.73433275712'>
+    <tag k='genus' v='Betula' />
+    <tag k='natural' v='tree' />
+    <tag k='species' v='verrucosa' />
+  </node>
+  <node id='-94073' lat='45.18706402178' lon='5.70482957253'>
+    <tag k='genus' v='Tilia' />
+    <tag k='natural' v='tree' />
+  </node>
+  <node id='-94075' lat='45.19555407587' lon='5.73193923589'>
+    <tag k='genus' v='Cercis' />
+    <tag k='natural' v='tree' />
+    <tag k='species' v='siliquastrum' />
+  </node>
+  <node id='-94077' lat='45.19557329615' lon='5.73199836905'>
+    <tag k='genus' v='Cercis' />
+    <tag k='natural' v='tree' />
+    <tag k='species' v='siliquastrum' />
+  </node>
+  <node id='-94079' lat='45.19557456276' lon='5.73198486574'>
+    <tag k='genus' v='Cercis' />
+    <tag k='natural' v='tree' />
+    <tag k='species' v='siliquastrum' />
+  </node>
+  <node id='-94081' lat='45.17191880019' lon='5.74533411294'>
+    <tag k='genus' v='Platanus' />
+    <tag k='natural' v='tree' />
+    <tag k='species' v='acerifolia' />
+  </node>
+  <node id='-94083' lat='45.17063095734' lon='5.72691645404'>
+    <tag k='genus' v='Carpinus' />
+    <tag k='natural' v='tree' />
+    <tag k='species' v='betulus' />
+  </node>
+  <node id='-94085' lat='45.17064059322' lon='5.72692922273'>
+    <tag k='genus' v='Carpinus' />
+    <tag k='natural' v='tree' />
+    <tag k='species' v='betulus' />
+  </node>
+  <node id='-94087' lat='45.17062160315' lon='5.72692701972'>
+    <tag k='genus' v='Carpinus' />
+    <tag k='natural' v='tree' />
+    <tag k='species' v='betulus' />
+  </node>
+  <node id='-94089' lat='45.17060992658' lon='5.72694267398'>
+    <tag k='genus' v='Carpinus' />
+    <tag k='natural' v='tree' />
+    <tag k='species' v='betulus' />
+  </node>
+  <node id='-94091' lat='45.17576329171' lon='5.74234654652'>
+    <tag k='genus' v='Paulownia' />
+    <tag k='natural' v='tree' />
+    <tag k='species' v='tomentosa' />
+  </node>
+  <node id='-94093' lat='45.18139286405' lon='5.74809166346'>
+    <tag k='genus' v='Prunus' />
+    <tag k='natural' v='tree' />
+    <tag k='species' v='dulcis' />
+  </node>
+  <node id='-94095' lat='45.17603349274' lon='5.74220603359'>
+    <tag k='genus' v='Paulownia' />
+    <tag k='natural' v='tree' />
+    <tag k='species' v='tomentosa' />
+  </node>
+  <node id='-94097' lat='45.17583115777' lon='5.74231100743'>
+    <tag k='genus' v='Paulownia' />
+    <tag k='natural' v='tree' />
+    <tag k='species' v='tomentosa' />
+  </node>
+  <node id='-94099' lat='45.17596683966' lon='5.74224164388'>
+    <tag k='genus' v='Paulownia' />
+    <tag k='natural' v='tree' />
+    <tag k='species' v='tomentosa' />
+  </node>
+  <node id='-94101' lat='45.17167879078' lon='5.70464870007'>
+    <tag k='genus' v='Prunus' />
+    <tag k='natural' v='tree' />
+    <tag k='species' v='serrulata' />
+  </node>
+  <node id='-94103' lat='45.16498270676' lon='5.72832743459'>
+    <tag k='genus' v='Tilia' />
+    <tag k='natural' v='tree' />
+    <tag k='species' v='tomentosa' />
+  </node>
+  <node id='-94105' lat='45.18948384622' lon='5.72456293763'>
+    <tag k='genus' v='Aesculus' />
+    <tag k='natural' v='tree' />
+  </node>
+  <node id='-94107' lat='45.1609731783' lon='5.7196348682'>
+    <tag k='genus' v='Cupressus' />
+    <tag k='natural' v='tree' />
+    <tag k='species' v='sempervirens' />
+  </node>
+  <node id='-94109' lat='45.18054503973' lon='5.72929422547'>
+    <tag k='genus' v='Gleditsia' />
+    <tag k='natural' v='tree' />
+    <tag k='species' v='triacanthos' />
+  </node>
+  <node id='-94111' lat='45.18057656734' lon='5.72930624922'>
+    <tag k='genus' v='Gleditsia' />
+    <tag k='natural' v='tree' />
+    <tag k='species' v='triacanthos' />
+  </node>
+  <node id='-94113' lat='45.16289512086' lon='5.7205093865'>
+    <tag k='genus' v='Alnus' />
+    <tag k='natural' v='tree' />
+    <tag k='species' v='cordata' />
+  </node>
+  <node id='-94115' lat='45.16291851341' lon='5.72050081757'>
+    <tag k='genus' v='Alnus' />
+    <tag k='natural' v='tree' />
+    <tag k='species' v='cordata' />
+  </node>
+  <node id='-94117' lat='45.16652362055' lon='5.70512931995'>
+    <tag k='genus' v='Picea' />
+    <tag k='natural' v='tree' />
+    <tag k='species' v='abies' />
+  </node>
+  <node id='-94119' lat='45.18627646915' lon='5.74198464298'>
+    <tag k='genus' v='Paulownia' />
+    <tag k='natural' v='tree' />
+    <tag k='species' v='fortunei' />
+  </node>
+  <node id='-94121' lat='45.15956556378' lon='5.73609151887'>
+    <tag k='genus' v='Acer' />
+    <tag k='natural' v='tree' />
+    <tag k='species' v='platanoides' />
+  </node>
+  <node id='-94123' lat='45.19174064304' lon='5.72551433183'>
+    <tag k='genus' v='Koelreuteria' />
+    <tag k='natural' v='tree' />
+    <tag k='species' v='paniculata' />
+  </node>
+  <node id='-94125' lat='45.19170561191' lon='5.71353638541'>
+    <tag k='genus' v='Magnolia' />
+    <tag k='natural' v='tree' />
+    <tag k='species' v='grandiflora' />
+  </node>
+  <node id='-94127' lat='45.19158378226' lon='5.71359445546'>
+    <tag k='genus' v='Magnolia' />
+    <tag k='natural' v='tree' />
+    <tag k='species' v='grandiflora' />
+  </node>
+  <node id='-94129' lat='45.19176663575' lon='5.71350948974'>
+    <tag k='genus' v='Magnolia' />
+    <tag k='natural' v='tree' />
+    <tag k='species' v='grandiflora' />
+  </node>
+  <node id='-94131' lat='45.19182797722' lon='5.71348095689'>
+    <tag k='genus' v='Magnolia' />
+    <tag k='natural' v='tree' />
+    <tag k='species' v='grandiflora' />
+  </node>
+  <node id='-94133' lat='45.19164382092' lon='5.71356489206'>
+    <tag k='genus' v='Magnolia' />
+    <tag k='natural' v='tree' />
+    <tag k='species' v='grandiflora' />
+  </node>
+  <node id='-94135' lat='45.19152284968' lon='5.71362192932'>
+    <tag k='genus' v='Magnolia' />
+    <tag k='natural' v='tree' />
+    <tag k='species' v='grandiflora' />
+  </node>
+  <node id='-94137' lat='45.20501089492' lon='5.69882929909'>
+    <tag k='genus' v='Platanus' />
+    <tag k='natural' v='tree' />
+    <tag k='species' v='acerifolia' />
+  </node>
+  <node id='-94139' lat='45.18838445092' lon='5.72323959598'>
+    <tag k='genus' v='Gleditsia' />
+    <tag k='natural' v='tree' />
+    <tag k='species' v='triacanthos' />
+  </node>
+</osm>
